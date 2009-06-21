@@ -1547,6 +1547,7 @@ validate_expr_stmt(node *tree)
                    || strcmp(s, "/=") == 0
                    || strcmp(s, "//=") == 0
                    || strcmp(s, "%=") == 0
+                   || strcmp(s, "@=") == 0
                    || strcmp(s, "&=") == 0
                    || strcmp(s, "|=") == 0
                    || strcmp(s, "^=") == 0
@@ -2251,7 +2252,8 @@ validate_term(node *tree)
         res = (((TYPE(CHILD(tree, pos)) == STAR)
                || (TYPE(CHILD(tree, pos)) == SLASH)
                || (TYPE(CHILD(tree, pos)) == DOUBLESLASH)
-               || (TYPE(CHILD(tree, pos)) == PERCENT))
+               || (TYPE(CHILD(tree, pos)) == PERCENT)
+               || (TYPE(CHILD(tree, pos)) == AT))
                && validate_factor(CHILD(tree, pos + 1)));
 
     return (res);

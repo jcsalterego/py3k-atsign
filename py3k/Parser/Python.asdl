@@ -93,6 +93,7 @@ module Python version "$Revision: 67616 $"
 
 	operator = Add | Sub | Mult | Div | Mod | Pow | LShift 
                  | RShift | BitOr | BitXor | BitAnd | FloorDiv
+                 | At
 
 	unaryop = Invert | Not | UAdd | USub
 

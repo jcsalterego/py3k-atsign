@@ -1456,6 +1456,16 @@ PyEval_EvalFrameEx(PyFrameObject *f, int throwflag)
 			if (x != NULL) DISPATCH();
 			break;
 
+		TARGET(BINARY_AT)
+			w = POP();
+			v = TOP();
+			x = PyUnicode_FormatPrime(v, w);
+			Py_DECREF(v);
+			Py_DECREF(w);
+			SET_TOP(x);
+			if (x != NULL) DISPATCH();
+			break;
+
 		TARGET(BINARY_ADD)
 			w = POP();
 			v = TOP();
@@ -1611,6 +1621,16 @@ PyEval_EvalFrameEx(PyFrameObject *f, int throwflag)
 			w = POP();
 			v = TOP();
 			x = PyNumber_InPlaceRemainder(v, w);
+			Py_DECREF(v);
+			Py_DECREF(w);
+			SET_TOP(x);
+			if (x != NULL) DISPATCH();
+			break;
+
+		TARGET(INPLACE_AT)
+			w = POP();
+			v = TOP();
+			x = PyUnicode_FormatPrime(v, w);
 			Py_DECREF(v);
 			Py_DECREF(w);
 			SET_TOP(x);

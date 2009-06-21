@@ -64,6 +64,7 @@ extern "C" {
 #define OP		53
 #define ERRORTOKEN	54
 #define N_TOKENS	55
+#define ATEQUAL	56
 
 /* Special definitions for cooperation with parser */
 

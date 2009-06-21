@@ -716,6 +716,7 @@ opcode_stack_effect(int opcode, int oparg)
 		case BINARY_POWER:
 		case BINARY_MULTIPLY:
 		case BINARY_MODULO:
+		case BINARY_AT:
 		case BINARY_ADD:
 		case BINARY_SUBTRACT:
 		case BINARY_SUBSCR:
@@ -730,6 +731,7 @@ opcode_stack_effect(int opcode, int oparg)
 		case INPLACE_SUBTRACT:
 		case INPLACE_MULTIPLY:
 		case INPLACE_MODULO:
+		case INPLACE_AT:
 			return -1;
 		case STORE_SUBSCR:
 			return -3;
@@ -2388,6 +2390,8 @@ binop(struct compiler *c, operator_ty op)
 		return BINARY_TRUE_DIVIDE;
 	case Mod:
 		return BINARY_MODULO;
+	case At:
+		return BINARY_AT;
 	case Pow:
 		return BINARY_POWER;
 	case LShift:
@@ -2452,6 +2456,8 @@ inplace_binop(struct compiler *c, operator_ty op)
 		return INPLACE_TRUE_DIVIDE;
 	case Mod:
 		return INPLACE_MODULO;
+	case At:
+		return INPLACE_AT;
 	case Pow:
 		return INPLACE_POWER;
 	case LShift:

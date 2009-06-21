@@ -228,6 +228,11 @@ result back on the stack.
    Implements ``TOS = TOS1 % TOS``.
 
 
+.. opcode:: BINARY_AT ()
+
+   Implements ``TOS = TOS1 @ TOS``.
+
+
 .. opcode:: BINARY_ADD ()
 
    Implements ``TOS = TOS1 + TOS``.
@@ -297,6 +302,11 @@ the original TOS1.
 .. opcode:: INPLACE_MODULO ()
 
    Implements in-place ``TOS = TOS1 % TOS``.
+
+
+.. opcode:: INPLACE_AT ()
+
+   Implements in-place ``TOS = TOS1 @ TOS``.
 
 
 .. opcode:: INPLACE_ADD ()

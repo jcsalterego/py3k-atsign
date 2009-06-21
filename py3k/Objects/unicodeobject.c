@@ -9067,6 +9067,71 @@ formatchar(Py_UNICODE *buf,
     return -1;
 }
 
+PyObject *
+PyUnicode_FormatPrime(PyObject *format, PyObject *args)
+{
+    Py_ssize_t arglen;
+    PyObject *dict, *last_item, *retval, *tuple;
+    int args_ref = 0, tuple_ref = 0;
+
+    if (format == NULL || args == NULL) {
+        PyErr_BadInternalCall();
+        return NULL;
+    } else if (!PyUnicode_Check(format)) {
+        PyErr_Format(PyExc_TypeError,
+                     "unsupported operand type(s) for %.100s: "
+                     "'%.100s' and '%.100s'",
+                     "@",
+                     format->ob_type->tp_name,
+                     args->ob_type->tp_name);
+        return NULL;
+    }
+
+    /* default values */
+    tuple = args;
+    dict = NULL;
+    
+    if (PyTuple_Check(args)) {
+        arglen = PyTuple_Size(args);
+
+        if (arglen > 1) {
+            /* check for existence of dict at end */
+            last_item = PyTuple_GetItem(args, arglen - 1);
+            
+            if (PyDict_CheckExact(last_item)) {
+                dict = last_item;
+
+                /* clone n - 1 elements of an n-sized tuple...
+                 * does this introduce a memory leak?
+                 */
+                tuple = PyTuple_GetSlice(args, 0, arglen - 1);
+                args_ref = 1;
+            }
+        }
+    }
+    else if (PyDict_Check(args)) {
+        tuple = PyTuple_New(0);
+        if (!tuple)
+            return NULL;
+        dict = args;
+    }
+    else {
+        /* pass as one-length tuple */
+        tuple = PyTuple_New(1);
+        tuple_ref = 1;
+        PyTuple_SetItem(tuple, 0, args);
+        Py_INCREF(args);
+    }
+
+    retval = do_string_format(format, tuple, dict);
+    if (tuple_ref)
+        Py_DECREF(tuple);
+    if (args_ref)
+        Py_DECREF(args);
+    return retval;
+}
+
+
 /* fmt%(v1,v2,...) is roughly equivalent to sprintf(fmt, v1, v2, ...)
    FORMATBUFLEN is the length of the buffer in which chars are formatted.
 */

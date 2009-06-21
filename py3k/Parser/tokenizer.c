@@ -103,7 +103,8 @@ char *_PyParser_TokenNames[] = {
 	/* This table must match the #defines in token.h! */
 	"OP",
 	"<ERRORTOKEN>",
-	"<N_TOKENS>"
+	"<N_TOKENS>",
+	"ATEQUAL"
 };
 
 
@@ -1082,6 +1083,11 @@ PyToken_TwoChars(int c1, int c2)
 	case '%':
 		switch (c2) {
 		case '=':	return PERCENTEQUAL;
+		}
+		break;
+	case '@':
+		switch (c2) {
+		case '=':	return ATEQUAL;
 		}
 		break;
 	case '&':

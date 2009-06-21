@@ -348,6 +348,8 @@ get_operator(const node *n)
             return FloorDiv;
         case PERCENT:
             return Mod;
+        case AT:
+            return At;
         default:
             return (operator_ty)0;
     }
@@ -517,6 +519,8 @@ ast_for_augassign(struct compiling *c, const node *n)
                 return Div;
         case '%':
             return Mod;
+        case '@':
+            return At;
         case '<':
             return LShift;
         case '>':

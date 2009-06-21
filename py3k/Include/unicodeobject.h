@@ -189,6 +189,7 @@ typedef PY_UNICODE_TYPE Py_UNICODE;
 # define PyUnicode_EncodeUnicodeEscape PyUnicodeUCS2_EncodeUnicodeEscape
 # define PyUnicode_Find PyUnicodeUCS2_Find
 # define PyUnicode_Format PyUnicodeUCS2_Format
+# define PyUnicode_FormatPrime PyUnicodeUCS2_FormatPrime
 # define PyUnicode_FromEncodedObject PyUnicodeUCS2_FromEncodedObject
 # define PyUnicode_FromFormat PyUnicodeUCS2_FromFormat
 # define PyUnicode_FromFormatV PyUnicodeUCS2_FromFormatV
@@ -288,6 +289,7 @@ typedef PY_UNICODE_TYPE Py_UNICODE;
 # define PyUnicode_EncodeUnicodeEscape PyUnicodeUCS4_EncodeUnicodeEscape
 # define PyUnicode_Find PyUnicodeUCS4_Find
 # define PyUnicode_Format PyUnicodeUCS4_Format
+# define PyUnicode_FormatPrime PyUnicodeUCS4_FormatPrime
 # define PyUnicode_FromEncodedObject PyUnicodeUCS4_FromEncodedObject
 # define PyUnicode_FromFormat PyUnicodeUCS4_FromFormat
 # define PyUnicode_FromFormatV PyUnicodeUCS4_FromFormatV
@@ -1460,6 +1462,11 @@ PyAPI_FUNC(PyObject *) PyUnicode_RichCompare(
    the resulting Unicode string. */
 
 PyAPI_FUNC(PyObject *) PyUnicode_Format(
+    PyObject *format,		/* Format string */ 
+    PyObject *args		/* Argument tuple or dictionary */
+    );
+
+PyAPI_FUNC(PyObject *) PyUnicode_FormatPrime(
     PyObject *format,		/* Format string */ 
     PyObject *args		/* Argument tuple or dictionary */
     );

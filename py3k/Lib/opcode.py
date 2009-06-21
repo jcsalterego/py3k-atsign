@@ -68,6 +68,8 @@ def_op('BINARY_FLOOR_DIVIDE', 26)
 def_op('BINARY_TRUE_DIVIDE', 27)
 def_op('INPLACE_FLOOR_DIVIDE', 28)
 def_op('INPLACE_TRUE_DIVIDE', 29)
+def_op('BINARY_AT', 30)
+def_op('INPLACE_AT', 31)
 
 def_op('STORE_MAP', 54)
 def_op('INPLACE_ADD', 55)

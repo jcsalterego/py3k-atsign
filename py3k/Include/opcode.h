@@ -33,6 +33,8 @@ extern "C" {
 #define BINARY_TRUE_DIVIDE 27
 #define INPLACE_FLOOR_DIVIDE 28
 #define INPLACE_TRUE_DIVIDE 29
+#define BINARY_AT 30
+#define INPLACE_AT 31
 
 #define STORE_MAP	54
 #define INPLACE_ADD	55
