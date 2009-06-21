@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Demo/tix/bitmaps
 http://svn.python.org/projects
 
@@ -52,19 +52,6 @@ cfcaa296afc6467e68a6eebd2489bf70
 loewis
 has-props
 
-justify.xbm
-file
-
-
-
-
-2009-06-21T03:51:23.000000Z
-fcfe0225e797d70c7fcab8da2a2e4d34
-2001-03-21T07:42:07.000000Z
-19991
-loewis
-has-props
-
 select.xpm
 file
 
@@ -73,6 +60,19 @@ file
 
 2009-06-21T03:51:23.000000Z
 b1ff191f74e3c559c04a6f78b5676f74
+2001-03-21T07:42:07.000000Z
+19991
+loewis
+has-props
+
+justify.xbm
+file
+
+
+
+
+2009-06-21T03:51:23.000000Z
+fcfe0225e797d70c7fcab8da2a2e4d34
 2001-03-21T07:42:07.000000Z
 19991
 loewis
@@ -91,19 +91,6 @@ fe0f696fd5144099beed727aff1649e8
 loewis
 has-props
 
-italic.xbm
-file
-
-
-
-
-2009-06-21T03:51:23.000000Z
-3066cce7f890fab574daec18632197e4
-2001-03-21T07:42:07.000000Z
-19991
-loewis
-has-props
-
 optmenu.xpm
 file
 
@@ -112,6 +99,19 @@ file
 
 2009-06-21T03:51:23.000000Z
 adeb5d278545ec281158281672691b93
+2001-03-21T07:42:07.000000Z
+19991
+loewis
+has-props
+
+italic.xbm
+file
+
+
+
+
+2009-06-21T03:51:23.000000Z
+3066cce7f890fab574daec18632197e4
 2001-03-21T07:42:07.000000Z
 19991
 loewis
@@ -156,19 +156,6 @@ file
 loewis
 has-props
 
-netw.xbm
-file
-
-
-
-
-2009-06-21T03:51:23.000000Z
-67ac239418325e52a736a0dc3f5588e7
-2001-03-21T07:42:07.000000Z
-19991
-loewis
-has-props
-
 capital.xbm
 file
 
@@ -177,6 +164,19 @@ file
 
 2009-06-21T03:51:23.000000Z
 3b87c6123467b285108c9e16a41f805c
+2001-03-21T07:42:07.000000Z
+19991
+loewis
+has-props
+
+netw.xbm
+file
+
+
+
+
+2009-06-21T03:51:23.000000Z
+67ac239418325e52a736a0dc3f5588e7
 2001-03-21T07:42:07.000000Z
 19991
 loewis

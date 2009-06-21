@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Modules/zlib
 http://svn.python.org/projects
 
@@ -245,19 +245,6 @@ file
 tim.peters
 has-props
 
-compress.c
-file
-
-
-
-
-2009-06-21T03:52:24.000000Z
-a66706c3d84e02ecdfecc5c4ce874458
-2006-03-09T01:59:27.068182Z
-42930
-tim.peters
-has-props
-
 example.c
 file
 
@@ -269,6 +256,19 @@ file
 2007-08-16T14:35:24.981189Z
 57097
 skip.montanaro
+has-props
+
+compress.c
+file
+
+
+
+
+2009-06-21T03:52:24.000000Z
+a66706c3d84e02ecdfecc5c4ce874458
+2006-03-09T01:59:27.068182Z
+42930
+tim.peters
 has-props
 
 Makefile

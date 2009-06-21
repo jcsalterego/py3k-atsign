@@ -1,15 +1,15 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Misc
 http://svn.python.org/projects
 
 
 
-2009-06-16T07:43:42.282782Z
-73443
-tarek.ziade
+2009-06-19T20:34:30.798463Z
+73482
+facundo.batista
 has-props
 
 svn:special svn:externals svn:needs-lock
@@ -233,24 +233,11 @@ file
 
 
 
-2009-06-21T03:51:26.000000Z
-4d7139dacfef99fdf357da83f7e414cd
-2009-06-16T07:43:42.282782Z
-73443
-tarek.ziade
-has-props
-
-indent.pro
-file
-
-
-
-
-2009-06-21T03:51:26.000000Z
-e63332cd06ed432d2e36409be955d34e
-1994-09-14T14:06:46.000000Z
-4343
-guido
+2009-06-21T03:57:52.000000Z
+0ede9206fd2a680a680f9abf00625eba
+2009-06-19T20:34:30.798463Z
+73482
+facundo.batista
 has-props
 
 gdbinit
@@ -266,17 +253,17 @@ file
 benjamin.peterson
 has-props
 
-pymemcompat.h
+indent.pro
 file
 
 
 
 
 2009-06-21T03:51:26.000000Z
-3253476d9a4d11ce9bc7519a0392994b
-2002-08-22T13:36:11.000000Z
-28346
-mwh
+e63332cd06ed432d2e36409be955d34e
+1994-09-14T14:06:46.000000Z
+4343
+guido
 has-props
 
 ACKS
@@ -290,6 +277,19 @@ file
 2009-05-29T15:23:17.935699Z
 73015
 martin.v.loewis
+has-props
+
+pymemcompat.h
+file
+
+
+
+
+2009-06-21T03:51:26.000000Z
+3253476d9a4d11ce9bc7519a0392994b
+2002-08-22T13:36:11.000000Z
+28346
+mwh
 has-props
 
 setuid-prog.c

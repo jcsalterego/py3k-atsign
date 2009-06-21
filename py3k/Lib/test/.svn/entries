@@ -1,15 +1,15 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Lib/test
 http://svn.python.org/projects
 
 
 
-2009-06-16T20:54:33.412707Z
-73454
-mark.dickinson
+2009-06-18T22:21:03.121240Z
+73470
+raymond.hettinger
 has-props
 
 svn:special svn:externals svn:needs-lock
@@ -52,19 +52,6 @@ file
 r.david.murray
 has-props
 
-test_extcall.py
-file
-
-
-
-
-2009-06-21T03:52:16.000000Z
-4cb86b63807a337e9d052b3095aa5cb3
-2008-05-20T21:35:26.084733Z
-63512
-benjamin.peterson
-has-props
-
 test_urllib2_localnet.py
 file
 
@@ -76,6 +63,19 @@ file
 2009-05-18T22:32:26.685522Z
 72778
 collin.winter
+has-props
+
+test_extcall.py
+file
+
+
+
+
+2009-06-21T03:52:16.000000Z
+4cb86b63807a337e9d052b3095aa5cb3
+2008-05-20T21:35:26.084733Z
+63512
+benjamin.peterson
 has-props
 
 test_optparse.py
@@ -104,19 +104,6 @@ file
 benjamin.peterson
 has-props
 
-regrtest.py
-file
-
-
-
-
-2009-06-21T03:52:16.000000Z
-c40159b670f71c8385f9dcab11cc86d3
-2009-06-04T09:30:30.712493Z
-73208
-georg.brandl
-has-props
-
 test_codecs.py
 file
 
@@ -130,17 +117,17 @@ file
 martin.v.loewis
 has-props
 
-test_dictviews.py
+regrtest.py
 file
 
 
 
 
 2009-06-21T03:52:16.000000Z
-4d31b0c666a25cfa4fdae0662316b034
-2008-05-20T21:35:26.084733Z
-63512
-benjamin.peterson
+c40159b670f71c8385f9dcab11cc86d3
+2009-06-04T09:30:30.712493Z
+73208
+georg.brandl
 has-props
 
 empty.vbs
@@ -155,6 +142,19 @@ ba0c6b291074ab21ca5c94cebd6cbc77
 45597
 thomas.wouters
 
+test_dictviews.py
+file
+
+
+
+
+2009-06-21T03:52:16.000000Z
+4d31b0c666a25cfa4fdae0662316b034
+2008-05-20T21:35:26.084733Z
+63512
+benjamin.peterson
+has-props
+
 test_robotparser.py
 file
 
@@ -166,19 +166,6 @@ file
 2008-07-31T16:23:04.870881Z
 65331
 benjamin.peterson
-has-props
-
-test_xmlrpc.py
-file
-
-
-
-
-2009-06-21T03:52:16.000000Z
-d894925b57eb8bd9d65914426eee4e76
-2009-06-04T09:11:51.465151Z
-73204
-georg.brandl
 has-props
 
 badsyntax_3131.py
@@ -194,17 +181,17 @@ fa02a650c77b0db4c1f9172c32db5349
 martin.v.loewis
 has-props
 
-test_pickle.py
+test_xmlrpc.py
 file
 
 
 
 
 2009-06-21T03:52:16.000000Z
-805ceeaa775c9e89e8a9a463fcde1fea
-2009-04-16T03:18:06.408066Z
-71638
-collin.winter
+d894925b57eb8bd9d65914426eee4e76
+2009-06-04T09:11:51.465151Z
+73204
+georg.brandl
 has-props
 
 doctest_aliases.py
@@ -218,6 +205,19 @@ a718e1bdc223526b9dfa1c1fa2f99bdc
 2007-02-09T20:13:25.474681Z
 53701
 guido.van.rossum
+has-props
+
+test_pickle.py
+file
+
+
+
+
+2009-06-21T03:52:16.000000Z
+805ceeaa775c9e89e8a9a463fcde1fea
+2009-04-16T03:18:06.408066Z
+71638
+collin.winter
 has-props
 
 test_code.py
@@ -404,19 +404,6 @@ ce18972ef2254a603fde0c026aeb4ccd
 philip.jenvey
 has-props
 
-test_warnings.py
-file
-
-
-
-
-2009-06-21T03:52:16.000000Z
-fe4f67658da3e4ed9534deaaf0820bda
-2009-04-22T16:13:36.750756Z
-71801
-nick.coghlan
-has-props
-
 test_tokenize.py
 file
 
@@ -428,6 +415,19 @@ b94655977c9460d1ac5c926bff71a05b
 2008-12-12T01:25:05.924746Z
 67711
 benjamin.peterson
+has-props
+
+test_warnings.py
+file
+
+
+
+
+2009-06-21T03:52:16.000000Z
+fe4f67658da3e4ed9534deaaf0820bda
+2009-04-22T16:13:36.750756Z
+71801
+nick.coghlan
 has-props
 
 test_tuple.py
@@ -443,19 +443,6 @@ e793b91c5e7f7dbb8b8139217b8c529c
 antoine.pitrou
 has-props
 
-test_descrtut.py
-file
-
-
-
-
-2009-06-21T03:52:16.000000Z
-ca981227a7bff68cb27a0f150d8290be
-2009-02-21T20:59:32.614580Z
-69847
-mark.dickinson
-has-props
-
 regex_tests.py
 file
 
@@ -467,6 +454,19 @@ eb19e0441d0281d415e2a3bec0f7e3b4
 2008-01-05T20:00:55.587462Z
 59746
 georg.brandl
+has-props
+
+test_descrtut.py
+file
+
+
+
+
+2009-06-21T03:52:16.000000Z
+ca981227a7bff68cb27a0f150d8290be
+2009-02-21T20:59:32.614580Z
+69847
+mark.dickinson
 has-props
 
 test__locale.py
@@ -495,19 +495,6 @@ file
 benjamin.peterson
 has-props
 
-pydocfodder.py
-file
-
-
-
-
-2009-06-21T03:52:16.000000Z
-5eb044c3c744334f7afd63bc1661460e
-2008-01-23T08:24:23.801287Z
-60210
-christian.heimes
-has-props
-
 test_cmd.py
 file
 
@@ -521,17 +508,17 @@ ada8e4a8c3316fd43efbe9dcdb9a54f7
 martin.v.loewis
 has-props
 
-test_io.py
+pydocfodder.py
 file
 
 
 
 
 2009-06-21T03:52:16.000000Z
-664adc6c8c08e980df76bfd3259f8617
-2009-06-06T18:02:12.326509Z
-73259
-benjamin.peterson
+5eb044c3c744334f7afd63bc1661460e
+2008-01-23T08:24:23.801287Z
+60210
+christian.heimes
 has-props
 
 test_ctypes.py
@@ -545,6 +532,19 @@ e371d7c0d727806fa004ecf5ff6303af
 2009-03-31T23:16:50.918494Z
 70929
 r.david.murray
+has-props
+
+test_io.py
+file
+
+
+
+
+2009-06-21T03:57:52.000000Z
+2a5329f3043b7397f86e3f6524c7fdb5
+2009-06-18T00:07:14.503279Z
+73469
+hirokazu.yamamoto
 has-props
 
 test_smtplib.py
@@ -586,19 +586,6 @@ a7b4c4820dab17e7d66f45744a0a1b5e
 benjamin.peterson
 has-props
 
-test_importhooks.py
-file
-
-
-
-
-2009-06-21T03:52:17.000000Z
-ca2c9edb783f57b9e02ef303a11004f4
-2008-07-20T23:21:49.529003Z
-65164
-georg.brandl
-has-props
-
 test_tk.py
 file
 
@@ -610,6 +597,19 @@ file
 2009-04-01T16:39:21.816277Z
 70959
 r.david.murray
+has-props
+
+test_importhooks.py
+file
+
+
+
+
+2009-06-21T03:52:17.000000Z
+ca2c9edb783f57b9e02ef303a11004f4
+2008-07-20T23:21:49.529003Z
+65164
+georg.brandl
 has-props
 
 test_traceback.py
@@ -638,19 +638,6 @@ file
 benjamin.peterson
 has-props
 
-test_dict.py
-file
-
-
-
-
-2009-06-21T03:52:17.000000Z
-aeab6552454985a07f6cd32845e8cdd0
-2009-03-23T18:52:06.137717Z
-70549
-antoine.pitrou
-has-props
-
 test_asyncore.py
 file
 
@@ -662,6 +649,19 @@ file
 2009-04-13T01:22:04.052624Z
 71556
 r.david.murray
+has-props
+
+test_dict.py
+file
+
+
+
+
+2009-06-21T03:52:17.000000Z
+aeab6552454985a07f6cd32845e8cdd0
+2009-03-23T18:52:06.137717Z
+70549
+antoine.pitrou
 has-props
 
 test_ucn.py
@@ -728,19 +728,6 @@ file
 benjamin.peterson
 has-props
 
-test_descr.py
-file
-
-
-
-
-2009-06-21T03:52:17.000000Z
-e01d0253a238d3af2722746416470382
-2009-05-27T03:08:59.152521Z
-72959
-benjamin.peterson
-has-props
-
 keycert.pem
 file
 
@@ -754,17 +741,17 @@ file
 thomas.wouters
 has-props
 
-test_crypt.py
+test_descr.py
 file
 
 
 
 
 2009-06-21T03:52:17.000000Z
-c89ef2bce40aa017b4044ec36abdd9b4
-2009-03-31T23:16:50.918494Z
-70929
-r.david.murray
+e01d0253a238d3af2722746416470382
+2009-05-27T03:08:59.152521Z
+72959
+benjamin.peterson
 has-props
 
 test_ssl.py
@@ -778,6 +765,19 @@ file
 2009-03-28T21:42:05.958144Z
 70662
 benjamin.peterson
+has-props
+
+test_crypt.py
+file
+
+
+
+
+2009-06-21T03:52:17.000000Z
+c89ef2bce40aa017b4044ec36abdd9b4
+2009-03-31T23:16:50.918494Z
+70929
+r.david.murray
 has-props
 
 test_frozen.py
@@ -806,19 +806,6 @@ file
 benjamin.peterson
 has-props
 
-test_winsound.py
-file
-
-
-
-
-2009-06-21T03:52:17.000000Z
-f3b18fbaf131734662a0cfb6a08f832a
-2009-03-31T23:16:50.918494Z
-70929
-r.david.murray
-has-props
-
 test_threadedtempfile.py
 file
 
@@ -830,6 +817,19 @@ file
 2008-09-05T00:43:33.880351Z
 66228
 benjamin.peterson
+has-props
+
+test_winsound.py
+file
+
+
+
+
+2009-06-21T03:52:17.000000Z
+f3b18fbaf131734662a0cfb6a08f832a
+2009-03-31T23:16:50.918494Z
+70929
+r.david.murray
 has-props
 
 test_complex.py
@@ -1844,19 +1844,6 @@ file
 martin.v.loewis
 has-props
 
-test_heapq.py
-file
-
-
-
-
-2009-06-21T03:52:17.000000Z
-1a66161de87bf439953404cf83c03a91
-2009-04-22T16:13:36.750756Z
-71801
-nick.coghlan
-has-props
-
 test_super.py
 file
 
@@ -1868,6 +1855,19 @@ a591e8699a0f9d9bac7d408ba3df54d8
 2008-11-20T20:01:57.969408Z
 67299
 barry.warsaw
+has-props
+
+test_heapq.py
+file
+
+
+
+
+2009-06-21T03:52:17.000000Z
+1a66161de87bf439953404cf83c03a91
+2009-04-22T16:13:36.750756Z
+71801
+nick.coghlan
 has-props
 
 test_long.py
@@ -1896,19 +1896,6 @@ b9cc06a64227eb86b0eb109733c990d0
 antoine.pitrou
 has-props
 
-test_dbm.py
-file
-
-
-
-
-2009-06-21T03:52:17.000000Z
-210a5fc0aa674ea28d8cf75e7d3cf2cb
-2009-03-31T23:16:50.918494Z
-70929
-r.david.murray
-has-props
-
 test_typechecks.py
 file
 
@@ -1920,6 +1907,19 @@ file
 2008-08-26T22:40:48.374606Z
 66042
 antoine.pitrou
+has-props
+
+test_dbm.py
+file
+
+
+
+
+2009-06-21T03:52:17.000000Z
+210a5fc0aa674ea28d8cf75e7d3cf2cb
+2009-03-31T23:16:50.918494Z
+70929
+r.david.murray
 has-props
 
 test_cprofile.py
@@ -1960,19 +1960,6 @@ file
 55005
 guido.van.rossum
 
-test_gzip.py
-file
-
-
-
-
-2009-06-21T03:52:17.000000Z
-55b47471815c353b364a307871403499
-2009-01-10T16:22:51.783418Z
-68486
-antoine.pitrou
-has-props
-
 test_charmapcodec.py
 file
 
@@ -1986,17 +1973,17 @@ file
 benjamin.peterson
 has-props
 
-test_future.py
+test_gzip.py
 file
 
 
 
 
 2009-06-21T03:52:17.000000Z
-2adc911a33578f23c239639d971d625c
-2008-10-31T02:28:05.716351Z
-67068
-benjamin.peterson
+55b47471815c353b364a307871403499
+2009-01-10T16:22:51.783418Z
+68486
+antoine.pitrou
 has-props
 
 test_cmd_line.py
@@ -2012,16 +1999,16 @@ edbd9a546c9c158efa1faa8931da6aca
 amaury.forgeotdarc
 has-props
 
-test_longexp.py
+test_future.py
 file
 
 
 
 
 2009-06-21T03:52:17.000000Z
-50dcbd40e48e7243691f79482d321a95
-2008-05-20T21:35:26.084733Z
-63512
+2adc911a33578f23c239639d971d625c
+2008-10-31T02:28:05.716351Z
+67068
 benjamin.peterson
 has-props
 
@@ -2038,14 +2025,14 @@ b239e6827bd1dfbd1f7570965ffd1903
 jack.diederich
 has-props
 
-test_colorsys.py
+test_longexp.py
 file
 
 
 
 
 2009-06-21T03:52:17.000000Z
-4bd949b1dfdc445fd4f9554bef78e3b1
+50dcbd40e48e7243691f79482d321a95
 2008-05-20T21:35:26.084733Z
 63512
 benjamin.peterson
@@ -2064,6 +2051,19 @@ file
 benjamin.peterson
 has-props
 
+test_colorsys.py
+file
+
+
+
+
+2009-06-21T03:52:17.000000Z
+4bd949b1dfdc445fd4f9554bef78e3b1
+2008-05-20T21:35:26.084733Z
+63512
+benjamin.peterson
+has-props
+
 test_pstats.py
 file
 
@@ -2077,19 +2077,6 @@ file
 martin.v.loewis
 has-props
 
-test_os.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-3f293709747a113d91764134f4c14d96
-2009-06-01T22:42:33.991792Z
-73125
-benjamin.peterson
-has-props
-
 test_unpack.py
 file
 
@@ -2100,6 +2087,19 @@ file
 12cc31a6aeac429a0fc8dcbc997a5fec
 2008-05-20T21:35:26.084733Z
 63512
+benjamin.peterson
+has-props
+
+test_os.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+3f293709747a113d91764134f4c14d96
+2009-06-01T22:42:33.991792Z
+73125
 benjamin.peterson
 has-props
 
@@ -2129,17 +2129,17 @@ file
 benjamin.peterson
 has-props
 
-test_compare.py
+test_tarfile.py
 file
 
 
 
 
 2009-06-21T03:52:18.000000Z
-4089caff761ba7b8eda56c893c097293
-2008-05-20T21:35:26.084733Z
-63512
-benjamin.peterson
+313b08780a9f0f8fb638643db61d1b70
+2009-03-22T20:34:29.447996Z
+70525
+lars.gustaebel
 has-props
 
 test_syntax.py
@@ -2155,30 +2155,30 @@ eba8c39ef574f051514efcc0ec8bd9cf
 benjamin.peterson
 has-props
 
-test_tarfile.py
+test_compare.py
 file
 
 
 
 
 2009-06-21T03:52:18.000000Z
-313b08780a9f0f8fb638643db61d1b70
-2009-03-22T20:34:29.447996Z
-70525
-lars.gustaebel
+4089caff761ba7b8eda56c893c097293
+2008-05-20T21:35:26.084733Z
+63512
+benjamin.peterson
 has-props
 
-test_fractions.py
+test_wait4.py
 file
 
 
 
 
 2009-06-21T03:52:18.000000Z
-f4c686e6846cd37612e506b713313dd0
-2009-04-24T14:06:19.265114Z
-71834
-mark.dickinson
+b9902b1d8c16920a86f7c11d97d4f9bf
+2009-03-31T23:50:31.199715Z
+70932
+r.david.murray
 has-props
 
 test_compile.py
@@ -2194,17 +2194,17 @@ d80c903167c21ca42de614486836294f
 benjamin.peterson
 has-props
 
-test_wait4.py
+test_fractions.py
 file
 
 
 
 
 2009-06-21T03:52:18.000000Z
-b9902b1d8c16920a86f7c11d97d4f9bf
-2009-03-31T23:50:31.199715Z
-70932
-r.david.murray
+f4c686e6846cd37612e506b713313dd0
+2009-04-24T14:06:19.265114Z
+71834
+mark.dickinson
 has-props
 
 test_nis.py
@@ -2246,19 +2246,6 @@ file
 benjamin.peterson
 has-props
 
-list_tests.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-712aac6d161be7da7080e716b7efdb12
-2009-01-27T18:17:45.885731Z
-69025
-mark.dickinson
-has-props
-
 test_openpty.py
 file
 
@@ -2270,6 +2257,19 @@ file
 2009-03-28T21:42:05.958144Z
 70662
 benjamin.peterson
+has-props
+
+list_tests.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+712aac6d161be7da7080e716b7efdb12
+2009-01-27T18:17:45.885731Z
+69025
+mark.dickinson
 has-props
 
 test_audioop.py
@@ -2324,6 +2324,18 @@ file
 jeremy.hylton
 has-props
 
+test_urllib_response.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+df2b5ee1ec66f07b54777ec8f58d3647
+2009-03-26T21:34:20.965951Z
+70625
+jeremy.hylton
+
 test_thread.py
 file
 
@@ -2336,18 +2348,6 @@ file
 63631
 georg.brandl
 has-props
-
-test_urllib_response.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-df2b5ee1ec66f07b54777ec8f58d3647
-2009-03-26T21:34:20.965951Z
-70625
-jeremy.hylton
 
 test_json.py
 file
@@ -2375,17 +2375,17 @@ file
 benjamin.peterson
 has-props
 
-test_mimetypes.py
+zipdir.zip
 file
 
 
 
 
 2009-06-21T03:52:18.000000Z
-2f06d8cdd9dc283942435a427a920621
-2008-05-20T21:35:26.084733Z
-63512
-benjamin.peterson
+cafb05d8c8640330d6405fde07e3a6c0
+2009-01-24T14:10:07.058008Z
+68887
+martin.v.loewis
 has-props
 
 test_capi.py
@@ -2401,17 +2401,17 @@ file
 martin.v.loewis
 has-props
 
-zipdir.zip
+test_mimetypes.py
 file
 
 
 
 
 2009-06-21T03:52:18.000000Z
-cafb05d8c8640330d6405fde07e3a6c0
-2009-01-24T14:10:07.058008Z
-68887
-martin.v.loewis
+2f06d8cdd9dc283942435a427a920621
+2008-05-20T21:35:26.084733Z
+63512
+benjamin.peterson
 has-props
 
 badsyntax_future5.py
@@ -2440,19 +2440,6 @@ file
 r.david.murray
 has-props
 
-test_keywordonlyarg.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-fdd473db734bc1cdf5725441761d6aa9
-2008-08-19T20:57:10.760884Z
-65877
-benjamin.peterson
-has-props
-
 outstanding_bugs.py
 file
 
@@ -2466,16 +2453,16 @@ file
 benjamin.peterson
 has-props
 
-test_pep247.py
+test_keywordonlyarg.py
 file
 
 
 
 
 2009-06-21T03:52:18.000000Z
-ddbac87adabf03d937a8f109ab1f7a4c
-2008-05-20T21:35:26.084733Z
-63512
+fdd473db734bc1cdf5725441761d6aa9
+2008-08-19T20:57:10.760884Z
+65877
 benjamin.peterson
 has-props
 
@@ -2490,6 +2477,19 @@ a025a19f16580a58611a1b0c2cf16452
 2007-11-12T01:13:56.181819Z
 58934
 guido.van.rossum
+has-props
+
+test_pep247.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+ddbac87adabf03d937a8f109ab1f7a4c
+2008-05-20T21:35:26.084733Z
+63512
+benjamin.peterson
 has-props
 
 test_tcl.py
@@ -2570,19 +2570,6 @@ file
 raymond.hettinger
 has-props
 
-test_future2.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-995e7148194a322a0cb606ddff805c5e
-2007-04-17T08:48:32.195193Z
-54854
-neal.norwitz
-has-props
-
 test_cmath.py
 file
 
@@ -2596,17 +2583,17 @@ file
 mark.dickinson
 has-props
 
-test_abstract_numbers.py
+test_future2.py
 file
 
 
 
 
 2009-06-21T03:52:18.000000Z
-f6c269df5fc0f4392b9522dad7a775e9
-2008-05-20T21:35:26.084733Z
-63512
-benjamin.peterson
+995e7148194a322a0cb606ddff805c5e
+2007-04-17T08:48:32.195193Z
+54854
+neal.norwitz
 has-props
 
 test_unary.py
@@ -2617,6 +2604,19 @@ file
 
 2009-06-21T03:52:18.000000Z
 aa3e6a4a38fbcf7ed9e06a7a347a3ac6
+2008-05-20T21:35:26.084733Z
+63512
+benjamin.peterson
+has-props
+
+test_abstract_numbers.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+f6c269df5fc0f4392b9522dad7a775e9
 2008-05-20T21:35:26.084733Z
 63512
 benjamin.peterson
@@ -2755,19 +2755,6 @@ e3cae73a4b65749f3651d45a9ee6aa1b
 benjamin.peterson
 has-props
 
-test_socketserver.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-16056c2755fc8aab18544873c324742c
-2009-03-28T21:42:05.958144Z
-70662
-benjamin.peterson
-has-props
-
 tokenize_tests-latin1-coding-cookie-and-utf8-bom-sig.txt
 file
 
@@ -2779,6 +2766,19 @@ bb63896dcfce556d7e5856cd34bd5a38
 2008-06-13T23:34:35.022460Z
 64259
 martin.v.loewis
+has-props
+
+test_socketserver.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+16056c2755fc8aab18544873c324742c
+2009-03-28T21:42:05.958144Z
+70662
+benjamin.peterson
 has-props
 
 test_SimpleHTTPServer.py
@@ -2807,19 +2807,6 @@ file
 jeffrey.yasskin
 has-props
 
-test_xdrlib.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-62c4a655b84fc246dae8f745de1100ff
-2008-05-20T21:35:26.084733Z
-63512
-benjamin.peterson
-has-props
-
 xmltests.py
 file
 
@@ -2833,17 +2820,17 @@ e48e2703ea70e953811f16a4c33baf9d
 benjamin.peterson
 has-props
 
-test_abc.py
+test_xdrlib.py
 file
 
 
 
 
 2009-06-21T03:52:18.000000Z
-3c97b771a2854a6260473a1f1e718417
-2008-08-26T22:40:48.374606Z
-66042
-antoine.pitrou
+62c4a655b84fc246dae8f745de1100ff
+2008-05-20T21:35:26.084733Z
+63512
+benjamin.peterson
 has-props
 
 test_ossaudiodev.py
@@ -2859,6 +2846,19 @@ fb0a05a3402006a9f28b5478209cbf49
 r.david.murray
 has-props
 
+test_abc.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+3c97b771a2854a6260473a1f1e718417
+2008-08-26T22:40:48.374606Z
+66042
+antoine.pitrou
+has-props
+
 test_zipimport_support.py
 file
 
@@ -2872,19 +2872,6 @@ ffd289378565e7e616f24b63673cab25
 nick.coghlan
 has-props
 
-test_mmap.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-be4a91b368b9ba85a1cef8436cff914d
-2009-04-11T19:48:14.862383Z
-71495
-benjamin.peterson
-has-props
-
 test_pyexpat.py
 file
 
@@ -2896,6 +2883,19 @@ c8b0e213e51002b52fd9f2d1684742dc
 2008-06-11T18:37:52.463586Z
 64138
 georg.brandl
+has-props
+
+test_mmap.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+be4a91b368b9ba85a1cef8436cff914d
+2009-04-11T19:48:14.862383Z
+71495
+benjamin.peterson
 has-props
 
 test_winreg.py
@@ -2924,6 +2924,19 @@ file
 r.david.murray
 has-props
 
+test_structseq.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+181e11e2c8f35f22a60b6b65714128d4
+2008-05-20T21:35:26.084733Z
+63512
+benjamin.peterson
+has-props
+
 test_stringprep.py
 file
 
@@ -2937,14 +2950,14 @@ file
 benjamin.peterson
 has-props
 
-test_structseq.py
+test_reprlib.py
 file
 
 
 
 
 2009-06-21T03:52:18.000000Z
-181e11e2c8f35f22a60b6b65714128d4
+1a1cccc594b2deac0cae177a5752bd6a
 2008-05-20T21:35:26.084733Z
 63512
 benjamin.peterson
@@ -2963,19 +2976,6 @@ file
 r.david.murray
 has-props
 
-test_reprlib.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-1a1cccc594b2deac0cae177a5752bd6a
-2008-05-20T21:35:26.084733Z
-63512
-benjamin.peterson
-has-props
-
 __init__.py
 file
 
@@ -2989,18 +2989,6 @@ file
 guido
 has-props
 
-test_aifc.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-423cfd0fd462af2803634d1cc2a47611
-2009-05-08T20:42:26.092123Z
-72477
-benjamin.peterson
-
 test_cgi.py
 file
 
@@ -3013,6 +3001,18 @@ c1203551c24ed73d0c1a47ea178d8665
 67534
 fred.drake
 has-props
+
+test_aifc.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+423cfd0fd462af2803634d1cc2a47611
+2009-05-08T20:42:26.092123Z
+72477
+benjamin.peterson
 
 test_codecencodings_kr.py
 file
@@ -3066,19 +3066,6 @@ file
 martin.v.loewis
 has-props
 
-test_copyreg.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-6edec2d802fa4dc4cad5a4f1834cdead
-2008-06-13T22:53:14.608059Z
-64258
-martin.v.loewis
-has-props
-
 test_codecmaps_tw.py
 file
 
@@ -3090,6 +3077,19 @@ file
 2008-05-20T21:35:26.084733Z
 63512
 benjamin.peterson
+has-props
+
+test_copyreg.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+6edec2d802fa4dc4cad5a4f1834cdead
+2008-06-13T22:53:14.608059Z
+64258
+martin.v.loewis
 has-props
 
 test_scope.py
@@ -3124,24 +3124,11 @@ file
 
 
 
-2009-06-21T03:52:18.000000Z
-a05634526cd9d5a47163a1acabc369d1
-2009-06-04T00:11:54.694875Z
-73191
+2009-06-21T03:57:52.000000Z
+79b04cb19e1f32eeabd223c879130b83
+2009-06-18T22:21:03.121240Z
+73470
 raymond.hettinger
-has-props
-
-test_codecmaps_cn.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-30fb97a661d2c99bda6a789884872eae
-2008-05-20T21:35:26.084733Z
-63512
-benjamin.peterson
 has-props
 
 test_textwrap.py
@@ -3155,6 +3142,19 @@ ba184f99a8d49b120f2cecda8039d174
 2008-12-13T23:20:54.829150Z
 67747
 antoine.pitrou
+has-props
+
+test_codecmaps_cn.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+30fb97a661d2c99bda6a789884872eae
+2008-05-20T21:35:26.084733Z
+63512
+benjamin.peterson
 has-props
 
 test_unicodedata.py
@@ -3209,19 +3209,6 @@ f651826abc2a3276fe233b9f619bc8af
 christian.heimes
 has-props
 
-test_marshal.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-3a37d0b1e57bb824df13b1bd5009c562
-2008-05-26T21:41:42.705199Z
-63731
-amaury.forgeotdarc
-has-props
-
 curses_tests.py
 file
 
@@ -3233,6 +3220,19 @@ file
 2008-06-13T22:53:14.608059Z
 64258
 martin.v.loewis
+has-props
+
+test_marshal.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+3a37d0b1e57bb824df13b1bd5009c562
+2008-05-26T21:41:42.705199Z
+63731
+amaury.forgeotdarc
 has-props
 
 test_bz2.py
@@ -3248,18 +3248,8 @@ file
 r.david.murray
 has-props
 
-test_memoryio.py
-file
-
-
-
-
-2009-06-21T03:52:18.000000Z
-c9eb895c0c240527ecf928020e820925
-2009-06-06T18:02:12.326509Z
-73259
-benjamin.peterson
-has-props
+leakers
+dir
 
 test_urllibnet.py
 file
@@ -3274,8 +3264,18 @@ file
 antoine.pitrou
 has-props
 
-leakers
-dir
+test_memoryio.py
+file
+
+
+
+
+2009-06-21T03:52:18.000000Z
+c9eb895c0c240527ecf928020e820925
+2009-06-06T18:02:12.326509Z
+73259
+benjamin.peterson
+has-props
 
 cmath_testcases.txt
 file

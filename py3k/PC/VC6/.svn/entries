@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/PC/VC6
 http://svn.python.org/projects
 
@@ -26,17 +26,17 @@ svn:special svn:externals svn:needs-lock
 
 6015fed2-1504-0410-9fe1-9d1591cc4771
 
-pyexpat.dsp
+tcl852.patch
 file
 
 
 
 
 2009-06-21T03:51:36.000000Z
-e8a633dbfab24dfced6604dbc52362b0
-2006-12-13T04:49:30.013082Z
-53017
-thomas.wouters
+a5c2508714806e4baa4774e361a735cd
+2009-02-10T14:27:19.105026Z
+69497
+hirokazu.yamamoto
 has-props
 
 pythoncore.dsp
@@ -52,17 +52,17 @@ b3b5a252265baa0791fd52cd14f50ecc
 hirokazu.yamamoto
 has-props
 
-tcl852.patch
+pyexpat.dsp
 file
 
 
 
 
 2009-06-21T03:51:36.000000Z
-a5c2508714806e4baa4774e361a735cd
-2009-02-10T14:27:19.105026Z
-69497
-hirokazu.yamamoto
+e8a633dbfab24dfced6604dbc52362b0
+2006-12-13T04:49:30.013082Z
+53017
+thomas.wouters
 has-props
 
 rmpyc.py
@@ -130,19 +130,6 @@ file
 hirokazu.yamamoto
 has-props
 
-_ctypes_test.dsp
-file
-
-
-
-
-2009-06-21T03:51:36.000000Z
-68f994dfcb8de1c942f329f058a8f8a9
-2006-12-13T04:49:30.013082Z
-53017
-thomas.wouters
-has-props
-
 rt.bat
 file
 
@@ -156,14 +143,14 @@ aed72a46cb4f48635b1fcc1970eab479
 georg.brandl
 has-props
 
-_ctypes.dsp
+_ctypes_test.dsp
 file
 
 
 
 
 2009-06-21T03:51:36.000000Z
-ad9ddc1fc19d7c88a039df5eea816a65
+68f994dfcb8de1c942f329f058a8f8a9
 2006-12-13T04:49:30.013082Z
 53017
 thomas.wouters
@@ -182,14 +169,14 @@ file
 thomas.wouters
 has-props
 
-_elementtree.dsp
+_ctypes.dsp
 file
 
 
 
 
 2009-06-21T03:51:36.000000Z
-caa4b5aea45a7ac69c235dbd2be53fc0
+ad9ddc1fc19d7c88a039df5eea816a65
 2006-12-13T04:49:30.013082Z
 53017
 thomas.wouters
@@ -203,6 +190,19 @@ file
 
 2009-06-21T03:51:36.000000Z
 c2ec6169609bad9e7df3d16ed0529879
+2006-12-13T04:49:30.013082Z
+53017
+thomas.wouters
+has-props
+
+_elementtree.dsp
+file
+
+
+
+
+2009-06-21T03:51:36.000000Z
+caa4b5aea45a7ac69c235dbd2be53fc0
 2006-12-13T04:49:30.013082Z
 53017
 thomas.wouters

@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/projects/!svn/ver/73454/python/branches/py3k/Lib
+/projects/!svn/ver/73482/python/branches/py3k/Lib
 END
 fractions.py
 K 25
@@ -87,17 +87,17 @@ svn:wc:ra_dav:version-url
 V 62
 /projects/!svn/ver/73290/python/branches/py3k/Lib/mimetypes.py
 END
-token.py
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/projects/!svn/ver/61083/python/branches/py3k/Lib/token.py
-END
 pipes.py
 K 25
 svn:wc:ra_dav:version-url
 V 58
 /projects/!svn/ver/57773/python/branches/py3k/Lib/pipes.py
+END
+token.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/61083/python/branches/py3k/Lib/token.py
 END
 os.py
 K 25
@@ -105,17 +105,17 @@ svn:wc:ra_dav:version-url
 V 55
 /projects/!svn/ver/73377/python/branches/py3k/Lib/os.py
 END
-configparser.py
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/projects/!svn/ver/72026/python/branches/py3k/Lib/configparser.py
-END
 sndhdr.py
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /projects/!svn/ver/56987/python/branches/py3k/Lib/sndhdr.py
+END
+configparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/72026/python/branches/py3k/Lib/configparser.py
 END
 smtpd.py
 K 25
@@ -147,29 +147,29 @@ svn:wc:ra_dav:version-url
 V 62
 /projects/!svn/ver/71261/python/branches/py3k/Lib/threading.py
 END
-uuid.py
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/projects/!svn/ver/67345/python/branches/py3k/Lib/uuid.py
-END
 getpass.py
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /projects/!svn/ver/62716/python/branches/py3k/Lib/getpass.py
 END
-tabnanny.py
+uuid.py
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/projects/!svn/ver/56849/python/branches/py3k/Lib/tabnanny.py
+V 57
+/projects/!svn/ver/67345/python/branches/py3k/Lib/uuid.py
 END
 smtplib.py
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /projects/!svn/ver/73211/python/branches/py3k/Lib/smtplib.py
+END
+tabnanny.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/56849/python/branches/py3k/Lib/tabnanny.py
 END
 imaplib.py
 K 25
@@ -375,17 +375,17 @@ svn:wc:ra_dav:version-url
 V 59
 /projects/!svn/ver/73211/python/branches/py3k/Lib/base64.py
 END
-socket.py
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/projects/!svn/ver/73140/python/branches/py3k/Lib/socket.py
-END
 pickletools.py
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /projects/!svn/ver/73236/python/branches/py3k/Lib/pickletools.py
+END
+socket.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/73140/python/branches/py3k/Lib/socket.py
 END
 stringprep.py
 K 25
@@ -393,17 +393,17 @@ svn:wc:ra_dav:version-url
 V 63
 /projects/!svn/ver/56849/python/branches/py3k/Lib/stringprep.py
 END
-decimal.py
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/projects/!svn/ver/71782/python/branches/py3k/Lib/decimal.py
-END
 heapq.py
 K 25
 svn:wc:ra_dav:version-url
 V 58
 /projects/!svn/ver/70695/python/branches/py3k/Lib/heapq.py
+END
+decimal.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/71782/python/branches/py3k/Lib/decimal.py
 END
 difflib.py
 K 25
@@ -465,17 +465,17 @@ svn:wc:ra_dav:version-url
 V 64
 /projects/!svn/ver/72952/python/branches/py3k/Lib/collections.py
 END
-traceback.py
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/projects/!svn/ver/73214/python/branches/py3k/Lib/traceback.py
-END
 turtle.py
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /projects/!svn/ver/72318/python/branches/py3k/Lib/turtle.py
+END
+traceback.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/73214/python/branches/py3k/Lib/traceback.py
 END
 dummy_threading.py
 K 25
@@ -483,17 +483,17 @@ svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/63631/python/branches/py3k/Lib/dummy_threading.py
 END
-compileall.py
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/projects/!svn/ver/71752/python/branches/py3k/Lib/compileall.py
-END
 webbrowser.py
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /projects/!svn/ver/67683/python/branches/py3k/Lib/webbrowser.py
+END
+compileall.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/71752/python/branches/py3k/Lib/compileall.py
 END
 weakref.py
 K 25
@@ -519,17 +519,17 @@ svn:wc:ra_dav:version-url
 V 56
 /projects/!svn/ver/68630/python/branches/py3k/Lib/ast.py
 END
-pyclbr.py
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/projects/!svn/ver/62716/python/branches/py3k/Lib/pyclbr.py
-END
 csv.py
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /projects/!svn/ver/65796/python/branches/py3k/Lib/csv.py
+END
+pyclbr.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/62716/python/branches/py3k/Lib/pyclbr.py
 END
 __phello__.foo.py
 K 25
@@ -543,17 +543,17 @@ svn:wc:ra_dav:version-url
 V 56
 /projects/!svn/ver/72466/python/branches/py3k/Lib/cgi.py
 END
-pdb.py
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/projects/!svn/ver/72325/python/branches/py3k/Lib/pdb.py
-END
 tempfile.py
 K 25
 svn:wc:ra_dav:version-url
 V 61
 /projects/!svn/ver/64159/python/branches/py3k/Lib/tempfile.py
+END
+pdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/72325/python/branches/py3k/Lib/pdb.py
 END
 nntplib.py
 K 25
@@ -579,23 +579,17 @@ svn:wc:ra_dav:version-url
 V 59
 /projects/!svn/ver/69961/python/branches/py3k/Lib/opcode.py
 END
-pydoc.py
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/projects/!svn/ver/72968/python/branches/py3k/Lib/pydoc.py
-END
 pstats.py
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /projects/!svn/ver/60453/python/branches/py3k/Lib/pstats.py
 END
-socketserver.py
+pydoc.py
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/projects/!svn/ver/69990/python/branches/py3k/Lib/socketserver.py
+V 58
+/projects/!svn/ver/72968/python/branches/py3k/Lib/pydoc.py
 END
 _pyio.py
 K 25
@@ -603,23 +597,29 @@ svn:wc:ra_dav:version-url
 V 58
 /projects/!svn/ver/73259/python/branches/py3k/Lib/_pyio.py
 END
+socketserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/69990/python/branches/py3k/Lib/socketserver.py
+END
 macurl2path.py
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /projects/!svn/ver/64385/python/branches/py3k/Lib/macurl2path.py
 END
-gettext.py
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/projects/!svn/ver/73125/python/branches/py3k/Lib/gettext.py
-END
 build_class.py
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /projects/!svn/ver/56849/python/branches/py3k/Lib/build_class.py
+END
+gettext.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/73125/python/branches/py3k/Lib/gettext.py
 END
 sre_constants.py
 K 25
@@ -645,17 +645,17 @@ svn:wc:ra_dav:version-url
 V 57
 /projects/!svn/ver/72435/python/branches/py3k/Lib/aifc.py
 END
-cProfile.py
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/projects/!svn/ver/58495/python/branches/py3k/Lib/cProfile.py
-END
 cmd.py
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /projects/!svn/ver/58495/python/branches/py3k/Lib/cmd.py
+END
+cProfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/58495/python/branches/py3k/Lib/cProfile.py
 END
 types.py
 K 25
@@ -817,7 +817,7 @@ subprocess.py
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/projects/!svn/ver/70142/python/branches/py3k/Lib/subprocess.py
+/projects/!svn/ver/73482/python/branches/py3k/Lib/subprocess.py
 END
 uu.py
 K 25

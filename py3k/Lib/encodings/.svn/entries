@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Lib/encodings
 http://svn.python.org/projects
 
@@ -39,14 +39,14 @@ file
 thomas.wouters
 has-props
 
-iso8859_13.py
+koi8_r.py
 file
 
 
 
 
 2009-06-21T03:51:58.000000Z
-2fe5c0659da980094a8cbe21a8c1644d
+55ec8a28640cfacad8ceeb40dd51c245
 2007-05-02T19:09:54.962753Z
 55079
 guido.van.rossum
@@ -65,14 +65,14 @@ file
 thomas.wouters
 has-props
 
-koi8_r.py
+iso8859_13.py
 file
 
 
 
 
 2009-06-21T03:51:58.000000Z
-55ec8a28640cfacad8ceeb40dd51c245
+2fe5c0659da980094a8cbe21a8c1644d
 2007-05-02T19:09:54.962753Z
 55079
 guido.van.rossum
@@ -91,19 +91,6 @@ file
 guido.van.rossum
 has-props
 
-gb2312.py
-file
-
-
-
-
-2009-06-21T03:51:58.000000Z
-545fc02294b51003c3c1eb5357738571
-2006-04-21T10:40:58.830769Z
-45597
-thomas.wouters
-has-props
-
 cp932.py
 file
 
@@ -112,6 +99,19 @@ file
 
 2009-06-21T03:51:58.000000Z
 fd453f9da8f82c8a845970898f7b705c
+2006-04-21T10:40:58.830769Z
+45597
+thomas.wouters
+has-props
+
+gb2312.py
+file
+
+
+
+
+2009-06-21T03:51:58.000000Z
+545fc02294b51003c3c1eb5357738571
 2006-04-21T10:40:58.830769Z
 45597
 thomas.wouters
@@ -143,19 +143,6 @@ file
 guido.van.rossum
 has-props
 
-euc_jp.py
-file
-
-
-
-
-2009-06-21T03:51:58.000000Z
-8b716ef68ec560fead727d5e670ab317
-2006-04-21T10:40:58.830769Z
-45597
-thomas.wouters
-has-props
-
 cp865.py
 file
 
@@ -167,6 +154,19 @@ file
 2007-05-02T19:09:54.962753Z
 55079
 guido.van.rossum
+has-props
+
+euc_jp.py
+file
+
+
+
+
+2009-06-21T03:51:58.000000Z
+8b716ef68ec560fead727d5e670ab317
+2006-04-21T10:40:58.830769Z
+45597
+thomas.wouters
 has-props
 
 cp875.py
@@ -182,19 +182,6 @@ file
 guido.van.rossum
 has-props
 
-iso8859_1.py
-file
-
-
-
-
-2009-06-21T03:51:58.000000Z
-acb216f699794681fbe21ade486095e0
-2007-05-02T19:09:54.962753Z
-55079
-guido.van.rossum
-has-props
-
 cp1140.py
 file
 
@@ -203,6 +190,19 @@ file
 
 2009-06-21T03:51:58.000000Z
 8b741f4a4686989f19b19acc8450859e
+2007-05-02T19:09:54.962753Z
+55079
+guido.van.rossum
+has-props
+
+iso8859_1.py
+file
+
+
+
+
+2009-06-21T03:51:58.000000Z
+acb216f699794681fbe21ade486095e0
 2007-05-02T19:09:54.962753Z
 55079
 guido.van.rossum
@@ -429,17 +429,17 @@ efdd4e55f06d4ed2c35ff68cee36345f
 guido.van.rossum
 has-props
 
-iso2022_jp_2004.py
+koi8_u.py
 file
 
 
 
 
 2009-06-21T03:51:58.000000Z
-bd24989fd90c47b012e9c88370e9785f
-2006-04-21T10:40:58.830769Z
-45597
-thomas.wouters
+c2962da07099e96cdeffb9a1c0c3d64f
+2007-05-02T19:09:54.962753Z
+55079
+guido.van.rossum
 has-props
 
 iso8859_16.py
@@ -455,17 +455,17 @@ file
 guido.van.rossum
 has-props
 
-koi8_u.py
+iso2022_jp_2004.py
 file
 
 
 
 
 2009-06-21T03:51:58.000000Z
-c2962da07099e96cdeffb9a1c0c3d64f
-2007-05-02T19:09:54.962753Z
-55079
-guido.van.rossum
+bd24989fd90c47b012e9c88370e9785f
+2006-04-21T10:40:58.830769Z
+45597
+thomas.wouters
 has-props
 
 cp850.py
@@ -476,19 +476,6 @@ file
 
 2009-06-21T03:51:58.000000Z
 95972bdc42051a88ae7278505f25dbb9
-2007-05-02T19:09:54.962753Z
-55079
-guido.van.rossum
-has-props
-
-cp860.py
-file
-
-
-
-
-2009-06-21T03:51:58.000000Z
-c568897c16afb506fe689d5c1b0be978
 2007-05-02T19:09:54.962753Z
 55079
 guido.van.rossum
@@ -505,6 +492,19 @@ file
 2006-04-21T09:43:23.425872Z
 45593
 thomas.wouters
+has-props
+
+cp860.py
+file
+
+
+
+
+2009-06-21T03:51:58.000000Z
+c568897c16afb506fe689d5c1b0be978
+2007-05-02T19:09:54.962753Z
+55079
+guido.van.rossum
 has-props
 
 cp737.py
@@ -572,16 +572,16 @@ file
 thomas.wouters
 has-props
 
-iso2022_jp_ext.py
+mac_latin2.py
 file
 
 
 
 
 2009-06-21T03:51:58.000000Z
-126de664d8584b84fda793a3d208ad7c
-2006-04-21T10:40:58.830769Z
-45597
+e01d81cdf6ecb3c6d4efc30e7b4a1f85
+2006-04-21T09:43:23.425872Z
+45593
 thomas.wouters
 has-props
 
@@ -598,16 +598,16 @@ file
 guido.van.rossum
 has-props
 
-mac_latin2.py
+iso2022_jp_ext.py
 file
 
 
 
 
 2009-06-21T03:51:58.000000Z
-e01d81cdf6ecb3c6d4efc30e7b4a1f85
-2006-04-21T09:43:23.425872Z
-45593
+126de664d8584b84fda793a3d208ad7c
+2006-04-21T10:40:58.830769Z
+45597
 thomas.wouters
 has-props
 
@@ -619,19 +619,6 @@ file
 
 2009-06-21T03:51:58.000000Z
 a5105ef506c2deff826987322ced6b50
-2007-05-02T19:09:54.962753Z
-55079
-guido.van.rossum
-has-props
-
-cp1026.py
-file
-
-
-
-
-2009-06-21T03:51:58.000000Z
-55ac5681974d8c0d537d15f4d7bf66ab
 2007-05-02T19:09:54.962753Z
 55079
 guido.van.rossum
@@ -650,6 +637,19 @@ file
 guido.van.rossum
 has-props
 
+cp1026.py
+file
+
+
+
+
+2009-06-21T03:51:58.000000Z
+55ac5681974d8c0d537d15f4d7bf66ab
+2007-05-02T19:09:54.962753Z
+55079
+guido.van.rossum
+has-props
+
 cp1254.py
 file
 
@@ -658,6 +658,19 @@ file
 
 2009-06-21T03:51:58.000000Z
 d33ea4c1992a709218e5a516bf9bcb83
+2007-05-02T19:09:54.962753Z
+55079
+guido.van.rossum
+has-props
+
+iso8859_8.py
+file
+
+
+
+
+2009-06-21T03:51:58.000000Z
+7f0c44cf36f25ef5334af2f050a4ba0b
 2007-05-02T19:09:54.962753Z
 55079
 guido.van.rossum
@@ -676,17 +689,17 @@ file
 thomas.wouters
 has-props
 
-iso8859_8.py
+shift_jisx0213.py
 file
 
 
 
 
 2009-06-21T03:51:58.000000Z
-7f0c44cf36f25ef5334af2f050a4ba0b
-2007-05-02T19:09:54.962753Z
-55079
-guido.van.rossum
+7dba3bd72748f978a93e66048a9014e3
+2006-04-21T10:40:58.830769Z
+45597
+thomas.wouters
 has-props
 
 mac_croatian.py
@@ -702,17 +715,17 @@ file
 guido.van.rossum
 has-props
 
-shift_jisx0213.py
+aliases.py
 file
 
 
 
 
 2009-06-21T03:51:58.000000Z
-7dba3bd72748f978a93e66048a9014e3
-2006-04-21T10:40:58.830769Z
-45597
-thomas.wouters
+84a524169a89180c482d1f868213169a
+2008-08-23T08:03:03.707302Z
+65988
+hyeshik.chang
 has-props
 
 hz.py
@@ -728,27 +741,14 @@ file
 thomas.wouters
 has-props
 
-aliases.py
+shift_jis.py
 file
 
 
 
 
 2009-06-21T03:51:58.000000Z
-84a524169a89180c482d1f868213169a
-2008-08-23T08:03:03.707302Z
-65988
-hyeshik.chang
-has-props
-
-big5hkscs.py
-file
-
-
-
-
-2009-06-21T03:51:58.000000Z
-465ae23475b55a28c248a0355c429a90
+80dc9691902b0be693d9ecd5fe947e45
 2006-04-21T10:40:58.830769Z
 45597
 thomas.wouters
@@ -767,14 +767,14 @@ file
 guido.van.rossum
 has-props
 
-shift_jis.py
+big5hkscs.py
 file
 
 
 
 
 2009-06-21T03:51:58.000000Z
-80dc9691902b0be693d9ecd5fe947e45
+465ae23475b55a28c248a0355c429a90
 2006-04-21T10:40:58.830769Z
 45597
 thomas.wouters

@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Lib/distutils
 http://svn.python.org/projects
 
@@ -188,19 +188,6 @@ has-props
 command
 dir
 
-cmd.py
-file
-
-
-
-
-2009-06-21T03:51:56.000000Z
-1d7b6a7938fe764d1d6c298497cba427
-2009-04-13T20:19:58.042148Z
-71590
-tarek.ziade
-has-props
-
 dist.py
 file
 
@@ -211,6 +198,19 @@ file
 d7c45709e2a98885709d8aa5ebfd487a
 2009-06-01T22:36:26.088579Z
 73123
+tarek.ziade
+has-props
+
+cmd.py
+file
+
+
+
+
+2009-06-21T03:51:56.000000Z
+1d7b6a7938fe764d1d6c298497cba427
+2009-04-13T20:19:58.042148Z
+71590
 tarek.ziade
 has-props
 
@@ -240,19 +240,6 @@ file
 thomas.wouters
 has-props
 
-versionpredicate.py
-file
-
-
-
-
-2009-06-21T03:51:56.000000Z
-53d138f1be46ca63ad7c7483646fe888
-2008-08-19T17:56:33.454222Z
-65860
-antoine.pitrou
-has-props
-
 README
 file
 
@@ -264,6 +251,19 @@ file
 2009-02-27T12:58:56.765841Z
 70019
 tarek.ziade
+has-props
+
+versionpredicate.py
+file
+
+
+
+
+2009-06-21T03:51:56.000000Z
+53d138f1be46ca63ad7c7483646fe888
+2008-08-19T17:56:33.454222Z
+65860
+antoine.pitrou
 has-props
 
 dir_util.py
@@ -279,17 +279,17 @@ dde9f239bdde31a23aea3b71eb994a91
 tarek.ziade
 has-props
 
-file_util.py
+errors.py
 file
 
 
 
 
 2009-06-21T03:51:56.000000Z
-c473ce8aa757579b66863139314554b0
-2009-02-06T00:53:43.100758Z
-69336
-tarek.ziade
+5976d0632786a23b039e1c41e7622bfc
+2007-08-30T03:52:21.330023Z
+57699
+collin.winter
 has-props
 
 extension.py
@@ -305,17 +305,17 @@ file
 tarek.ziade
 has-props
 
-errors.py
+file_util.py
 file
 
 
 
 
 2009-06-21T03:51:56.000000Z
-5976d0632786a23b039e1c41e7622bfc
-2007-08-30T03:52:21.330023Z
-57699
-collin.winter
+c473ce8aa757579b66863139314554b0
+2009-02-06T00:53:43.100758Z
+69336
+tarek.ziade
 has-props
 
 archive_util.py

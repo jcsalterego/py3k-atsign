@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Python
 http://svn.python.org/projects
 
@@ -52,19 +52,6 @@ d9d8d31d75cd29076e3ac0896e6ec9bb
 fdrake
 has-props
 
-frozenmain.c
-file
-
-
-
-
-2009-06-21T03:51:21.000000Z
-59a6518d2bea8f353271b584082531a2
-2008-10-07T21:06:18.030677Z
-66838
-amaury.forgeotdarc
-has-props
-
 thread_solaris.h
 file
 
@@ -76,6 +63,19 @@ file
 2003-04-19T07:44:52.000000Z
 32317
 loewis
+has-props
+
+frozenmain.c
+file
+
+
+
+
+2009-06-21T03:51:21.000000Z
+59a6518d2bea8f353271b584082531a2
+2008-10-07T21:06:18.030677Z
+66838
+amaury.forgeotdarc
 has-props
 
 getcompiler.c
@@ -182,19 +182,6 @@ file
 martin.v.loewis
 has-props
 
-thread_lwp.h
-file
-
-
-
-
-2009-06-21T03:51:21.000000Z
-e394f985a4ea50b4f9af55c1bb05546b
-2002-01-19T22:02:55.000000Z
-25126
-fdrake
-has-props
-
 dynload_hpux.c
 file
 
@@ -206,6 +193,19 @@ file
 2008-06-11T05:26:20.374737Z
 64107
 martin.v.loewis
+has-props
+
+thread_lwp.h
+file
+
+
+
+
+2009-06-21T03:51:21.000000Z
+e394f985a4ea50b4f9af55c1bb05546b
+2002-01-19T22:02:55.000000Z
+25126
+fdrake
 has-props
 
 pyarena.c
@@ -441,16 +441,16 @@ c94654f230faa20e6c59b5ba15a75713
 jeffrey.yasskin
 has-props
 
-mysnprintf.c
+formatter_unicode.c
 file
 
 
 
 
 2009-06-21T03:51:21.000000Z
-1cd32f566f5f9e10afb641106ab3970e
-2009-04-07T22:55:31.390672Z
-71383
+ec505eedaa3be8bb86dce6985a478ff1
+2009-04-30T01:00:33.949970Z
+72140
 eric.smith
 has-props
 
@@ -467,30 +467,17 @@ a599d0b07ee27c3c113532645609c39b
 martin.v.loewis
 has-props
 
-formatter_unicode.c
+mysnprintf.c
 file
 
 
 
 
 2009-06-21T03:51:21.000000Z
-ec505eedaa3be8bb86dce6985a478ff1
-2009-04-30T01:00:33.949970Z
-72140
+1cd32f566f5f9e10afb641106ab3970e
+2009-04-07T22:55:31.390672Z
+71383
 eric.smith
-has-props
-
-import.c
-file
-
-
-
-
-2009-06-21T03:51:21.000000Z
-72b7fe24ba53e71ceee1df781646bd75
-2009-04-02T03:41:46.685941Z
-71034
-brett.cannon
 has-props
 
 dup2.c
@@ -504,6 +491,19 @@ c47aadebd2453d08388531f1b6200576
 2000-07-22T18:47:25.000000Z
 16421
 twouters
+has-props
+
+import.c
+file
+
+
+
+
+2009-06-21T03:51:21.000000Z
+72b7fe24ba53e71ceee1df781646bd75
+2009-04-02T03:41:46.685941Z
+71034
+brett.cannon
 has-props
 
 structmember.c
@@ -584,6 +584,18 @@ f173632863d8ef2347d13c099ef6ddf9
 jhylton
 has-props
 
+dtoa.c
+file
+
+
+
+
+2009-06-21T03:51:21.000000Z
+6d84305195bd1a13bed071e18e3e9dbe
+2009-05-20T22:05:25.917624Z
+72810
+mark.dickinson
+
 marshal.c
 file
 
@@ -597,17 +609,18 @@ fa10130c5d1c420950026d36b089eb40
 r.david.murray
 has-props
 
-dtoa.c
+compile.c
 file
 
 
 
 
 2009-06-21T03:51:21.000000Z
-6d84305195bd1a13bed071e18e3e9dbe
-2009-05-20T22:05:25.917624Z
-72810
-mark.dickinson
+89c61d56e4dd4eb832c3d88e0aea94e6
+2009-05-05T22:31:58.035365Z
+72363
+benjamin.peterson
+has-props
 
 pystrtod.c
 file
@@ -620,19 +633,6 @@ b2a884694c93e6ac0ffe1ad311c14df0
 2009-05-20T22:05:25.917624Z
 72810
 mark.dickinson
-has-props
-
-compile.c
-file
-
-
-
-
-2009-06-21T03:51:21.000000Z
-89c61d56e4dd4eb832c3d88e0aea94e6
-2009-05-05T22:31:58.035365Z
-72363
-benjamin.peterson
 has-props
 
 importdl.c
@@ -661,19 +661,6 @@ bd0564d889c16da0b5610f5025595762
 neal.norwitz
 has-props
 
-thread_os2.h
-file
-
-
-
-
-2009-06-21T03:51:21.000000Z
-988843fa96a567728abae9d3fb082733
-2006-08-11T14:57:12.738609Z
-51211
-thomas.wouters
-has-props
-
 importdl.h
 file
 
@@ -685,6 +672,19 @@ file
 2002-12-30T22:08:05.000000Z
 30363
 jvr
+has-props
+
+thread_os2.h
+file
+
+
+
+
+2009-06-21T03:51:21.000000Z
+988843fa96a567728abae9d3fb082733
+2006-08-11T14:57:12.738609Z
+51211
+thomas.wouters
 has-props
 
 frozen.c
@@ -713,19 +713,6 @@ file
 mark.dickinson
 has-props
 
-thread.c
-file
-
-
-
-
-2009-06-21T03:51:21.000000Z
-933cb6cb006ba04573f71f6ab72e4ead
-2009-01-12T08:21:03.591075Z
-68543
-martin.v.loewis
-has-props
-
 dynload_win.c
 file
 
@@ -737,6 +724,19 @@ file
 2009-01-27T23:46:57.340310Z
 69041
 mark.hammond
+has-props
+
+thread.c
+file
+
+
+
+
+2009-06-21T03:51:21.000000Z
+933cb6cb006ba04573f71f6ab72e4ead
+2009-01-12T08:21:03.591075Z
+68543
+martin.v.loewis
 has-props
 
 getcopyright.c
@@ -791,19 +791,6 @@ file
 benjamin.peterson
 has-props
 
-thread_nt.h
-file
-
-
-
-
-2009-06-21T03:51:21.000000Z
-391cb471e31c6058da281afe7b858dcc
-2009-01-12T08:21:03.591075Z
-68543
-martin.v.loewis
-has-props
-
 dynload_os2.c
 file
 
@@ -814,6 +801,19 @@ file
 8f05a3d01180686792d5f5601f6fda46
 2008-06-11T05:26:20.374737Z
 64107
+martin.v.loewis
+has-props
+
+thread_nt.h
+file
+
+
+
+
+2009-06-21T03:51:21.000000Z
+391cb471e31c6058da281afe7b858dcc
+2009-01-12T08:21:03.591075Z
+68543
 martin.v.loewis
 has-props
 

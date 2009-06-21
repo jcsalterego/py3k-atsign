@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Modules/_ctypes
 http://svn.python.org/projects
 
@@ -58,6 +58,12 @@ has-props
 libffi_msvc
 dir
 
+darwin
+dir
+
+libffi_osx
+dir
+
 malloc_closure.c
 file
 
@@ -70,12 +76,6 @@ b0e9cb6b88643680a40c94b0e99f8e4a
 71854
 thomas.heller
 has-props
-
-libffi_osx
-dir
-
-darwin
-dir
 
 _ctypes_test.c
 file
@@ -103,6 +103,9 @@ ee02f9c90d2a613544eb20d07a9f87f4
 mark.dickinson
 has-props
 
+libffi
+dir
+
 _ctypes_test.h
 file
 
@@ -115,9 +118,6 @@ ff5d846be90db18212407b8615cbeb3a
 42928
 martin.v.loewis
 has-props
-
-libffi
-dir
 
 ctypes.h
 file

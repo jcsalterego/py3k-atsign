@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Tools/pybench
 http://svn.python.org/projects
 
@@ -39,19 +39,6 @@ file
 antoine.pitrou
 has-props
 
-Strings.py
-file
-
-
-
-
-2009-06-21T03:51:30.000000Z
-863b44b621393531c1719ab8695c30b4
-2009-02-07T17:13:31.380416Z
-69411
-antoine.pitrou
-has-props
-
 Arithmetic.py
 file
 
@@ -63,6 +50,19 @@ file
 2007-06-13T18:07:49.444515Z
 55963
 guido.van.rossum
+has-props
+
+Strings.py
+file
+
+
+
+
+2009-06-21T03:51:30.000000Z
+863b44b621393531c1719ab8695c30b4
+2009-02-07T17:13:31.380416Z
+69411
+antoine.pitrou
 has-props
 
 LICENSE
@@ -104,19 +104,6 @@ file
 guido.van.rossum
 has-props
 
-Lists.py
-file
-
-
-
-
-2009-06-21T03:51:30.000000Z
-91aba7b6fbc1ab616d397a3e1a31c0fe
-2008-12-27T20:39:28.667067Z
-67966
-antoine.pitrou
-has-props
-
 Calls.py
 file
 
@@ -127,6 +114,19 @@ file
 93cae719703a5a50a1dd5fbf97a56def
 2009-02-07T17:13:31.380416Z
 69411
+antoine.pitrou
+has-props
+
+Lists.py
+file
+
+
+
+
+2009-06-21T03:51:30.000000Z
+91aba7b6fbc1ab616d397a3e1a31c0fe
+2008-12-27T20:39:28.667067Z
+67966
 antoine.pitrou
 has-props
 

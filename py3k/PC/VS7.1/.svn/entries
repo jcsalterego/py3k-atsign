@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/PC/VS7.1
 http://svn.python.org/projects
 
@@ -208,19 +208,6 @@ file
 christian.heimes
 has-props
 
-_testcapi.vcproj
-file
-
-
-
-
-2009-06-21T03:51:32.000000Z
-66254ed036b38c9dbf6a04b64b157cac
-2007-12-31T16:18:22.849293Z
-59628
-christian.heimes
-has-props
-
 pcbuild.sln
 file
 
@@ -232,6 +219,19 @@ file
 2008-09-06T00:11:20.455443Z
 66243
 amaury.forgeotdarc
+has-props
+
+_testcapi.vcproj
+file
+
+
+
+
+2009-06-21T03:51:32.000000Z
+66254ed036b38c9dbf6a04b64b157cac
+2007-12-31T16:18:22.849293Z
+59628
+christian.heimes
 has-props
 
 python.iss
@@ -260,17 +260,17 @@ file
 georg.brandl
 has-props
 
-rmpyc.py
+select.vcproj
 file
 
 
 
 
 2009-06-21T03:51:32.000000Z
-8c02e07b834fe6ea08c65924f523d22a
-2003-04-26T00:53:24.000000Z
-32492
-tim_one
+c6d8d819c0b7cd2517f0a94367f6e4b8
+2007-12-31T16:18:22.849293Z
+59628
+christian.heimes
 has-props
 
 _tkinter.vcproj
@@ -286,17 +286,17 @@ file
 christian.heimes
 has-props
 
-select.vcproj
+rmpyc.py
 file
 
 
 
 
 2009-06-21T03:51:32.000000Z
-c6d8d819c0b7cd2517f0a94367f6e4b8
-2007-12-31T16:18:22.849293Z
-59628
-christian.heimes
+8c02e07b834fe6ea08c65924f523d22a
+2003-04-26T00:53:24.000000Z
+32492
+tim_one
 has-props
 
 unicodedata.vcproj
@@ -307,19 +307,6 @@ file
 
 2009-06-21T03:51:32.000000Z
 6a956d1173a252a219e2ad1967402ad7
-2007-12-31T16:18:22.849293Z
-59628
-christian.heimes
-has-props
-
-python.vcproj
-file
-
-
-
-
-2009-06-21T03:51:32.000000Z
-b49320f9ec04ce3e8cca03bc261bf1d6
 2007-12-31T16:18:22.849293Z
 59628
 christian.heimes
@@ -338,6 +325,19 @@ fcf83451ecf04f72f9eb7a29e5e2d17d
 martin.v.loewis
 has-props
 
+python.vcproj
+file
+
+
+
+
+2009-06-21T03:51:32.000000Z
+b49320f9ec04ce3e8cca03bc261bf1d6
+2007-12-31T16:18:22.849293Z
+59628
+christian.heimes
+has-props
+
 build_ssl.bat
 file
 
@@ -349,19 +349,6 @@ ec309938471bfa783eebad9a98c7c26e
 2007-06-12T16:08:27.931994Z
 55930
 thomas.heller
-
-make_buildinfo.c
-file
-
-
-
-
-2009-06-21T03:51:32.000000Z
-d5aac08014da4bc82f90b0888355412f
-2008-01-01T14:42:15.550152Z
-59642
-christian.heimes
-has-props
 
 _socket.vcproj
 file
@@ -376,17 +363,17 @@ d89a832e02310a91a6c1810df67b3d9e
 christian.heimes
 has-props
 
-rt.bat
+make_buildinfo.c
 file
 
 
 
 
 2009-06-21T03:51:32.000000Z
-8223e735e1b7dcaedca303d1ba4febb4
-2008-06-04T13:06:58.011682Z
-63936
-georg.brandl
+d5aac08014da4bc82f90b0888355412f
+2008-01-01T14:42:15.550152Z
+59642
+christian.heimes
 has-props
 
 Uninstal.wse
@@ -400,6 +387,19 @@ file
 2001-08-05T04:12:30.000000Z
 22206
 tim_one
+has-props
+
+rt.bat
+file
+
+
+
+
+2009-06-21T03:51:32.000000Z
+8223e735e1b7dcaedca303d1ba4febb4
+2008-06-04T13:06:58.011682Z
+63936
+georg.brandl
 has-props
 
 bz2.vcproj

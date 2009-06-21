@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Lib/distutils/tests
 http://svn.python.org/projects
 
@@ -247,6 +247,19 @@ dcdd1aac37615cb297c276a33785aedc
 tarek.ziade
 has-props
 
+test_upload.py
+file
+
+
+
+
+2009-06-21T03:51:54.000000Z
+ac18e860c00774d84d1b89c446c66cc1
+2009-03-31T21:37:16.298772Z
+70898
+tarek.ziade
+has-props
+
 test_register.py
 file
 
@@ -260,16 +273,16 @@ file
 hirokazu.yamamoto
 has-props
 
-test_upload.py
+test_config_cmd.py
 file
 
 
 
 
 2009-06-21T03:51:54.000000Z
-ac18e860c00774d84d1b89c446c66cc1
-2009-03-31T21:37:16.298772Z
-70898
+c8b11521cb5cb4d845411e44ab34ce37
+2009-04-29T08:07:44.545037Z
+72096
 tarek.ziade
 has-props
 
@@ -284,19 +297,6 @@ file
 2009-02-21T20:59:32.614580Z
 69847
 mark.dickinson
-has-props
-
-test_config_cmd.py
-file
-
-
-
-
-2009-06-21T03:51:54.000000Z
-c8b11521cb5cb4d845411e44ab34ce37
-2009-04-29T08:07:44.545037Z
-72096
-tarek.ziade
 has-props
 
 Setup.sample
@@ -351,19 +351,6 @@ cd2ab3e5111c93251fee66ef752bd288
 tarek.ziade
 has-props
 
-test_install.py
-file
-
-
-
-
-2009-06-21T03:51:54.000000Z
-6cd7e84182a097aa1c9594052fc43955
-2009-06-04T07:39:50.421886Z
-73199
-tarek.ziade
-has-props
-
 test_build_scripts.py
 file
 
@@ -374,6 +361,19 @@ file
 2e2941a6cbc2e5319cb2304f0f464002
 2009-04-25T12:53:56.509986Z
 71886
+tarek.ziade
+has-props
+
+test_install.py
+file
+
+
+
+
+2009-06-21T03:51:54.000000Z
+6cd7e84182a097aa1c9594052fc43955
+2009-06-04T07:39:50.421886Z
+73199
 tarek.ziade
 has-props
 
@@ -403,19 +403,6 @@ file
 tarek.ziade
 has-props
 
-test_extension.py
-file
-
-
-
-
-2009-06-21T03:51:54.000000Z
-9745df6c97744535c7873385ba41df7c
-2009-06-03T11:17:15.056396Z
-73172
-tarek.ziade
-has-props
-
 test_bdist_dumb.py
 file
 
@@ -427,6 +414,19 @@ file
 2009-05-29T09:14:04.761919Z
 73010
 hirokazu.yamamoto
+has-props
+
+test_extension.py
+file
+
+
+
+
+2009-06-21T03:51:54.000000Z
+9745df6c97744535c7873385ba41df7c
+2009-06-03T11:17:15.056396Z
+73172
+tarek.ziade
 has-props
 
 test_file_util.py

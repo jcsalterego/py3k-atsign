@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Demo/pdist
 http://svn.python.org/projects
 
@@ -52,19 +52,6 @@ file
 benjamin.peterson
 has-props
 
-mac.py
-file
-
-
-
-
-2009-06-21T03:51:22.000000Z
-b632f9f1ef57a407fbec15eb4cb44ab8
-2007-07-17T20:59:35.061274Z
-56418
-collin.winter
-has-props
-
 cmdfw.py
 file
 
@@ -76,6 +63,19 @@ file
 2007-08-06T21:07:53.454333Z
 56781
 skip.montanaro
+has-props
+
+mac.py
+file
+
+
+
+
+2009-06-21T03:51:22.000000Z
+b632f9f1ef57a407fbec15eb4cb44ab8
+2007-07-17T20:59:35.061274Z
+56418
+collin.winter
 has-props
 
 cvslock.py
@@ -91,19 +91,6 @@ file
 georg.brandl
 has-props
 
-README
-file
-
-
-
-
-2009-06-21T03:51:22.000000Z
-0ba61ac915224fa0a88addaae8f339a9
-1995-06-23T22:11:18.000000Z
-5253
-guido
-has-props
-
 server.py
 file
 
@@ -115,6 +102,19 @@ file
 2008-05-16T07:12:44.646494Z
 63360
 alexandre.vassalotti
+has-props
+
+README
+file
+
+
+
+
+2009-06-21T03:51:22.000000Z
+0ba61ac915224fa0a88addaae8f339a9
+1995-06-23T22:11:18.000000Z
+5253
+guido
 has-props
 
 security.py
@@ -169,19 +169,6 @@ file
 collin.winter
 has-props
 
-rcslib.py
-file
-
-
-
-
-2009-06-21T03:51:22.000000Z
-18c509051496fb5cb5ff380c2b4e0f50
-2007-07-17T20:59:35.061274Z
-56418
-collin.winter
-has-props
-
 client.py
 file
 
@@ -195,17 +182,17 @@ file
 georg.brandl
 has-props
 
-rrcs
+rcslib.py
 file
 
 
 
 
 2009-06-21T03:51:22.000000Z
-458cff09f080bba5a54b6b645b3f8897
-1999-03-12T19:05:49.000000Z
-12891
-guido
+18c509051496fb5cb5ff380c2b4e0f50
+2007-07-17T20:59:35.061274Z
+56418
+collin.winter
 has-props
 
 cvslib.py
@@ -219,6 +206,19 @@ file
 2007-08-06T21:07:53.454333Z
 56781
 skip.montanaro
+has-props
+
+rrcs
+file
+
+
+
+
+2009-06-21T03:51:22.000000Z
+458cff09f080bba5a54b6b645b3f8897
+1999-03-12T19:05:49.000000Z
+12891
+guido
 has-props
 
 rcsbump

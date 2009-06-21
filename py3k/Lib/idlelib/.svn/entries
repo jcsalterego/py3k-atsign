@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Lib/idlelib
 http://svn.python.org/projects
 
@@ -156,19 +156,6 @@ file
 kurt.kaiser
 has-props
 
-ObjectBrowser.py
-file
-
-
-
-
-2009-06-21T03:51:52.000000Z
-dc49639c73c19ea13086ac934e3a0d5b
-2008-05-17T18:39:55.679515Z
-63418
-georg.brandl
-has-props
-
 testcode.py
 file
 
@@ -180,6 +167,19 @@ ffa6ef16334e4d1d195148a66b4f0df6
 2001-07-04T03:15:10.000000Z
 21464
 kbk
+has-props
+
+ObjectBrowser.py
+file
+
+
+
+
+2009-06-21T03:51:52.000000Z
+dc49639c73c19ea13086ac934e3a0d5b
+2008-05-17T18:39:55.679515Z
+63418
+georg.brandl
 has-props
 
 configSectionNameDialog.py
@@ -432,19 +432,6 @@ file
 georg.brandl
 has-props
 
-FormatParagraph.py
-file
-
-
-
-
-2009-06-21T03:51:52.000000Z
-0b9c7da482cccfe7ba3f81fab6116f1b
-2007-12-11T01:06:40.769118Z
-59465
-christian.heimes
-has-props
-
 EditorWindow.py
 file
 
@@ -456,6 +443,19 @@ file
 2009-04-26T01:33:55.097313Z
 71952
 kurt.kaiser
+has-props
+
+FormatParagraph.py
+file
+
+
+
+
+2009-06-21T03:51:52.000000Z
+0b9c7da482cccfe7ba3f81fab6116f1b
+2007-12-11T01:06:40.769118Z
+59465
+christian.heimes
 has-props
 
 help.txt
@@ -497,19 +497,6 @@ c19fe66b25245ce5b2cd2bbcfc25b432
 guido.van.rossum
 has-props
 
-README.txt
-file
-
-
-
-
-2009-06-21T03:51:52.000000Z
-7305d4e0f2e78c09b5b1dc09bb423c1a
-2007-08-31T17:25:37.997859Z
-57851
-guido.van.rossum
-has-props
-
 rpc.py
 file
 
@@ -521,6 +508,19 @@ file
 2009-04-04T21:07:39.441769Z
 71193
 kurt.kaiser
+has-props
+
+README.txt
+file
+
+
+
+
+2009-06-21T03:51:52.000000Z
+7305d4e0f2e78c09b5b1dc09bb423c1a
+2007-08-31T17:25:37.997859Z
+57851
+guido.van.rossum
 has-props
 
 OutputWindow.py
@@ -627,19 +627,6 @@ c9265439b0d1f34e0772ed22cdbf5f84
 martin.v.loewis
 has-props
 
-WindowList.py
-file
-
-
-
-
-2009-06-21T03:51:52.000000Z
-c724f762f83dfa4a769d55ec7e15335a
-2008-11-28T23:28:42.006988Z
-67436
-amaury.forgeotdarc
-has-props
-
 ScrolledList.py
 file
 
@@ -651,6 +638,19 @@ file
 2008-05-17T18:39:55.679515Z
 63418
 georg.brandl
+has-props
+
+WindowList.py
+file
+
+
+
+
+2009-06-21T03:51:52.000000Z
+c724f762f83dfa4a769d55ec7e15335a
+2008-11-28T23:28:42.006988Z
+67436
+amaury.forgeotdarc
 has-props
 
 ClassBrowser.py
@@ -666,19 +666,6 @@ b891b2b2ed9eda3cc9384e7a1aab9d2d
 kurt.kaiser
 has-props
 
-FileList.py
-file
-
-
-
-
-2009-06-21T03:51:52.000000Z
-2a0face4b2578c350905c4310a387cfa
-2008-05-17T18:39:55.679515Z
-63418
-georg.brandl
-has-props
-
 CallTips.py
 file
 
@@ -690,6 +677,19 @@ file
 2007-11-27T10:40:20.386687Z
 59189
 christian.heimes
+has-props
+
+FileList.py
+file
+
+
+
+
+2009-06-21T03:51:52.000000Z
+2a0face4b2578c350905c4310a387cfa
+2008-05-17T18:39:55.679515Z
+63418
+georg.brandl
 has-props
 
 idle.py
@@ -705,19 +705,6 @@ fa1e00d6072807e7d37f8b3d1586ddb9
 kurt.kaiser
 has-props
 
-CodeContext.py
-file
-
-
-
-
-2009-06-21T03:51:52.000000Z
-2e13c469aabe466eafd1a3b581f7fe91
-2008-05-17T18:39:55.679515Z
-63418
-georg.brandl
-has-props
-
 textView.py
 file
 
@@ -731,14 +718,14 @@ f0a7fb930a1f19819700e6223183c022
 georg.brandl
 has-props
 
-SearchDialogBase.py
+CodeContext.py
 file
 
 
 
 
 2009-06-21T03:51:52.000000Z
-54b529508406675f61057890e5c1f8fc
+2e13c469aabe466eafd1a3b581f7fe91
 2008-05-17T18:39:55.679515Z
 63418
 georg.brandl
@@ -752,6 +739,19 @@ file
 
 2009-06-21T03:51:52.000000Z
 d60ce1eb1b1cdb55d7e822ed63e1601d
+2008-05-17T18:39:55.679515Z
+63418
+georg.brandl
+has-props
+
+SearchDialogBase.py
+file
+
+
+
+
+2009-06-21T03:51:52.000000Z
+54b529508406675f61057890e5c1f8fc
 2008-05-17T18:39:55.679515Z
 63418
 georg.brandl
@@ -809,19 +809,6 @@ file
 christian.heimes
 has-props
 
-TreeWidget.py
-file
-
-
-
-
-2009-06-21T03:51:52.000000Z
-d1d1b9b4737f6e57ce9b38f1e477658f
-2008-05-17T18:39:55.679515Z
-63418
-georg.brandl
-has-props
-
 NEWS.txt
 file
 
@@ -833,6 +820,19 @@ file
 2009-05-06T03:38:31.337243Z
 72373
 kurt.kaiser
+has-props
+
+TreeWidget.py
+file
+
+
+
+
+2009-06-21T03:51:52.000000Z
+d1d1b9b4737f6e57ce9b38f1e477658f
+2008-05-17T18:39:55.679515Z
+63418
+georg.brandl
 has-props
 
 idle.pyw

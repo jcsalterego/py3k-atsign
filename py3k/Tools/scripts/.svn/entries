@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Tools/scripts
 http://svn.python.org/projects
 
@@ -195,19 +195,6 @@ d3f9772c4dcd879a36069e1190255cab
 georg.brandl
 has-props
 
-objgraph.py
-file
-
-
-
-
-2009-06-21T03:51:30.000000Z
-c4538ddfb0700b2387a415c940af40d7
-2008-05-16T15:23:30.534934Z
-63375
-georg.brandl
-has-props
-
 combinerefs.py
 file
 
@@ -219,6 +206,19 @@ file
 2007-12-06T18:37:53.294240Z
 59393
 guido.van.rossum
+has-props
+
+objgraph.py
+file
+
+
+
+
+2009-06-21T03:51:30.000000Z
+c4538ddfb0700b2387a415c940af40d7
+2008-05-16T15:23:30.534934Z
+63375
+georg.brandl
 has-props
 
 treesync.py
@@ -416,19 +416,6 @@ file
 akuchling
 has-props
 
-lfcr.py
-file
-
-
-
-
-2009-06-21T03:51:30.000000Z
-cdea3d753913004d097030c943478db5
-2007-08-03T17:06:41.907060Z
-56706
-collin.winter
-has-props
-
 ndiff.py
 file
 
@@ -437,6 +424,19 @@ file
 
 2009-06-21T03:51:30.000000Z
 f42b41bc0a7031a076fd040c66f305cc
+2007-08-03T17:06:41.907060Z
+56706
+collin.winter
+has-props
+
+lfcr.py
+file
+
+
+
+
+2009-06-21T03:51:30.000000Z
+cdea3d753913004d097030c943478db5
 2007-08-03T17:06:41.907060Z
 56706
 collin.winter
@@ -533,19 +533,6 @@ file
 guido.van.rossum
 has-props
 
-linktree.py
-file
-
-
-
-
-2009-06-21T03:51:30.000000Z
-8d46fe7dbd7fa35f3a2070e345b2c084
-2007-08-03T17:06:41.907060Z
-56706
-collin.winter
-has-props
-
 cleanfuture.py
 file
 
@@ -554,6 +541,19 @@ file
 
 2009-06-21T03:51:30.000000Z
 733d47d8af46de198e58cf2cb465e7e9
+2007-08-03T17:06:41.907060Z
+56706
+collin.winter
+has-props
+
+linktree.py
+file
+
+
+
+
+2009-06-21T03:51:30.000000Z
+8d46fe7dbd7fa35f3a2070e345b2c084
 2007-08-03T17:06:41.907060Z
 56706
 collin.winter
@@ -572,19 +572,6 @@ cc6432765dd85bf92e34228250230d67
 collin.winter
 has-props
 
-lll.py
-file
-
-
-
-
-2009-06-21T03:51:30.000000Z
-c1ce958629d9ef822392ebc69de23cd6
-2007-08-03T17:06:41.907060Z
-56706
-collin.winter
-has-props
-
 eptags.py
 file
 
@@ -596,6 +583,19 @@ f58b07337a21bfbec44ab3b784f6f65d
 2003-05-13T18:14:25.000000Z
 32761
 akuchling
+has-props
+
+lll.py
+file
+
+
+
+
+2009-06-21T03:51:30.000000Z
+c1ce958629d9ef822392ebc69de23cd6
+2007-08-03T17:06:41.907060Z
+56706
+collin.winter
 has-props
 
 fixps.py
@@ -663,19 +663,6 @@ file
 benjamin.peterson
 has-props
 
-pindent.py
-file
-
-
-
-
-2009-06-21T03:51:30.000000Z
-8b2dc302911ab13b8cd62e50d3bfd083
-2008-05-16T15:23:30.534934Z
-63375
-georg.brandl
-has-props
-
 findnocoding.py
 file
 
@@ -687,6 +674,19 @@ f4423758a3e76bd4aa73e81c808535e3
 2008-11-03T20:31:38.220287Z
 67088
 benjamin.peterson
+has-props
+
+pindent.py
+file
+
+
+
+
+2009-06-21T03:51:30.000000Z
+8b2dc302911ab13b8cd62e50d3bfd083
+2008-05-16T15:23:30.534934Z
+63375
+georg.brandl
 has-props
 
 which.py
@@ -715,19 +715,6 @@ e7561c89df78b81523457f66657820b0
 georg.brandl
 has-props
 
-methfix.py
-file
-
-
-
-
-2009-06-21T03:51:30.000000Z
-b1d2035d525a8f0b851cf793e55fa074
-2007-06-13T18:07:49.444515Z
-55963
-guido.van.rossum
-has-props
-
 win_add2path.py
 file
 
@@ -739,6 +726,19 @@ file
 2008-05-25T07:45:51.778688Z
 63610
 georg.brandl
+has-props
+
+methfix.py
+file
+
+
+
+
+2009-06-21T03:51:30.000000Z
+b1d2035d525a8f0b851cf793e55fa074
+2007-06-13T18:07:49.444515Z
+55963
+guido.van.rossum
 has-props
 
 README
@@ -780,19 +780,6 @@ file
 benjamin.peterson
 has-props
 
-pydoc3
-file
-
-
-
-
-2009-06-21T03:51:30.000000Z
-612a4bf75ade0c48a9ffd5fb139f2fb5
-2009-04-25T21:11:45.862749Z
-71936
-benjamin.peterson
-has-props
-
 md5sum.py
 file
 
@@ -806,17 +793,17 @@ file
 guido.van.rossum
 has-props
 
-pdeps.py
+pydoc3
 file
 
 
 
 
 2009-06-21T03:51:30.000000Z
-4c599ff79e6f8e9d9a01478c8805e7e3
-2008-05-16T15:23:30.534934Z
-63375
-georg.brandl
+612a4bf75ade0c48a9ffd5fb139f2fb5
+2009-04-25T21:11:45.862749Z
+71936
+benjamin.peterson
 has-props
 
 nm2def.py
@@ -827,6 +814,19 @@ file
 
 2009-06-21T03:51:30.000000Z
 4e3546b0ecffe8d52436b2c3ff66f6a8
+2008-05-16T15:23:30.534934Z
+63375
+georg.brandl
+has-props
+
+pdeps.py
+file
+
+
+
+
+2009-06-21T03:51:30.000000Z
+4c599ff79e6f8e9d9a01478c8805e7e3
 2008-05-16T15:23:30.534934Z
 63375
 georg.brandl

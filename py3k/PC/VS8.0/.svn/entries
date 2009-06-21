@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/PC/VS8.0
 http://svn.python.org/projects
 
@@ -241,6 +241,19 @@ file
 59665
 christian.heimes
 
+_elementtree.vcproj
+file
+
+
+
+
+2009-06-21T03:51:33.000000Z
+c0eb79056a69eb9e658f77293c74edf6
+2008-06-13T23:34:35.022460Z
+64259
+martin.v.loewis
+has-props
+
 make_buildinfo.vcproj
 file
 
@@ -254,14 +267,14 @@ cab5264b2bd8669b6a6a57ec4f159c51
 martin.v.loewis
 has-props
 
-_elementtree.vcproj
+_testcapi.vcproj
 file
 
 
 
 
 2009-06-21T03:51:33.000000Z
-c0eb79056a69eb9e658f77293c74edf6
+d10716344f74574356c82fd571e0a6e0
 2008-06-13T23:34:35.022460Z
 64259
 martin.v.loewis
@@ -280,27 +293,14 @@ b35baa3c9f86206b377becde83866cfd
 amaury.forgeotdarc
 has-props
 
-_testcapi.vcproj
+select.vcproj
 file
 
 
 
 
 2009-06-21T03:51:33.000000Z
-d10716344f74574356c82fd571e0a6e0
-2008-06-13T23:34:35.022460Z
-64259
-martin.v.loewis
-has-props
-
-_tkinter.vcproj
-file
-
-
-
-
-2009-06-21T03:51:33.000000Z
-6436cf39b697f06d59c195c4c1dc27f6
+b66525c1604ca2532f2cdac4c17be955
 2008-06-13T23:34:35.022460Z
 64259
 martin.v.loewis
@@ -319,27 +319,14 @@ file
 christian.heimes
 has-props
 
-select.vcproj
+_tkinter.vcproj
 file
 
 
 
 
 2009-06-21T03:51:33.000000Z
-b66525c1604ca2532f2cdac4c17be955
-2008-06-13T23:34:35.022460Z
-64259
-martin.v.loewis
-has-props
-
-bdist_wininst.vcproj
-file
-
-
-
-
-2009-06-21T03:51:33.000000Z
-9879d74bfb09303f56653bb84c4d80f7
+6436cf39b697f06d59c195c4c1dc27f6
 2008-06-13T23:34:35.022460Z
 64259
 martin.v.loewis
@@ -353,6 +340,19 @@ file
 
 2009-06-21T03:51:33.000000Z
 1ef50bf82b1124212c1a6ff3d29fb003
+2008-06-13T23:34:35.022460Z
+64259
+martin.v.loewis
+has-props
+
+bdist_wininst.vcproj
+file
+
+
+
+
+2009-06-21T03:51:33.000000Z
+9879d74bfb09303f56653bb84c4d80f7
 2008-06-13T23:34:35.022460Z
 64259
 martin.v.loewis

@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/projects/!svn/ver/73454/python/branches/py3k/Lib/test
+/projects/!svn/ver/73470/python/branches/py3k/Lib/test
 END
 test_math.py
 K 25
@@ -15,17 +15,17 @@ svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/71116/python/branches/py3k/Lib/test/test_csv.py
 END
-test_extcall.py
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_extcall.py
-END
 test_urllib2_localnet.py
 K 25
 svn:wc:ra_dav:version-url
 V 79
 /projects/!svn/ver/72778/python/branches/py3k/Lib/test/test_urllib2_localnet.py
+END
+test_extcall.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_extcall.py
 END
 test_optparse.py
 K 25
@@ -39,23 +39,17 @@ svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/67032/python/branches/py3k/Lib/test/test_future5.py
 END
-regrtest.py
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/projects/!svn/ver/73208/python/branches/py3k/Lib/test/regrtest.py
-END
 test_codecs.py
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/72529/python/branches/py3k/Lib/test/test_codecs.py
 END
-test_dictviews.py
+regrtest.py
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_dictviews.py
+V 66
+/projects/!svn/ver/73208/python/branches/py3k/Lib/test/regrtest.py
 END
 empty.vbs
 K 25
@@ -63,17 +57,17 @@ svn:wc:ra_dav:version-url
 V 64
 /projects/!svn/ver/56849/python/branches/py3k/Lib/test/empty.vbs
 END
+test_dictviews.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_dictviews.py
+END
 test_robotparser.py
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /projects/!svn/ver/65331/python/branches/py3k/Lib/test/test_robotparser.py
-END
-badsyntax_3131.py
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/projects/!svn/ver/57049/python/branches/py3k/Lib/test/badsyntax_3131.py
 END
 test_xmlrpc.py
 K 25
@@ -81,17 +75,23 @@ svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/73204/python/branches/py3k/Lib/test/test_xmlrpc.py
 END
-doctest_aliases.py
+badsyntax_3131.py
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/projects/!svn/ver/56849/python/branches/py3k/Lib/test/doctest_aliases.py
+V 72
+/projects/!svn/ver/57049/python/branches/py3k/Lib/test/badsyntax_3131.py
 END
 test_pickle.py
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/71638/python/branches/py3k/Lib/test/test_pickle.py
+END
+doctest_aliases.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/56849/python/branches/py3k/Lib/test/doctest_aliases.py
 END
 test_code.py
 K 25
@@ -195,17 +195,17 @@ svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/70549/python/branches/py3k/Lib/test/test_tuple.py
 END
-test_descrtut.py
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/projects/!svn/ver/69847/python/branches/py3k/Lib/test/test_descrtut.py
-END
 regex_tests.py
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/59746/python/branches/py3k/Lib/test/regex_tests.py
+END
+test_descrtut.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/69847/python/branches/py3k/Lib/test/test_descrtut.py
 END
 test__locale.py
 K 25
@@ -219,29 +219,29 @@ svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_global.py
 END
-pydocfodder.py
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/projects/!svn/ver/60210/python/branches/py3k/Lib/test/pydocfodder.py
-END
 test_cmd.py
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/64258/python/branches/py3k/Lib/test/test_cmd.py
 END
-test_io.py
+pydocfodder.py
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/projects/!svn/ver/73259/python/branches/py3k/Lib/test/test_io.py
+V 69
+/projects/!svn/ver/60210/python/branches/py3k/Lib/test/pydocfodder.py
 END
 test_ctypes.py
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/70929/python/branches/py3k/Lib/test/test_ctypes.py
+END
+test_io.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/73469/python/branches/py3k/Lib/test/test_io.py
 END
 test_smtplib.py
 K 25
@@ -261,17 +261,17 @@ svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_imaplib.py
 END
-test_importhooks.py
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/projects/!svn/ver/65164/python/branches/py3k/Lib/test/test_importhooks.py
-END
 test_tk.py
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /projects/!svn/ver/70959/python/branches/py3k/Lib/test/test_tk.py
+END
+test_importhooks.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/65164/python/branches/py3k/Lib/test/test_importhooks.py
 END
 test_traceback.py
 K 25
@@ -285,17 +285,17 @@ svn:wc:ra_dav:version-url
 V 81
 /projects/!svn/ver/64144/python/branches/py3k/Lib/test/threaded_import_hangers.py
 END
-test_dict.py
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/projects/!svn/ver/70549/python/branches/py3k/Lib/test/test_dict.py
-END
 test_asyncore.py
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /projects/!svn/ver/71556/python/branches/py3k/Lib/test/test_asyncore.py
+END
+test_dict.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/70549/python/branches/py3k/Lib/test/test_dict.py
 END
 test_ucn.py
 K 25
@@ -327,29 +327,29 @@ svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/71013/python/branches/py3k/Lib/test/buffer_tests.py
 END
-test_descr.py
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/projects/!svn/ver/72959/python/branches/py3k/Lib/test/test_descr.py
-END
 keycert.pem
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/57624/python/branches/py3k/Lib/test/keycert.pem
 END
-test_crypt.py
+test_descr.py
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/projects/!svn/ver/70929/python/branches/py3k/Lib/test/test_crypt.py
+/projects/!svn/ver/72959/python/branches/py3k/Lib/test/test_descr.py
 END
 test_ssl.py
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/70662/python/branches/py3k/Lib/test/test_ssl.py
+END
+test_crypt.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/70929/python/branches/py3k/Lib/test/test_crypt.py
 END
 test_frozen.py
 K 25
@@ -363,17 +363,17 @@ svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/70152/python/branches/py3k/Lib/test/test_bufio.py
 END
-test_threadedtempfile.py
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/projects/!svn/ver/66228/python/branches/py3k/Lib/test/test_threadedtempfile.py
-END
 test_winsound.py
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /projects/!svn/ver/70929/python/branches/py3k/Lib/test/test_winsound.py
+END
+test_threadedtempfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/66228/python/branches/py3k/Lib/test/test_threadedtempfile.py
 END
 test_complex.py
 K 25
@@ -843,17 +843,17 @@ svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/64258/python/branches/py3k/Lib/test/test_print.py
 END
-test_heapq.py
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/projects/!svn/ver/71801/python/branches/py3k/Lib/test/test_heapq.py
-END
 test_super.py
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/67299/python/branches/py3k/Lib/test/test_super.py
+END
+test_heapq.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/71801/python/branches/py3k/Lib/test/test_heapq.py
 END
 test_long.py
 K 25
@@ -867,17 +867,17 @@ svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/73066/python/branches/py3k/Lib/test/test_profile.py
 END
-test_dbm.py
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/projects/!svn/ver/70929/python/branches/py3k/Lib/test/test_dbm.py
-END
 test_typechecks.py
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /projects/!svn/ver/66042/python/branches/py3k/Lib/test/test_typechecks.py
+END
+test_dbm.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/70929/python/branches/py3k/Lib/test/test_dbm.py
 END
 test_cprofile.py
 K 25
@@ -897,23 +897,17 @@ svn:wc:ra_dav:version-url
 V 67
 /projects/!svn/ver/56849/python/branches/py3k/Lib/test/ssl_cert.pem
 END
-test_gzip.py
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/projects/!svn/ver/68486/python/branches/py3k/Lib/test/test_gzip.py
-END
 test_charmapcodec.py
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_charmapcodec.py
 END
-test_future.py
+test_gzip.py
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/projects/!svn/ver/67068/python/branches/py3k/Lib/test/test_future.py
+V 67
+/projects/!svn/ver/68486/python/branches/py3k/Lib/test/test_gzip.py
 END
 test_cmd_line.py
 K 25
@@ -921,11 +915,11 @@ svn:wc:ra_dav:version-url
 V 71
 /projects/!svn/ver/73322/python/branches/py3k/Lib/test/test_cmd_line.py
 END
-test_longexp.py
+test_future.py
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_longexp.py
+V 69
+/projects/!svn/ver/67068/python/branches/py3k/Lib/test/test_future.py
 END
 test_functools.py
 K 25
@@ -933,11 +927,11 @@ svn:wc:ra_dav:version-url
 V 72
 /projects/!svn/ver/70941/python/branches/py3k/Lib/test/test_functools.py
 END
-test_colorsys.py
+test_longexp.py
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_colorsys.py
+V 70
+/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_longexp.py
 END
 test_runpy.py
 K 25
@@ -945,23 +939,29 @@ svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_runpy.py
 END
+test_colorsys.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_colorsys.py
+END
 test_pstats.py
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/64258/python/branches/py3k/Lib/test/test_pstats.py
 END
-test_os.py
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/projects/!svn/ver/73125/python/branches/py3k/Lib/test/test_os.py
-END
 test_unpack.py
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_unpack.py
+END
+test_os.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/73125/python/branches/py3k/Lib/test/test_os.py
 END
 test_plistlib.py
 K 25
@@ -975,11 +975,11 @@ svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_errno.py
 END
-test_compare.py
+test_tarfile.py
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_compare.py
+/projects/!svn/ver/70525/python/branches/py3k/Lib/test/test_tarfile.py
 END
 test_syntax.py
 K 25
@@ -987,17 +987,17 @@ svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/73377/python/branches/py3k/Lib/test/test_syntax.py
 END
-test_tarfile.py
+test_compare.py
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/projects/!svn/ver/70525/python/branches/py3k/Lib/test/test_tarfile.py
+/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_compare.py
 END
-test_fractions.py
+test_wait4.py
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/projects/!svn/ver/71834/python/branches/py3k/Lib/test/test_fractions.py
+V 68
+/projects/!svn/ver/70932/python/branches/py3k/Lib/test/test_wait4.py
 END
 test_compile.py
 K 25
@@ -1005,11 +1005,11 @@ svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/64600/python/branches/py3k/Lib/test/test_compile.py
 END
-test_wait4.py
+test_fractions.py
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/projects/!svn/ver/70932/python/branches/py3k/Lib/test/test_wait4.py
+V 72
+/projects/!svn/ver/71834/python/branches/py3k/Lib/test/test_fractions.py
 END
 test_nis.py
 K 25
@@ -1029,17 +1029,17 @@ svn:wc:ra_dav:version-url
 V 83
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_exception_variations.py
 END
-list_tests.py
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/projects/!svn/ver/69025/python/branches/py3k/Lib/test/list_tests.py
-END
 test_openpty.py
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/70662/python/branches/py3k/Lib/test/test_openpty.py
+END
+list_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/69025/python/branches/py3k/Lib/test/list_tests.py
 END
 test_audioop.py
 K 25
@@ -1065,17 +1065,17 @@ svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/70643/python/branches/py3k/Lib/test/test_httplib.py
 END
-test_thread.py
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/projects/!svn/ver/63631/python/branches/py3k/Lib/test/test_thread.py
-END
 test_urllib_response.py
 K 25
 svn:wc:ra_dav:version-url
 V 78
 /projects/!svn/ver/70625/python/branches/py3k/Lib/test/test_urllib_response.py
+END
+test_thread.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/63631/python/branches/py3k/Lib/test/test_thread.py
 END
 test_json.py
 K 25
@@ -1089,11 +1089,11 @@ svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/73125/python/branches/py3k/Lib/test/test_hashlib.py
 END
-test_mimetypes.py
+zipdir.zip
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_mimetypes.py
+V 65
+/projects/!svn/ver/68887/python/branches/py3k/Lib/test/zipdir.zip
 END
 test_capi.py
 K 25
@@ -1101,11 +1101,11 @@ svn:wc:ra_dav:version-url
 V 67
 /projects/!svn/ver/73014/python/branches/py3k/Lib/test/test_capi.py
 END
-zipdir.zip
+test_mimetypes.py
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/projects/!svn/ver/68887/python/branches/py3k/Lib/test/zipdir.zip
+V 72
+/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_mimetypes.py
 END
 badsyntax_future5.py
 K 25
@@ -1119,29 +1119,29 @@ svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/72968/python/branches/py3k/Lib/test/test_pydoc.py
 END
-test_keywordonlyarg.py
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/projects/!svn/ver/65877/python/branches/py3k/Lib/test/test_keywordonlyarg.py
-END
 outstanding_bugs.py
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/outstanding_bugs.py
 END
-test_pep247.py
+test_keywordonlyarg.py
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_pep247.py
+V 77
+/projects/!svn/ver/65877/python/branches/py3k/Lib/test/test_keywordonlyarg.py
 END
 test_strlit.py
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/58934/python/branches/py3k/Lib/test/test_strlit.py
+END
+test_pep247.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_pep247.py
 END
 test_tcl.py
 K 25
@@ -1179,29 +1179,29 @@ svn:wc:ra_dav:version-url
 V 71
 /projects/!svn/ver/68957/python/branches/py3k/Lib/test/test_operator.py
 END
-test_future2.py
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/projects/!svn/ver/56849/python/branches/py3k/Lib/test/test_future2.py
-END
 test_cmath.py
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/68619/python/branches/py3k/Lib/test/test_cmath.py
 END
-test_abstract_numbers.py
+test_future2.py
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_abstract_numbers.py
+V 70
+/projects/!svn/ver/56849/python/branches/py3k/Lib/test/test_future2.py
 END
 test_unary.py
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_unary.py
+END
+test_abstract_numbers.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_abstract_numbers.py
 END
 pickletester.py
 K 25
@@ -1263,17 +1263,17 @@ svn:wc:ra_dav:version-url
 V 71
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_getargs2.py
 END
-test_socketserver.py
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/projects/!svn/ver/70662/python/branches/py3k/Lib/test/test_socketserver.py
-END
 tokenize_tests-latin1-coding-cookie-and-utf8-bom-sig.txt
 K 25
 svn:wc:ra_dav:version-url
 V 111
 /projects/!svn/ver/64259/python/branches/py3k/Lib/test/tokenize_tests-latin1-coding-cookie-and-utf8-bom-sig.txt
+END
+test_socketserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/70662/python/branches/py3k/Lib/test/test_socketserver.py
 END
 test_SimpleHTTPServer.py
 K 25
@@ -1287,23 +1287,17 @@ svn:wc:ra_dav:version-url
 V 72
 /projects/!svn/ver/69961/python/branches/py3k/Lib/test/test_peepholer.py
 END
-test_xdrlib.py
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_xdrlib.py
-END
 xmltests.py
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/xmltests.py
 END
-test_abc.py
+test_xdrlib.py
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/projects/!svn/ver/66042/python/branches/py3k/Lib/test/test_abc.py
+V 69
+/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_xdrlib.py
 END
 test_ossaudiodev.py
 K 25
@@ -1311,23 +1305,29 @@ svn:wc:ra_dav:version-url
 V 74
 /projects/!svn/ver/70929/python/branches/py3k/Lib/test/test_ossaudiodev.py
 END
+test_abc.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/66042/python/branches/py3k/Lib/test/test_abc.py
+END
 test_zipimport_support.py
 K 25
 svn:wc:ra_dav:version-url
 V 80
 /projects/!svn/ver/67792/python/branches/py3k/Lib/test/test_zipimport_support.py
 END
-test_mmap.py
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/projects/!svn/ver/71495/python/branches/py3k/Lib/test/test_mmap.py
-END
 test_pyexpat.py
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/64138/python/branches/py3k/Lib/test/test_pyexpat.py
+END
+test_mmap.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/71495/python/branches/py3k/Lib/test/test_mmap.py
 END
 test_winreg.py
 K 25
@@ -1341,23 +1341,17 @@ svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/71416/python/branches/py3k/Lib/test/test_minidom.py
 END
-test_stringprep.py
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_stringprep.py
-END
 test_structseq.py
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_structseq.py
 END
-test_locale.py
+test_stringprep.py
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/projects/!svn/ver/70938/python/branches/py3k/Lib/test/test_locale.py
+V 73
+/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_stringprep.py
 END
 test_reprlib.py
 K 25
@@ -1365,23 +1359,29 @@ svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_reprlib.py
 END
+test_locale.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/70938/python/branches/py3k/Lib/test/test_locale.py
+END
 __init__.py
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/56849/python/branches/py3k/Lib/test/__init__.py
 END
-test_aifc.py
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/projects/!svn/ver/72477/python/branches/py3k/Lib/test/test_aifc.py
-END
 test_cgi.py
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/67534/python/branches/py3k/Lib/test/test_cgi.py
+END
+test_aifc.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/72477/python/branches/py3k/Lib/test/test_aifc.py
 END
 test_codecencodings_kr.py
 K 25
@@ -1407,17 +1407,17 @@ svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/64258/python/branches/py3k/Lib/test/profilee.py
 END
-test_copyreg.py
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/projects/!svn/ver/64258/python/branches/py3k/Lib/test/test_copyreg.py
-END
 test_codecmaps_tw.py
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_codecmaps_tw.py
+END
+test_copyreg.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/64258/python/branches/py3k/Lib/test/test_copyreg.py
 END
 test_scope.py
 K 25
@@ -1435,19 +1435,19 @@ test_signal.py
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/projects/!svn/ver/73191/python/branches/py3k/Lib/test/test_signal.py
-END
-test_codecmaps_cn.py
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_codecmaps_cn.py
+/projects/!svn/ver/73470/python/branches/py3k/Lib/test/test_signal.py
 END
 test_textwrap.py
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /projects/!svn/ver/67747/python/branches/py3k/Lib/test/test_textwrap.py
+END
+test_codecmaps_cn.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/63512/python/branches/py3k/Lib/test/test_codecmaps_cn.py
 END
 test_unicodedata.py
 K 25
@@ -1473,17 +1473,17 @@ svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/67109/python/branches/py3k/Lib/test/test_poplib.py
 END
-test_marshal.py
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/projects/!svn/ver/63731/python/branches/py3k/Lib/test/test_marshal.py
-END
 curses_tests.py
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/64258/python/branches/py3k/Lib/test/curses_tests.py
+END
+test_marshal.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/63731/python/branches/py3k/Lib/test/test_marshal.py
 END
 test_bz2.py
 K 25
@@ -1491,17 +1491,17 @@ svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/70929/python/branches/py3k/Lib/test/test_bz2.py
 END
-test_memoryio.py
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/projects/!svn/ver/73259/python/branches/py3k/Lib/test/test_memoryio.py
-END
 test_urllibnet.py
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /projects/!svn/ver/67794/python/branches/py3k/Lib/test/test_urllibnet.py
+END
+test_memoryio.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/73259/python/branches/py3k/Lib/test/test_memoryio.py
 END
 cmath_testcases.txt
 K 25
@@ -1509,11 +1509,11 @@ svn:wc:ra_dav:version-url
 V 74
 /projects/!svn/ver/73454/python/branches/py3k/Lib/test/cmath_testcases.txt
 END
-test_deque.py
+test_iter.py
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/projects/!svn/ver/70299/python/branches/py3k/Lib/test/test_deque.py
+V 67
+/projects/!svn/ver/68561/python/branches/py3k/Lib/test/test_iter.py
 END
 test_memoryview.py
 K 25
@@ -1521,11 +1521,11 @@ svn:wc:ra_dav:version-url
 V 73
 /projects/!svn/ver/68200/python/branches/py3k/Lib/test/test_memoryview.py
 END
-test_iter.py
+test_deque.py
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/projects/!svn/ver/68561/python/branches/py3k/Lib/test/test_iter.py
+V 68
+/projects/!svn/ver/70299/python/branches/py3k/Lib/test/test_deque.py
 END
 test_ascii_formatd.py
 K 25

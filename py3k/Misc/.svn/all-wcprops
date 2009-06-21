@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/projects/!svn/ver/73443/python/branches/py3k/Misc
-END
-gdbinit
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/projects/!svn/ver/71500/python/branches/py3k/Misc/gdbinit
+/projects/!svn/ver/73482/python/branches/py3k/Misc
 END
 indent.pro
 K 25
@@ -15,17 +9,23 @@ svn:wc:ra_dav:version-url
 V 61
 /projects/!svn/ver/56849/python/branches/py3k/Misc/indent.pro
 END
-ACKS
+gdbinit
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/projects/!svn/ver/73015/python/branches/py3k/Misc/ACKS
+V 58
+/projects/!svn/ver/71500/python/branches/py3k/Misc/gdbinit
 END
 pymemcompat.h
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /projects/!svn/ver/56849/python/branches/py3k/Misc/pymemcompat.h
+END
+ACKS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/73015/python/branches/py3k/Misc/ACKS
 END
 Porting
 K 25
@@ -39,23 +39,23 @@ svn:wc:ra_dav:version-url
 V 64
 /projects/!svn/ver/58182/python/branches/py3k/Misc/setuid-prog.c
 END
-developers.txt
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/projects/!svn/ver/73295/python/branches/py3k/Misc/developers.txt
-END
 README.OpenBSD
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /projects/!svn/ver/56849/python/branches/py3k/Misc/README.OpenBSD
 END
-python.pc.in
+developers.txt
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/projects/!svn/ver/72899/python/branches/py3k/Misc/python.pc.in
+V 65
+/projects/!svn/ver/73295/python/branches/py3k/Misc/developers.txt
+END
+README.klocwork
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Misc/README.klocwork
 END
 vgrindefs
 K 25
@@ -63,11 +63,11 @@ svn:wc:ra_dav:version-url
 V 60
 /projects/!svn/ver/56849/python/branches/py3k/Misc/vgrindefs
 END
-README.klocwork
+python.pc.in
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/projects/!svn/ver/56849/python/branches/py3k/Misc/README.klocwork
+V 63
+/projects/!svn/ver/72899/python/branches/py3k/Misc/python.pc.in
 END
 python-config.in
 K 25
@@ -169,7 +169,7 @@ NEWS
 K 25
 svn:wc:ra_dav:version-url
 V 55
-/projects/!svn/ver/73443/python/branches/py3k/Misc/NEWS
+/projects/!svn/ver/73482/python/branches/py3k/Misc/NEWS
 END
 cheatsheet
 K 25

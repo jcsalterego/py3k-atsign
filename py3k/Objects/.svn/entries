@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Objects
 http://svn.python.org/projects
 
@@ -273,19 +273,6 @@ c2bd51e1319defd526157d489b6ef710
 benjamin.peterson
 has-props
 
-listobject.c
-file
-
-
-
-
-2009-06-21T03:51:25.000000Z
-7161a49f6f9b2aaca8104a4e7363e489
-2009-02-02T22:55:09.908709Z
-69229
-raymond.hettinger
-has-props
-
 unicodetype_db.h
 file
 
@@ -297,6 +284,19 @@ file
 2009-04-25T14:13:56.981825Z
 71896
 walter.doerwald
+has-props
+
+listobject.c
+file
+
+
+
+
+2009-06-21T03:51:25.000000Z
+7161a49f6f9b2aaca8104a4e7363e489
+2009-02-02T22:55:09.908709Z
+69229
+raymond.hettinger
 has-props
 
 fileobject.c
@@ -325,6 +325,9 @@ bbf3ac025309d11ce9d7cd0c268a316e
 georg.brandl
 has-props
 
+stringlib
+dir
+
 moduleobject.c
 file
 
@@ -338,9 +341,6 @@ file
 mark.dickinson
 has-props
 
-stringlib
-dir
-
 bytesobject.c
 file
 
@@ -352,19 +352,6 @@ file
 2009-04-18T15:17:02.491914Z
 71718
 benjamin.peterson
-has-props
-
-frameobject.c
-file
-
-
-
-
-2009-06-21T03:51:25.000000Z
-f93e2c70e96f0fbe90ed0ca9b8495422
-2009-06-01T23:29:07.161046Z
-73131
-antoine.pitrou
 has-props
 
 exceptions.c
@@ -380,17 +367,17 @@ file
 georg.brandl
 has-props
 
-setobject.c
+frameobject.c
 file
 
 
 
 
 2009-06-21T03:51:25.000000Z
-6d0acb7f8cf2fdc6d7cfe0a376c00679
-2009-02-02T20:36:42.875594Z
-69214
-mark.dickinson
+f93e2c70e96f0fbe90ed0ca9b8495422
+2009-06-01T23:29:07.161046Z
+73131
+antoine.pitrou
 has-props
 
 funcobject.c
@@ -404,6 +391,19 @@ c6b017e754c07bdbc3a32915b43f4d65
 2009-05-29T04:52:27.885056Z
 73005
 raymond.hettinger
+has-props
+
+setobject.c
+file
+
+
+
+
+2009-06-21T03:51:25.000000Z
+6d0acb7f8cf2fdc6d7cfe0a376c00679
+2009-02-02T20:36:42.875594Z
+69214
+mark.dickinson
 has-props
 
 sliceobject.c

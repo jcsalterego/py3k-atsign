@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Tools
 http://svn.python.org/projects
 
@@ -35,22 +35,22 @@ dir
 versioncheck
 dir
 
-unicode
-dir
-
 pynche
 dir
 
-world
+unicode
 dir
 
 scripts
 dir
 
-pybench
+world
 dir
 
 msi
+dir
+
+pybench
 dir
 
 README
@@ -66,10 +66,10 @@ d9083affedf89a0786828690381c0c93
 benjamin.peterson
 has-props
 
-ssl
+faqwiz
 dir
 
-faqwiz
+ssl
 dir
 
 webchecker

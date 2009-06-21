@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Modules/expat
 http://svn.python.org/projects
 
@@ -104,19 +104,6 @@ file
 loewis
 has-props
 
-xmltok.c
-file
-
-
-
-
-2009-06-21T03:52:29.000000Z
-4ad8bf7e12ff6f2a59fdc4b80bd3ed0a
-2006-08-11T14:57:12.738609Z
-51211
-thomas.wouters
-has-props
-
 xmltok_ns.c
 file
 
@@ -125,6 +112,19 @@ file
 
 2009-06-21T03:52:29.000000Z
 d2f3f3b190540640e264acda061c2b3a
+2006-08-11T14:57:12.738609Z
+51211
+thomas.wouters
+has-props
+
+xmltok.c
+file
+
+
+
+
+2009-06-21T03:52:29.000000Z
+4ad8bf7e12ff6f2a59fdc4b80bd3ed0a
 2006-08-11T14:57:12.738609Z
 51211
 thomas.wouters
@@ -143,19 +143,6 @@ c2154e3357cd4261bb343f221e90ffe8
 fdrake
 has-props
 
-xmlrole.c
-file
-
-
-
-
-2009-06-21T03:52:29.000000Z
-141292a7dc327998f41b4787af9d2b72
-2006-08-11T14:57:12.738609Z
-51211
-thomas.wouters
-has-props
-
 utf8tab.h
 file
 
@@ -167,6 +154,19 @@ ba060ade60c6d61ba0d48194672b9640
 2003-10-21T15:38:55.000000Z
 34447
 fdrake
+has-props
+
+xmlrole.c
+file
+
+
+
+
+2009-06-21T03:52:29.000000Z
+141292a7dc327998f41b4787af9d2b72
+2006-08-11T14:57:12.738609Z
+51211
+thomas.wouters
 has-props
 
 xmltok.h
@@ -182,19 +182,6 @@ file
 thomas.wouters
 has-props
 
-latin1tab.h
-file
-
-
-
-
-2009-06-21T03:52:29.000000Z
-b82ee090d482b7ca08652cf7fea6a527
-2003-10-21T15:38:55.000000Z
-34447
-fdrake
-has-props
-
 asciitab.h
 file
 
@@ -203,6 +190,19 @@ file
 
 2009-06-21T03:52:29.000000Z
 bfd78160e18cf30e8f6776a0e438e810
+2003-10-21T15:38:55.000000Z
+34447
+fdrake
+has-props
+
+latin1tab.h
+file
+
+
+
+
+2009-06-21T03:52:29.000000Z
+b82ee090d482b7ca08652cf7fea6a527
 2003-10-21T15:38:55.000000Z
 34447
 fdrake

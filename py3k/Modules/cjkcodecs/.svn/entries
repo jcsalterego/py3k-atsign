@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Modules/cjkcodecs
 http://svn.python.org/projects
 
@@ -104,17 +104,17 @@ file
 hyeshik.chang
 has-props
 
-mappings_jp.h
+multibytecodec.c
 file
 
 
 
 
 2009-06-21T03:52:28.000000Z
-5e536df0a70dc213abbd5e987c6035a3
-2006-03-04T16:08:19.535074Z
-42831
-hyeshik.chang
+99a40d0659458b10cc7f7e6a8f0af015
+2009-05-05T22:31:58.035365Z
+72363
+benjamin.peterson
 has-props
 
 README
@@ -130,43 +130,17 @@ file
 hyeshik.chang
 has-props
 
-multibytecodec.c
+mappings_jp.h
 file
 
 
 
 
 2009-06-21T03:52:28.000000Z
-99a40d0659458b10cc7f7e6a8f0af015
-2009-05-05T22:31:58.035365Z
-72363
-benjamin.peterson
-has-props
-
-mappings_kr.h
-file
-
-
-
-
-2009-06-21T03:52:28.000000Z
-b9bc61e69ece51b4e80567f0e873ee12
+5e536df0a70dc213abbd5e987c6035a3
 2006-03-04T16:08:19.535074Z
 42831
 hyeshik.chang
-has-props
-
-_codecs_iso2022.c
-file
-
-
-
-
-2009-06-21T03:52:28.000000Z
-9c299ced35da23ed52f7fa3b06ff186f
-2007-12-15T01:27:15.426441Z
-59517
-christian.heimes
 has-props
 
 _codecs_cn.c
@@ -182,17 +156,30 @@ file
 guido.van.rossum
 has-props
 
-_codecs_hk.c
+_codecs_iso2022.c
 file
 
 
 
 
 2009-06-21T03:52:28.000000Z
-fca97f38784b5c249b51c882ecb0ea58
-2008-02-09T02:18:51.301426Z
-60681
+9c299ced35da23ed52f7fa3b06ff186f
+2007-12-15T01:27:15.426441Z
+59517
 christian.heimes
+has-props
+
+mappings_kr.h
+file
+
+
+
+
+2009-06-21T03:52:28.000000Z
+b9bc61e69ece51b4e80567f0e873ee12
+2006-03-04T16:08:19.535074Z
+42831
+hyeshik.chang
 has-props
 
 multibytecodec.h
@@ -206,6 +193,19 @@ file
 2009-05-05T22:31:58.035365Z
 72363
 benjamin.peterson
+has-props
+
+_codecs_hk.c
+file
+
+
+
+
+2009-06-21T03:52:28.000000Z
+fca97f38784b5c249b51c882ecb0ea58
+2008-02-09T02:18:51.301426Z
+60681
+christian.heimes
 has-props
 
 _codecs_jp.c

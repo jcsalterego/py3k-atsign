@@ -1,15 +1,15 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k
 http://svn.python.org/projects
 
 
 
-2009-06-17T01:40:52.969553Z
-73458
-raymond.hettinger
+2009-06-19T20:34:30.798463Z
+73482
+facundo.batista
 has-props
 
 svn:special svn:externals svn:needs-lock
@@ -50,9 +50,6 @@ f3f4bb0a8374847d7bea077a0e20666b
 72901
 antoine.pitrou
 
-Python
-dir
-
 configure
 file
 
@@ -66,7 +63,7 @@ a66c83c71e4610c0b1e6c2b81b5f3122
 ronald.oussoren
 has-props
 
-PCbuild
+Python
 dir
 
 LICENSE
@@ -82,13 +79,13 @@ file
 georg.brandl
 has-props
 
+PCbuild
+dir
+
 Include
 dir
 
 Demo
-dir
-
-Grammar
 dir
 
 configure.in
@@ -103,6 +100,9 @@ file
 73307
 ronald.oussoren
 has-props
+
+Grammar
+dir
 
 setup.py
 file

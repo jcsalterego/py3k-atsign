@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Demo/tkinter/matt
 http://svn.python.org/projects
 
@@ -221,14 +221,14 @@ file
 mark.dickinson
 has-props
 
-packer-and-placer-together.py
+entry-simple.py
 file
 
 
 
 
 2009-06-21T03:51:22.000000Z
-66a90a3e6ec2cecbff0c31c9d712acf1
+09a47a6897bf4cbf7be094352569b2af
 2009-01-04T18:53:28.281738Z
 68309
 benjamin.peterson
@@ -247,14 +247,14 @@ ffe20923ab168e99f39d630540d2afde
 benjamin.peterson
 has-props
 
-entry-simple.py
+packer-and-placer-together.py
 file
 
 
 
 
 2009-06-21T03:51:22.000000Z
-09a47a6897bf4cbf7be094352569b2af
+66a90a3e6ec2cecbff0c31c9d712acf1
 2009-01-04T18:53:28.281738Z
 68309
 benjamin.peterson
@@ -312,19 +312,6 @@ bdf650e81b990db4fa804b9ead7a6680
 benjamin.peterson
 has-props
 
-canvas-gridding.py
-file
-
-
-
-
-2009-06-21T03:51:22.000000Z
-66b2eb93aca266bc8afff7971d8620be
-2009-01-04T18:53:28.281738Z
-68309
-benjamin.peterson
-has-props
-
 window-creation-simple.py
 file
 
@@ -333,6 +320,19 @@ file
 
 2009-06-21T03:51:22.000000Z
 531ec69772a870d9f55f09b0a02fe037
+2009-01-04T18:53:28.281738Z
+68309
+benjamin.peterson
+has-props
+
+canvas-gridding.py
+file
+
+
+
+
+2009-06-21T03:51:22.000000Z
+66b2eb93aca266bc8afff7971d8620be
 2009-01-04T18:53:28.281738Z
 68309
 benjamin.peterson
@@ -364,19 +364,6 @@ file
 benjamin.peterson
 has-props
 
-README
-file
-
-
-
-
-2009-06-21T03:51:22.000000Z
-25bca2203c683f1cb0f101b54e400b51
-1994-10-07T09:55:26.000000Z
-4404
-guido
-has-props
-
 animation-simple.py
 file
 
@@ -388,6 +375,19 @@ file
 2009-01-04T18:53:28.281738Z
 68309
 benjamin.peterson
+has-props
+
+README
+file
+
+
+
+
+2009-06-21T03:51:22.000000Z
+25bca2203c683f1cb0f101b54e400b51
+1994-10-07T09:55:26.000000Z
+4404
+guido
 has-props
 
 bind-w-mult-calls-p-type.py

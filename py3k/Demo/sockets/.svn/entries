@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Demo/sockets
 http://svn.python.org/projects
 
@@ -91,6 +91,19 @@ file
 collin.winter
 has-props
 
+README
+file
+
+
+
+
+2009-06-21T03:51:23.000000Z
+1db2255adb77de885b8dd22b544e83cd
+2009-05-03T19:09:56.590367Z
+72238
+gregory.p.smith
+has-props
+
 unicast.py
 file
 
@@ -104,14 +117,14 @@ file
 tim_one
 has-props
 
-README
+mcast.py
 file
 
 
 
 
 2009-06-21T03:51:23.000000Z
-1db2255adb77de885b8dd22b544e83cd
+306f003dd1617f0f4c9d529bd3e46103
 2009-05-03T19:09:56.590367Z
 72238
 gregory.p.smith
@@ -130,32 +143,6 @@ file
 collin.winter
 has-props
 
-mcast.py
-file
-
-
-
-
-2009-06-21T03:51:23.000000Z
-306f003dd1617f0f4c9d529bd3e46103
-2009-05-03T19:09:56.590367Z
-72238
-gregory.p.smith
-has-props
-
-throughput.py
-file
-
-
-
-
-2009-06-21T03:51:23.000000Z
-d3c11212e6f2d48a46ccb8cdab3eeb3f
-2007-07-17T20:59:35.061274Z
-56418
-collin.winter
-has-props
-
 echosvr.py
 file
 
@@ -169,14 +156,14 @@ file
 collin.winter
 has-props
 
-unixserver.py
+throughput.py
 file
 
 
 
 
 2009-06-21T03:51:23.000000Z
-6ad00dbf6fa0d85acc07ba8a2d7e0897
+d3c11212e6f2d48a46ccb8cdab3eeb3f
 2007-07-17T20:59:35.061274Z
 56418
 collin.winter
@@ -193,6 +180,19 @@ aee8ac22bf0e29a9171c7c7921aa9f52
 2004-07-18T05:56:09.000000Z
 36559
 tim_one
+has-props
+
+unixserver.py
+file
+
+
+
+
+2009-06-21T03:51:23.000000Z
+6ad00dbf6fa0d85acc07ba8a2d7e0897
+2007-07-17T20:59:35.061274Z
+56418
+collin.winter
 has-props
 
 unixclient.py

@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Lib/ctypes/test
 http://svn.python.org/projects
 
@@ -234,19 +234,6 @@ file
 thomas.wouters
 has-props
 
-test_libc.py
-file
-
-
-
-
-2009-06-21T03:52:02.000000Z
-0ec0423b9adf09226a83937ab466020d
-2009-01-27T18:17:45.885731Z
-69025
-mark.dickinson
-has-props
-
 test_unaligned_structures.py
 file
 
@@ -258,6 +245,19 @@ f393068df1788358663fa0dcf74eeae7
 2006-05-27T19:21:47.962989Z
 46491
 thomas.wouters
+has-props
+
+test_libc.py
+file
+
+
+
+
+2009-06-21T03:52:02.000000Z
+0ec0423b9adf09226a83937ab466020d
+2009-01-27T18:17:45.885731Z
+69025
+mark.dickinson
 has-props
 
 test_python_api.py
@@ -312,17 +312,17 @@ file
 christian.heimes
 has-props
 
-test_funcptr.py
+test_simplesubclasses.py
 file
 
 
 
 
 2009-06-21T03:52:02.000000Z
-3e785d4663f19ba91aa3566c196f2b54
-2008-01-29T12:18:50.526654Z
-60408
-christian.heimes
+ec55c195418882d0b8e55c8edf1dfbb7
+2006-08-24T00:41:19.966171Z
+51533
+guido.van.rossum
 has-props
 
 test_cfuncs.py
@@ -338,17 +338,17 @@ cbfbeb49f648cd8a78936ee81710398e
 guido.van.rossum
 has-props
 
-test_simplesubclasses.py
+test_funcptr.py
 file
 
 
 
 
 2009-06-21T03:52:02.000000Z
-ec55c195418882d0b8e55c8edf1dfbb7
-2006-08-24T00:41:19.966171Z
-51533
-guido.van.rossum
+3e785d4663f19ba91aa3566c196f2b54
+2008-01-29T12:18:50.526654Z
+60408
+christian.heimes
 has-props
 
 test_structures.py
@@ -361,6 +361,19 @@ file
 47f87ac7786880575b7b4d176dbc7316
 2008-04-07T05:43:42.728855Z
 62203
+martin.v.loewis
+has-props
+
+test_errcheck.py
+file
+
+
+
+
+2009-06-21T03:52:02.000000Z
+a02b9acbf9cf3ce22acc19d19dc6f8e1
+2006-03-09T01:35:32.082124Z
+42928
 martin.v.loewis
 has-props
 
@@ -377,17 +390,17 @@ file
 thomas.heller
 has-props
 
-test_errcheck.py
+test_strings.py
 file
 
 
 
 
 2009-06-21T03:52:02.000000Z
-a02b9acbf9cf3ce22acc19d19dc6f8e1
-2006-03-09T01:35:32.082124Z
-42928
-martin.v.loewis
+3f8cb88e964d93e178b689befc25b16e
+2007-10-24T18:41:19.607476Z
+58639
+guido.van.rossum
 has-props
 
 test_objects.py
@@ -401,19 +414,6 @@ file
 2007-07-13T12:52:51.530478Z
 56346
 thomas.heller
-has-props
-
-test_strings.py
-file
-
-
-
-
-2009-06-21T03:52:02.000000Z
-3f8cb88e964d93e178b689befc25b16e
-2007-10-24T18:41:19.607476Z
-58639
-guido.van.rossum
 has-props
 
 test_checkretval.py

@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/PCbuild
 http://svn.python.org/projects
 
@@ -195,6 +195,19 @@ e41b350cc5fcd5ffdb708602bd5c9327
 amaury.forgeotdarc
 has-props
 
+_ctypes_test.vcproj
+file
+
+
+
+
+2009-06-21T03:51:21.000000Z
+cad8b0b35beb9044b1431e1184934891
+2007-12-31T16:14:33.469226Z
+59625
+christian.heimes
+has-props
+
 pyd.vsprops
 file
 
@@ -219,19 +232,6 @@ d6dcef98233806712d10377f08871029
 2008-04-05T06:16:50.700592Z
 62163
 neal.norwitz
-has-props
-
-_ctypes_test.vcproj
-file
-
-
-
-
-2009-06-21T03:51:21.000000Z
-cad8b0b35beb9044b1431e1184934891
-2007-12-31T16:14:33.469226Z
-59625
-christian.heimes
 has-props
 
 _ctypes.vcproj
@@ -260,6 +260,19 @@ file
 christian.heimes
 has-props
 
+_elementtree.vcproj
+file
+
+
+
+
+2009-06-21T03:51:21.000000Z
+f8307fff15b43e80af2c8a0fb5aa6964
+2008-06-12T22:53:41.721573Z
+64209
+amaury.forgeotdarc
+has-props
+
 make_buildinfo.vcproj
 file
 
@@ -273,17 +286,17 @@ file
 christian.heimes
 has-props
 
-_elementtree.vcproj
+_testcapi.vcproj
 file
 
 
 
 
 2009-06-21T03:51:21.000000Z
-f8307fff15b43e80af2c8a0fb5aa6964
-2008-06-12T22:53:41.721573Z
-64209
-amaury.forgeotdarc
+cf4b37b3652fcc8fec60774ec5a988db
+2007-12-31T16:14:33.469226Z
+59625
+christian.heimes
 has-props
 
 pcbuild.sln
@@ -299,14 +312,27 @@ f61990c284d3da260c454d1e5178dbe4
 amaury.forgeotdarc
 has-props
 
-_testcapi.vcproj
+select.vcproj
 file
 
 
 
 
 2009-06-21T03:51:21.000000Z
-cf4b37b3652fcc8fec60774ec5a988db
+d5ea4c45a65bae1001b71e3776e31128
+2007-12-31T16:14:33.469226Z
+59625
+christian.heimes
+has-props
+
+rmpyc.py
+file
+
+
+
+
+2009-06-21T03:51:21.000000Z
+34037d315c74cda723e94b6e8ad07247
 2007-12-31T16:14:33.469226Z
 59625
 christian.heimes
@@ -325,27 +351,14 @@ file
 christian.heimes
 has-props
 
-rmpyc.py
+unicodedata.vcproj
 file
 
 
 
 
 2009-06-21T03:51:21.000000Z
-34037d315c74cda723e94b6e8ad07247
-2007-12-31T16:14:33.469226Z
-59625
-christian.heimes
-has-props
-
-select.vcproj
-file
-
-
-
-
-2009-06-21T03:51:21.000000Z
-d5ea4c45a65bae1001b71e3776e31128
+3b8b5ab8bec5714052dd9a26411f98af
 2007-12-31T16:14:33.469226Z
 59625
 christian.heimes
@@ -362,19 +375,6 @@ bfeff883ad00250a56f09809620a35be
 2009-01-29T12:36:50.746643Z
 69096
 mark.hammond
-has-props
-
-unicodedata.vcproj
-file
-
-
-
-
-2009-06-21T03:51:21.000000Z
-3b8b5ab8bec5714052dd9a26411f98af
-2007-12-31T16:14:33.469226Z
-59625
-christian.heimes
 has-props
 
 python.vcproj

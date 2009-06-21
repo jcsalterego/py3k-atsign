@@ -1,15 +1,15 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Lib
 http://svn.python.org/projects
 
 
 
-2009-06-16T20:54:33.412707Z
-73454
-mark.dickinson
+2009-06-19T20:34:30.798463Z
+73482
+facundo.batista
 has-props
 
 svn:special svn:externals svn:needs-lock
@@ -208,10 +208,10 @@ b7f965302138c0580cc92e92a864a864
 georg.brandl
 has-props
 
-idlelib
+curses
 dir
 
-curses
+idlelib
 dir
 
 xmlrpc
@@ -219,19 +219,6 @@ dir
 
 wsgiref
 dir
-
-token.py
-file
-
-
-
-
-2009-06-21T03:52:22.000000Z
-eec2c7475486e415c87777e96bc83c3d
-2008-02-26T08:18:30.710614Z
-61083
-christian.heimes
-has-props
 
 pipes.py
 file
@@ -244,6 +231,19 @@ file
 2007-08-30T22:15:33.756221Z
 57773
 thomas.wouters
+has-props
+
+token.py
+file
+
+
+
+
+2009-06-21T03:52:22.000000Z
+eec2c7475486e415c87777e96bc83c3d
+2008-02-26T08:18:30.710614Z
+61083
+christian.heimes
 has-props
 
 os.py
@@ -259,8 +259,18 @@ file
 benjamin.peterson
 has-props
 
-json
-dir
+configparser.py
+file
+
+
+
+
+2009-06-21T03:52:22.000000Z
+a7a839e05f8886e58bf91a4a515ea223
+2009-04-27T16:43:36.998137Z
+72026
+georg.brandl
+has-props
 
 sndhdr.py
 file
@@ -275,18 +285,8 @@ dc4669025858e15cfee806bdd6a2d6ca
 guido.van.rossum
 has-props
 
-configparser.py
-file
-
-
-
-
-2009-06-21T03:52:22.000000Z
-a7a839e05f8886e58bf91a4a515ea223
-2009-04-27T16:43:36.998137Z
-72026
-georg.brandl
-has-props
+json
+dir
 
 plat-generic
 dir
@@ -330,9 +330,6 @@ file
 georg.brandl
 has-props
 
-multiprocessing
-dir
-
 py_compile.py
 file
 
@@ -345,6 +342,9 @@ a55ad0c31906ba183b3996c50cabcded
 65860
 antoine.pitrou
 has-props
+
+multiprocessing
+dir
 
 threading.py
 file
@@ -743,18 +743,8 @@ file
 antoine.pitrou
 has-props
 
-modulefinder.py
-file
-
-
-
-
-2009-06-21T03:52:22.000000Z
-ced215af905f0ee1b8040d76473e5e87
-2009-02-16T16:20:10.221522Z
-69676
-benjamin.peterson
-has-props
+html
+dir
 
 macpath.py
 file
@@ -769,20 +759,30 @@ f1a632fdcf8f057bb39fce4a82b86973
 amaury.forgeotdarc
 has-props
 
-html
-dir
-
-fnmatch.py
+modulefinder.py
 file
 
 
 
 
 2009-06-21T03:52:22.000000Z
-36ac4abce6d9c45297081e6d9172eee5
-2008-10-03T16:38:30.452439Z
-66773
-guido.van.rossum
+ced215af905f0ee1b8040d76473e5e87
+2009-02-16T16:20:10.221522Z
+69676
+benjamin.peterson
+has-props
+
+random.py
+file
+
+
+
+
+2009-06-21T03:52:22.000000Z
+6d7925f934e1ba252f65f825e29ebba8
+2009-06-11T23:12:14.469429Z
+73380
+raymond.hettinger
 has-props
 
 ftplib.py
@@ -798,17 +798,17 @@ file
 benjamin.peterson
 has-props
 
-random.py
+fnmatch.py
 file
 
 
 
 
 2009-06-21T03:52:22.000000Z
-6d7925f934e1ba252f65f825e29ebba8
-2009-06-11T23:12:14.469429Z
-73380
-raymond.hettinger
+36ac4abce6d9c45297081e6d9172eee5
+2008-10-03T16:38:30.452439Z
+66773
+guido.van.rossum
 has-props
 
 _dummy_thread.py
@@ -827,19 +827,6 @@ has-props
 encodings
 dir
 
-asyncore.py
-file
-
-
-
-
-2009-06-21T03:52:22.000000Z
-87899053d296c75e9dbeb65a130c12b1
-2009-06-03T19:48:02.001409Z
-73183
-josiah.carlson
-has-props
-
 shlex.py
 file
 
@@ -853,17 +840,17 @@ d060ece816725accff96b53a3b64625e
 guido.van.rossum
 has-props
 
-base64.py
+asyncore.py
 file
 
 
 
 
 2009-06-21T03:52:22.000000Z
-64002fd7ab87b54a535bcd10b4af0798
-2009-06-04T09:42:55.643113Z
-73211
-georg.brandl
+87899053d296c75e9dbeb65a130c12b1
+2009-06-03T19:48:02.001409Z
+73183
+josiah.carlson
 has-props
 
 struct.py
@@ -879,17 +866,17 @@ file
 christian.heimes
 has-props
 
-pickletools.py
+base64.py
 file
 
 
 
 
 2009-06-21T03:52:22.000000Z
-7772f294ab0b25c56bec308fa76e60e7
-2009-06-04T20:32:06.110820Z
-73236
-antoine.pitrou
+64002fd7ab87b54a535bcd10b4af0798
+2009-06-04T09:42:55.643113Z
+73211
+georg.brandl
 has-props
 
 socket.py
@@ -905,6 +892,19 @@ file
 mark.dickinson
 has-props
 
+pickletools.py
+file
+
+
+
+
+2009-06-21T03:52:22.000000Z
+7772f294ab0b25c56bec308fa76e60e7
+2009-06-04T20:32:06.110820Z
+73236
+antoine.pitrou
+has-props
+
 stringprep.py
 file
 
@@ -916,19 +916,6 @@ file
 2007-05-07T22:24:25.117285Z
 55180
 guido.van.rossum
-has-props
-
-decimal.py
-file
-
-
-
-
-2009-06-21T03:52:22.000000Z
-cb09878a443ff4e3a441e905e6a8d35a
-2009-04-21T03:43:15.355951Z
-71782
-raymond.hettinger
 has-props
 
 heapq.py
@@ -944,6 +931,22 @@ c9ce10a8c2345308b9913f0ae460547d
 raymond.hettinger
 has-props
 
+decimal.py
+file
+
+
+
+
+2009-06-21T03:52:22.000000Z
+cb09878a443ff4e3a441e905e6a8d35a
+2009-04-21T03:43:15.355951Z
+71782
+raymond.hettinger
+has-props
+
+logging
+dir
+
 difflib.py
 file
 
@@ -956,9 +959,6 @@ a97283f8a5de9bdbfc1b2fadde0b45bc
 69847
 mark.dickinson
 has-props
-
-logging
-dir
 
 getopt.py
 file
@@ -1038,6 +1038,9 @@ file
 benjamin.peterson
 has-props
 
+dbm
+dir
+
 numbers.py
 file
 
@@ -1050,9 +1053,6 @@ file
 69547
 mark.dickinson
 has-props
-
-dbm
-dir
 
 runpy.py
 file
@@ -1080,19 +1080,6 @@ file
 raymond.hettinger
 has-props
 
-traceback.py
-file
-
-
-
-
-2009-06-21T03:52:22.000000Z
-7bdbe352577c08322a6141c5d5ef97fd
-2009-06-04T10:21:10.015934Z
-73214
-georg.brandl
-has-props
-
 turtle.py
 file
 
@@ -1106,6 +1093,25 @@ file
 georg.brandl
 has-props
 
+traceback.py
+file
+
+
+
+
+2009-06-21T03:52:22.000000Z
+7bdbe352577c08322a6141c5d5ef97fd
+2009-06-04T10:21:10.015934Z
+73214
+georg.brandl
+has-props
+
+pydoc_data
+dir
+
+ctypes
+dir
+
 dummy_threading.py
 file
 
@@ -1117,25 +1123,6 @@ afa1fa138c6df83a759bf47bbce96053
 2008-05-25T13:05:15.688516Z
 63631
 georg.brandl
-has-props
-
-ctypes
-dir
-
-pydoc_data
-dir
-
-compileall.py
-file
-
-
-
-
-2009-06-21T03:52:22.000000Z
-fc42a84c6e292c6b60c60f5e796cc699
-2009-04-19T17:14:11.151534Z
-71752
-mark.dickinson
 has-props
 
 webbrowser.py
@@ -1151,6 +1138,22 @@ file
 fred.drake
 has-props
 
+compileall.py
+file
+
+
+
+
+2009-06-21T03:52:22.000000Z
+fc42a84c6e292c6b60c60f5e796cc699
+2009-04-19T17:14:11.151534Z
+71752
+mark.dickinson
+has-props
+
+plat-os2emx
+dir
+
 weakref.py
 file
 
@@ -1163,9 +1166,6 @@ file
 73063
 antoine.pitrou
 has-props
-
-plat-os2emx
-dir
 
 abc.py
 file
@@ -1212,19 +1212,6 @@ dir
 site-packages
 dir
 
-pyclbr.py
-file
-
-
-
-
-2009-06-21T03:52:22.000000Z
-e37a874d81b6c20a260daca88f481731
-2008-05-04T22:42:01.640465Z
-62716
-christian.heimes
-has-props
-
 csv.py
 file
 
@@ -1236,6 +1223,19 @@ file
 2008-08-18T00:51:19.915849Z
 65796
 brett.cannon
+has-props
+
+pyclbr.py
+file
+
+
+
+
+2009-06-21T03:52:22.000000Z
+e37a874d81b6c20a260daca88f481731
+2008-05-04T22:42:01.640465Z
+62716
+christian.heimes
 has-props
 
 plat-unixware7
@@ -1267,8 +1267,18 @@ f50706e12ece3cc68db867843c35743f
 philip.jenvey
 has-props
 
-plat-freebsd4
-dir
+pdb.py
+file
+
+
+
+
+2009-06-21T03:52:22.000000Z
+477d161e6268ce2fd43de69858263530
+2009-05-05T09:11:31.115201Z
+72325
+georg.brandl
+has-props
 
 tempfile.py
 file
@@ -1283,20 +1293,7 @@ file
 alexandre.vassalotti
 has-props
 
-pdb.py
-file
-
-
-
-
-2009-06-21T03:52:22.000000Z
-477d161e6268ce2fd43de69858263530
-2009-05-05T09:11:31.115201Z
-72325
-georg.brandl
-has-props
-
-plat-freebsd5
+plat-freebsd4
 dir
 
 nntplib.py
@@ -1312,7 +1309,7 @@ file
 antoine.pitrou
 has-props
 
-plat-freebsd6
+plat-freebsd5
 dir
 
 io.py
@@ -1328,7 +1325,7 @@ file
 benjamin.peterson
 has-props
 
-plat-freebsd7
+plat-freebsd6
 dir
 
 chunk.py
@@ -1344,7 +1341,7 @@ a47e179ca48573f4e27e083454ea08fc
 collin.winter
 has-props
 
-plat-freebsd8
+plat-freebsd7
 dir
 
 opcode.py
@@ -1360,18 +1357,8 @@ file
 jeffrey.yasskin
 has-props
 
-pstats.py
-file
-
-
-
-
-2009-06-21T03:52:22.000000Z
-047a91c0ef8c30a1a24db1b9307584b5
-2008-01-30T20:15:17.123816Z
-60453
-raymond.hettinger
-has-props
+plat-freebsd8
+dir
 
 pydoc.py
 file
@@ -1384,6 +1371,19 @@ file
 2009-05-27T20:56:59.874303Z
 72968
 r.david.murray
+has-props
+
+pstats.py
+file
+
+
+
+
+2009-06-21T03:52:22.000000Z
+047a91c0ef8c30a1a24db1b9307584b5
+2008-01-30T20:15:17.123816Z
+60453
+raymond.hettinger
 has-props
 
 _pyio.py
@@ -1897,11 +1897,11 @@ file
 
 
 
-2009-06-21T03:52:23.000000Z
-6d2bea04be479e19d92082dc9a7dc74a
-2009-03-03T22:41:26.530742Z
-70142
-hirokazu.yamamoto
+2009-06-21T03:57:52.000000Z
+55ac8919006e7e0d0c04bf945c222af3
+2009-06-19T20:34:30.798463Z
+73482
+facundo.batista
 has-props
 
 uu.py

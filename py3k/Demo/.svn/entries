@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Demo
 http://svn.python.org/projects
 
@@ -32,19 +32,19 @@ dir
 tkinter
 dir
 
-pysvr
+imputil
 dir
 
 pdist
 dir
 
-imputil
-dir
-
-rpc
+pysvr
 dir
 
 distutils
+dir
+
+rpc
 dir
 
 md5test
@@ -59,12 +59,6 @@ dir
 parser
 dir
 
-comparisons
-dir
-
-classes
-dir
-
 README
 file
 
@@ -77,6 +71,12 @@ file
 46754
 thomas.wouters
 has-props
+
+classes
+dir
+
+comparisons
+dir
 
 xml
 dir

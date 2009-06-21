@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Lib/json/tests
 http://svn.python.org/projects
 
@@ -52,19 +52,6 @@ file
 martin.v.loewis
 has-props
 
-test_float.py
-file
-
-
-
-
-2009-06-21T03:51:52.000000Z
-1f32370b7356a2c32880803f29f95ed3
-2009-05-02T12:36:44.898721Z
-72194
-benjamin.peterson
-has-props
-
 test_dump.py
 file
 
@@ -73,6 +60,19 @@ file
 
 2009-06-21T03:51:52.000000Z
 9ed93256ec13c36d81e98a82d085b5bc
+2009-05-02T12:36:44.898721Z
+72194
+benjamin.peterson
+has-props
+
+test_float.py
+file
+
+
+
+
+2009-06-21T03:51:52.000000Z
+1f32370b7356a2c32880803f29f95ed3
 2009-05-02T12:36:44.898721Z
 72194
 benjamin.peterson
@@ -91,19 +91,6 @@ ade789e1a6c952ca7a936e485599d3bd
 martin.v.loewis
 has-props
 
-test_scanstring.py
-file
-
-
-
-
-2009-06-21T03:51:52.000000Z
-f81e2af270aa2d6906d3457b057e3272
-2009-05-05T07:52:05.006497Z
-72315
-georg.brandl
-has-props
-
 test_fail.py
 file
 
@@ -117,6 +104,19 @@ b5f128f6cbdef947c67cdc1ae7bc7915
 benjamin.peterson
 has-props
 
+test_scanstring.py
+file
+
+
+
+
+2009-06-21T03:51:52.000000Z
+f81e2af270aa2d6906d3457b057e3272
+2009-05-05T07:52:05.006497Z
+72315
+georg.brandl
+has-props
+
 test_indent.py
 file
 
@@ -125,19 +125,6 @@ file
 
 2009-06-21T03:51:52.000000Z
 03b71c00fc8534a70847e9667b69e482
-2008-06-13T22:53:14.608059Z
-64258
-martin.v.loewis
-has-props
-
-test_separators.py
-file
-
-
-
-
-2009-06-21T03:51:52.000000Z
-7af6070f89d68561f087684b5caeac9a
 2008-06-13T22:53:14.608059Z
 64258
 martin.v.loewis
@@ -156,6 +143,19 @@ e6d3e0290e95ebe83b4fc3efae9c6b36
 benjamin.peterson
 has-props
 
+test_separators.py
+file
+
+
+
+
+2009-06-21T03:51:52.000000Z
+7af6070f89d68561f087684b5caeac9a
+2008-06-13T22:53:14.608059Z
+64258
+martin.v.loewis
+has-props
+
 test_default.py
 file
 
@@ -169,19 +169,6 @@ file
 martin.v.loewis
 has-props
 
-test_unicode.py
-file
-
-
-
-
-2009-06-21T03:51:52.000000Z
-3dad0d42a38839980ed502a58fc557c0
-2009-05-02T12:36:44.898721Z
-72194
-benjamin.peterson
-has-props
-
 test_encode_basestring_ascii.py
 file
 
@@ -193,6 +180,19 @@ baab9416ca4897e960a460e75e645f83
 2009-05-27T09:58:34.072522Z
 72963
 raymond.hettinger
+has-props
+
+test_unicode.py
+file
+
+
+
+
+2009-06-21T03:51:52.000000Z
+3dad0d42a38839980ed502a58fc557c0
+2009-05-02T12:36:44.898721Z
+72194
+benjamin.peterson
 has-props
 
 test_pass1.py

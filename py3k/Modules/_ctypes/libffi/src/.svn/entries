@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Modules/_ctypes/libffi/src
 http://svn.python.org/projects
 
@@ -26,28 +26,28 @@ svn:special svn:externals svn:needs-lock
 
 6015fed2-1504-0410-9fe1-9d1591cc4771
 
-powerpc
+arm
 dir
 
-arm
+powerpc
 dir
 
 m32r
 dir
 
-sh64
-dir
-
 darwin
 dir
 
-m68k
+sh64
+dir
+
+x86
 dir
 
 alpha
 dir
 
-x86
+m68k
 dir
 
 frv
@@ -56,19 +56,19 @@ dir
 s390
 dir
 
-pa
+cris
 dir
 
-cris
+pa
 dir
 
 ia64
 dir
 
-sparc
+mips
 dir
 
-mips
+sparc
 dir
 
 prep_cif.c

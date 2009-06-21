@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Lib/email/test/data
 http://svn.python.org/projects
 
@@ -195,6 +195,19 @@ file
 bwarsaw
 has-props
 
+msg_06.txt
+file
+
+
+
+
+2009-06-21T03:52:05.000000Z
+2271f6afc0e9edc9f8bf65e71fab1780
+2002-07-19T22:29:49.000000Z
+27717
+bwarsaw
+has-props
+
 msg_42.txt
 file
 
@@ -221,14 +234,27 @@ de3d2c04b4dfd5413c28e0a1e9164526
 bwarsaw
 has-props
 
-msg_06.txt
+msg_43.txt
 file
 
 
 
 
 2009-06-21T03:52:05.000000Z
-2271f6afc0e9edc9f8bf65e71fab1780
+93992f3bebc941e5c45a95ffb6a29799
+2004-12-05T03:45:42.000000Z
+37963
+bwarsaw
+has-props
+
+msg_07.txt
+file
+
+
+
+
+2009-06-21T03:52:05.000000Z
+beb3d7cfa4d5b77be8b37d1c433539c4
 2002-07-19T22:29:49.000000Z
 27717
 bwarsaw
@@ -247,29 +273,29 @@ b3310f3c4ab013eff4b0c956f242ab57
 bwarsaw
 has-props
 
-msg_07.txt
+msg_44.txt
 file
 
 
 
 
 2009-06-21T03:52:05.000000Z
-beb3d7cfa4d5b77be8b37d1c433539c4
-2002-07-19T22:29:49.000000Z
-27717
-bwarsaw
+df959a32bf34d496e27709a7cbfef4b7
+2006-04-21T10:40:58.830769Z
+45597
+thomas.wouters
 has-props
 
-msg_43.txt
+msg_08.txt
 file
 
 
 
 
 2009-06-21T03:52:05.000000Z
-93992f3bebc941e5c45a95ffb6a29799
-2004-12-05T03:45:42.000000Z
-37963
+cb2022cbc6c77694d8ad0c68c331ab19
+2002-07-19T22:29:49.000000Z
+27717
 bwarsaw
 has-props
 
@@ -286,30 +312,17 @@ f35f22ed2f588a3b527361f30596ad25
 martin.v.loewis
 has-props
 
-msg_08.txt
+msg_09.txt
 file
 
 
 
 
 2009-06-21T03:52:05.000000Z
-cb2022cbc6c77694d8ad0c68c331ab19
+c0a851b4b8fc918a5d918e4b40d0282f
 2002-07-19T22:29:49.000000Z
 27717
 bwarsaw
-has-props
-
-msg_44.txt
-file
-
-
-
-
-2009-06-21T03:52:05.000000Z
-df959a32bf34d496e27709a7cbfef4b7
-2006-04-21T10:40:58.830769Z
-45597
-thomas.wouters
 has-props
 
 msg_27.txt
@@ -320,19 +333,6 @@ file
 
 2009-06-21T03:52:05.000000Z
 ecf907082425783fe2a94ac5b787f5ff
-2002-07-19T22:29:49.000000Z
-27717
-bwarsaw
-has-props
-
-msg_09.txt
-file
-
-
-
-
-2009-06-21T03:52:05.000000Z
-c0a851b4b8fc918a5d918e4b40d0282f
 2002-07-19T22:29:49.000000Z
 27717
 bwarsaw
@@ -390,19 +390,6 @@ file
 bwarsaw
 has-props
 
-msg_12.txt
-file
-
-
-
-
-2009-06-21T03:52:05.000000Z
-50c00c20ea09d30c065503a4abe1c4b2
-2002-07-19T22:29:49.000000Z
-27717
-bwarsaw
-has-props
-
 msg_30.txt
 file
 
@@ -411,6 +398,19 @@ file
 
 2009-06-21T03:52:05.000000Z
 524238f232f74c03700e03ad8f92e6f3
+2002-07-19T22:29:49.000000Z
+27717
+bwarsaw
+has-props
+
+msg_12.txt
+file
+
+
+
+
+2009-06-21T03:52:05.000000Z
+50c00c20ea09d30c065503a4abe1c4b2
 2002-07-19T22:29:49.000000Z
 27717
 bwarsaw

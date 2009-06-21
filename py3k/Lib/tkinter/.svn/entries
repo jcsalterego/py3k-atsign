@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Lib/tkinter
 http://svn.python.org/projects
 
@@ -42,17 +42,17 @@ f32bf3f25c20da9c76d91e85bebe4bcd
 georg.brandl
 has-props
 
-filedialog.py
+__init__.py
 file
 
 
 
 
 2009-06-21T03:51:54.000000Z
-af349c705deef210ee88dc2a19820f78
-2008-12-31T14:51:07.084694Z
-68103
-benjamin.peterson
+4b4b51602771d017fdfa50f3d3fd7d41
+2009-05-31T21:35:23.661577Z
+73084
+guilherme.polo
 has-props
 
 dialog.py
@@ -68,17 +68,17 @@ file
 georg.brandl
 has-props
 
-__init__.py
+filedialog.py
 file
 
 
 
 
 2009-06-21T03:51:54.000000Z
-4b4b51602771d017fdfa50f3d3fd7d41
-2009-05-31T21:35:23.661577Z
-73084
-guilherme.polo
+af349c705deef210ee88dc2a19820f78
+2008-12-31T14:51:07.084694Z
+68103
+benjamin.peterson
 has-props
 
 colorchooser.py
@@ -172,19 +172,6 @@ a1f7dca9fa0ef11575df2ded6664194e
 guilherme.polo
 has-props
 
-scrolledtext.py
-file
-
-
-
-
-2009-06-21T03:51:54.000000Z
-35afa3369c4c88efb9e85d2c5a2ca601
-2008-12-29T16:03:04.980854Z
-68008
-martin.v.loewis
-has-props
-
 constants.py
 file
 
@@ -196,6 +183,19 @@ d1ded8f2617fd15db6b6f94cf13ceb11
 2008-05-17T18:28:57.627840Z
 63417
 georg.brandl
+has-props
+
+scrolledtext.py
+file
+
+
+
+
+2009-06-21T03:51:54.000000Z
+35afa3369c4c88efb9e85d2c5a2ca601
+2008-12-29T16:03:04.980854Z
+68008
+martin.v.loewis
 has-props
 
 _fix.py

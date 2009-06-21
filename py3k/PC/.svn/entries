@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/PC
 http://svn.python.org/projects
 
@@ -210,17 +210,17 @@ a1cfb42733d002d20933c9ffca571183
 martin.v.loewis
 has-props
 
-python_nt.rc
+dllbase_nt.txt
 file
 
 
 
 
 2009-06-21T03:51:37.000000Z
-fcddea74ebdb3667da2bc3a6f11bdbcf
-2008-03-01T17:45:23.539648Z
-61158
-barry.warsaw
+ceed3e112f5c2ff3bb1b8ac407a622f5
+2008-09-09T06:42:00.680877Z
+66330
+amaury.forgeotdarc
 has-props
 
 python_exe.rc
@@ -236,17 +236,17 @@ b024fac22d3a2c2b275462b10f74b0e5
 guido
 has-props
 
-dllbase_nt.txt
+python_nt.rc
 file
 
 
 
 
 2009-06-21T03:51:37.000000Z
-ceed3e112f5c2ff3bb1b8ac407a622f5
-2008-09-09T06:42:00.680877Z
-66330
-amaury.forgeotdarc
+fcddea74ebdb3667da2bc3a6f11bdbcf
+2008-03-01T17:45:23.539648Z
+61158
+barry.warsaw
 has-props
 
 python.mk
@@ -275,6 +275,9 @@ file
 martin.v.loewis
 has-props
 
+os2vacpp
+dir
+
 getpathp.c
 file
 
@@ -288,22 +291,19 @@ file
 amaury.forgeotdarc
 has-props
 
-os2vacpp
-dir
-
 VC6
 dir
 
-pycon.ico
+generrmap.c
 file
 
 
 
 
 2009-06-21T03:51:37.000000Z
-c893856d707275ab16e1deeb3efed719
-2006-06-08T15:35:45.276382Z
-46754
+48c944fe404946a8bc82016c618e2aea
+2006-05-27T19:21:47.962989Z
+46491
 thomas.wouters
 has-props
 
@@ -320,27 +320,14 @@ file
 thomas.wouters
 has-props
 
-generrmap.c
+pycon.ico
 file
 
 
 
 
 2009-06-21T03:51:37.000000Z
-48c944fe404946a8bc82016c618e2aea
-2006-05-27T19:21:47.962989Z
-46491
-thomas.wouters
-has-props
-
-pyc.ico
-file
-
-
-
-
-2009-06-21T03:51:37.000000Z
-f5717ad9cc39176d3ebd91317d4ee0dc
+c893856d707275ab16e1deeb3efed719
 2006-06-08T15:35:45.276382Z
 46754
 thomas.wouters
@@ -357,6 +344,19 @@ file
 2009-06-03T05:19:18.810942Z
 73162
 hirokazu.yamamoto
+has-props
+
+pyc.ico
+file
+
+
+
+
+2009-06-21T03:51:37.000000Z
+f5717ad9cc39176d3ebd91317d4ee0dc
+2006-06-08T15:35:45.276382Z
+46754
+thomas.wouters
 has-props
 
 msvcrtmodule.c

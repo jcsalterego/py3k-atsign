@@ -1,15 +1,15 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Doc/library
 http://svn.python.org/projects
 
 
 
-2009-06-17T01:40:52.969553Z
-73458
-raymond.hettinger
+2009-06-17T12:23:43.155228Z
+73466
+nick.coghlan
 
 
 svn:special svn:externals svn:needs-lock
@@ -52,19 +52,6 @@ file
 mark.dickinson
 has-props
 
-email.mime.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-824b3e67888ea0202e6a0eff32dcc403
-2009-05-17T11:28:33.401810Z
-72735
-georg.brandl
-has-props
-
 fpectl.rst
 file
 
@@ -75,6 +62,19 @@ file
 7db5cbf889db4bf04159dfa0cafbc379
 2009-05-17T12:29:12.207628Z
 72742
+georg.brandl
+has-props
+
+email.mime.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+824b3e67888ea0202e6a0eff32dcc403
+2009-05-17T11:28:33.401810Z
+72735
 georg.brandl
 has-props
 
@@ -195,19 +195,6 @@ file
 georg.brandl
 has-props
 
-idle.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-8620d06a3e0c88dd44b479355568082d
-2009-03-21T17:31:58.071575Z
-70507
-benjamin.peterson
-has-props
-
 macpath.rst
 file
 
@@ -219,6 +206,19 @@ file
 2009-06-08T09:13:45.607858Z
 73291
 georg.brandl
+has-props
+
+idle.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+8620d06a3e0c88dd44b479355568082d
+2009-03-21T17:31:58.071575Z
+70507
+benjamin.peterson
 has-props
 
 xml.dom.rst
@@ -422,11 +422,11 @@ file
 
 
 
-2009-06-21T03:51:48.000000Z
-086649dfec69f899e50c5174435124f4
-2009-06-08T08:00:22.826944Z
-73287
-georg.brandl
+2009-06-21T03:57:52.000000Z
+22a3d395ae0d4cdd6e34104b5b0be89e
+2009-06-17T12:23:43.155228Z
+73466
+nick.coghlan
 has-props
 
 pipes.rst
@@ -437,19 +437,6 @@ file
 
 2009-06-21T03:51:48.000000Z
 df95c7b0a36e75ebb066f7dfb45a6357
-2008-01-05T20:41:27.490999Z
-59751
-georg.brandl
-has-props
-
-termios.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-7f6502d88dabcb988018aedef71ccd6e
 2008-01-05T20:41:27.490999Z
 59751
 georg.brandl
@@ -468,16 +455,16 @@ file
 hirokazu.yamamoto
 has-props
 
-abc.rst
+termios.rst
 file
 
 
 
 
 2009-06-21T03:51:48.000000Z
-e0a19f2bdbd6ac4b1fd8cbd773fc714b
-2009-05-17T12:29:12.207628Z
-72742
+7f6502d88dabcb988018aedef71ccd6e
+2008-01-05T20:41:27.490999Z
+59751
 georg.brandl
 has-props
 
@@ -489,6 +476,19 @@ file
 
 2009-06-21T03:51:48.000000Z
 58895214581089059e161b9174b21178
+2009-05-17T12:29:12.207628Z
+72742
+georg.brandl
+has-props
+
+abc.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+e0a19f2bdbd6ac4b1fd8cbd773fc714b
 2009-05-17T12:29:12.207628Z
 72742
 georg.brandl
@@ -585,19 +585,6 @@ file
 georg.brandl
 has-props
 
-winsound.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-5282b4aea0231c5e9030f4aca1b26a37
-2009-01-01T00:23:30.982958Z
-68113
-benjamin.peterson
-has-props
-
 string.rst
 file
 
@@ -609,6 +596,19 @@ ed6a1e002c86adecc5f38baad6ef12ad
 2009-05-07T19:38:09.622568Z
 72441
 eric.smith
+has-props
+
+winsound.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+5282b4aea0231c5e9030f4aca1b26a37
+2009-01-01T00:23:30.982958Z
+68113
+benjamin.peterson
 has-props
 
 linecache.rst
@@ -663,19 +663,6 @@ file
 georg.brandl
 has-props
 
-distutils.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-975190e8faa8c937adab7d327c47da9b
-2009-05-17T12:29:12.207628Z
-72742
-georg.brandl
-has-props
-
 itertools.rst
 file
 
@@ -689,6 +676,19 @@ file
 raymond.hettinger
 has-props
 
+distutils.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+975190e8faa8c937adab7d327c47da9b
+2009-05-17T12:29:12.207628Z
+72742
+georg.brandl
+has-props
+
 sched.rst
 file
 
@@ -699,19 +699,6 @@ file
 f77e1b030804e6033825be4e83bd293f
 2009-05-26T07:51:03.236191Z
 72934
-georg.brandl
-has-props
-
-email.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-462b38f819faf16607a0961c68b19e93
-2009-05-17T11:28:33.401810Z
-72735
 georg.brandl
 has-props
 
@@ -728,16 +715,16 @@ file
 hirokazu.yamamoto
 has-props
 
-warnings.rst
+email.rst
 file
 
 
 
 
 2009-06-21T03:51:48.000000Z
-6a2862de1a97a1a5943c900bd3d8f7c8
-2009-01-04T00:28:14.443717Z
-68285
+462b38f819faf16607a0961c68b19e93
+2009-05-17T11:28:33.401810Z
+72735
 georg.brandl
 has-props
 
@@ -752,6 +739,19 @@ file
 2009-04-29T00:34:27.492076Z
 72086
 raymond.hettinger
+has-props
+
+warnings.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+6a2862de1a97a1a5943c900bd3d8f7c8
+2009-01-04T00:28:14.443717Z
+68285
+georg.brandl
 has-props
 
 timeit.rst
@@ -806,19 +806,6 @@ file
 guilherme.polo
 has-props
 
-turtle.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-8e15b3c0028f88aa29f2ab18167d0880
-2009-05-05T08:14:33.105849Z
-72318
-georg.brandl
-has-props
-
 test.rst
 file
 
@@ -829,6 +816,19 @@ file
 26c8349d93f796520bacf3e7d9b2f7af
 2009-05-05T09:29:50.939647Z
 72330
+georg.brandl
+has-props
+
+turtle.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+8e15b3c0028f88aa29f2ab18167d0880
+2009-05-05T08:14:33.105849Z
+72318
 georg.brandl
 has-props
 
@@ -1677,19 +1677,6 @@ file
 georg.brandl
 has-props
 
-tty.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-ad1b12de51efa082e40642b5981a6602
-2008-01-05T20:41:27.490999Z
-59751
-georg.brandl
-has-props
-
 __main__.rst
 file
 
@@ -1698,6 +1685,19 @@ file
 
 2009-06-21T03:51:48.000000Z
 c6b933a38eb9b80fec04dda2561a217a
+2008-01-05T20:41:27.490999Z
+59751
+georg.brandl
+has-props
+
+tty.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+ad1b12de51efa082e40642b5981a6602
 2008-01-05T20:41:27.490999Z
 59751
 georg.brandl
@@ -1716,19 +1716,6 @@ file
 georg.brandl
 has-props
 
-struct.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-8b34097705ca75a8de01a1859b638cfe
-2009-03-29T16:58:21.657839Z
-70688
-mark.dickinson
-has-props
-
 base64.rst
 file
 
@@ -1740,6 +1727,19 @@ ff7391de6c24b15d78cd681de6ee3ba2
 2009-06-04T09:11:51.465151Z
 73204
 georg.brandl
+has-props
+
+struct.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+8b34097705ca75a8de01a1859b638cfe
+2009-03-29T16:58:21.657839Z
+70688
+mark.dickinson
 has-props
 
 cgitb.rst
@@ -1833,19 +1833,6 @@ c15b52ba4bc10ce4910cda3b0e94e1c3
 benjamin.peterson
 has-props
 
-uuid.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-282a6b6dc258f8f3899f3263b8e637cf
-2008-01-05T20:41:27.490999Z
-59751
-georg.brandl
-has-props
-
 getpass.rst
 file
 
@@ -1856,6 +1843,19 @@ file
 8d10ca184efdc5c945b85b00f943fd59
 2009-05-17T13:00:36.380445Z
 72744
+georg.brandl
+has-props
+
+uuid.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+282a6b6dc258f8f3899f3263b8e637cf
+2008-01-05T20:41:27.490999Z
+59751
 georg.brandl
 has-props
 
@@ -1872,19 +1872,6 @@ cd332a95a1142f53b0c1c4f1bcf4a084
 benjamin.peterson
 has-props
 
-mm.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-5fd96002c8b37f396cd8cb4459971c96
-2009-06-08T09:13:45.607858Z
-73291
-georg.brandl
-has-props
-
 codeop.rst
 file
 
@@ -1895,6 +1882,19 @@ file
 882e351b02c48a9c128ebd319a831cd6
 2009-05-17T12:29:12.207628Z
 72742
+georg.brandl
+has-props
+
+mm.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+5fd96002c8b37f396cd8cb4459971c96
+2009-06-08T09:13:45.607858Z
+73291
 georg.brandl
 has-props
 
@@ -2015,19 +2015,6 @@ file
 georg.brandl
 has-props
 
-smtpd.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-983661ba3cece78ed34f8a2451473054
-2008-04-25T01:59:09.796958Z
-62491
-benjamin.peterson
-has-props
-
 marshal.rst
 file
 
@@ -2039,6 +2026,19 @@ cf645a2d277fc0f2adcb37ddd9be6a19
 2009-06-08T09:13:45.607858Z
 73291
 georg.brandl
+has-props
+
+smtpd.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+983661ba3cece78ed34f8a2451473054
+2008-04-25T01:59:09.796958Z
+62491
+benjamin.peterson
 has-props
 
 fractions.rst
@@ -2093,19 +2093,6 @@ edfa913bf3cb5e9e16866d0bc2c4aa9f
 georg.brandl
 has-props
 
-email.iterators.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-44970f8b66ca4465e35fd98dd903be0f
-2009-05-17T11:28:33.401810Z
-72735
-georg.brandl
-has-props
-
 zipfile.rst
 file
 
@@ -2116,6 +2103,19 @@ file
 2a021ad2f3b186651002112659fedea8
 2009-01-04T00:28:14.443717Z
 68285
+georg.brandl
+has-props
+
+email.iterators.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+44970f8b66ca4465e35fd98dd903be0f
+2009-05-17T11:28:33.401810Z
+72735
 georg.brandl
 has-props
 
@@ -2138,23 +2138,10 @@ file
 
 
 
-2009-06-21T03:51:48.000000Z
-cfb0c0e227c9dc3d684a94bb01e2aa30
-2009-05-17T12:29:12.207628Z
-72742
-georg.brandl
-has-props
-
-xml.sax.handler.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-927615feaa4c458ec0ee6944ec3cbe9f
-2008-02-01T11:56:49.276248Z
-60492
+2009-06-21T03:57:52.000000Z
+faa83b0b12953dbaf3c2a3dd313e605c
+2009-06-17T10:03:58.817222Z
+73464
 georg.brandl
 has-props
 
@@ -2168,6 +2155,19 @@ file
 0b45bf14466afc2ad491d9af7622fb09
 2009-01-03T21:18:54.184491Z
 68226
+georg.brandl
+has-props
+
+xml.sax.handler.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+927615feaa4c458ec0ee6944ec3cbe9f
+2008-02-01T11:56:49.276248Z
+60492
 georg.brandl
 has-props
 
@@ -2210,16 +2210,16 @@ file
 nick.coghlan
 has-props
 
-stdtypes.rst
+msilib.rst
 file
 
 
 
 
 2009-06-21T03:51:48.000000Z
-23345a94a63f6a7f7a7b18ef46a01950
-2009-05-31T21:38:37.178048Z
-73086
+8fc26d2170ee8f395044979ed5664c42
+2009-06-08T09:13:45.607858Z
+73291
 georg.brandl
 has-props
 
@@ -2236,16 +2236,16 @@ c3cfb9a7a5af2401a2b915f31b50766d
 georg.brandl
 has-props
 
-msilib.rst
+stdtypes.rst
 file
 
 
 
 
 2009-06-21T03:51:48.000000Z
-8fc26d2170ee8f395044979ed5664c42
-2009-06-08T09:13:45.607858Z
-73291
+23345a94a63f6a7f7a7b18ef46a01950
+2009-05-31T21:38:37.178048Z
+73086
 georg.brandl
 has-props
 
@@ -2275,19 +2275,6 @@ e193619db64aff0b959e5b1c9c33b12d
 georg.brandl
 has-props
 
-gettext.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-c5a2479836744fd2caeab038fcf40a9d
-2009-05-17T13:00:36.380445Z
-72744
-georg.brandl
-has-props
-
 http.cookiejar.rst
 file
 
@@ -2298,6 +2285,19 @@ file
 ff9f817fa12df1ccaf60fbd03c78df6e
 2009-01-03T22:47:39.543974Z
 68247
+georg.brandl
+has-props
+
+gettext.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+c5a2479836744fd2caeab038fcf40a9d
+2009-05-17T13:00:36.380445Z
+72744
 georg.brandl
 has-props
 
@@ -2353,19 +2353,6 @@ e31e9052390a03bfb85d24f7b06015e0
 georg.brandl
 has-props
 
-parser.rst
-file
-
-
-
-
-2009-06-21T03:51:48.000000Z
-378f926ff5691a02beb7849f2a19bc57
-2009-01-03T22:47:39.543974Z
-68247
-georg.brandl
-has-props
-
 cmath.rst
 file
 
@@ -2379,16 +2366,16 @@ file
 georg.brandl
 has-props
 
-atexit.rst
+parser.rst
 file
 
 
 
 
 2009-06-21T03:51:48.000000Z
-f5a95eaebf307e63cb7118491bf8cf56
-2009-05-17T12:29:12.207628Z
-72742
+378f926ff5691a02beb7849f2a19bc57
+2009-01-03T22:47:39.543974Z
+68247
 georg.brandl
 has-props
 
@@ -2402,6 +2389,19 @@ file
 ebec082b6f24b6c76baac63d5dcc700d
 2009-05-17T13:00:36.380445Z
 72744
+georg.brandl
+has-props
+
+atexit.rst
+file
+
+
+
+
+2009-06-21T03:51:48.000000Z
+f5a95eaebf307e63cb7118491bf8cf56
+2009-05-17T12:29:12.207628Z
+72742
 georg.brandl
 has-props
 
@@ -2496,19 +2496,6 @@ file
 georg.brandl
 has-props
 
-platform.rst
-file
-
-
-
-
-2009-06-21T03:51:49.000000Z
-524dff187e0b12f6f260ce86175b797a
-2009-06-08T13:41:29.067054Z
-73295
-georg.brandl
-has-props
-
 persistence.rst
 file
 
@@ -2520,6 +2507,19 @@ file
 2008-09-03T22:59:38.500865Z
 66200
 benjamin.peterson
+has-props
+
+platform.rst
+file
+
+
+
+
+2009-06-21T03:51:49.000000Z
+524dff187e0b12f6f260ce86175b797a
+2009-06-08T13:41:29.067054Z
+73295
+georg.brandl
 has-props
 
 grp.rst
@@ -2652,19 +2652,6 @@ file
 georg.brandl
 has-props
 
-pydoc.rst
-file
-
-
-
-
-2009-06-21T03:51:49.000000Z
-96c1f48222ed24cb98798e077eeaf588
-2009-01-01T00:23:30.982958Z
-68113
-benjamin.peterson
-has-props
-
 email.header.rst
 file
 
@@ -2678,16 +2665,16 @@ file
 georg.brandl
 has-props
 
-traceback.rst
+pydoc.rst
 file
 
 
 
 
 2009-06-21T03:51:49.000000Z
-7e5bb351369a2af17fb3ece8d5a68ebb
-2009-05-08T20:42:26.092123Z
-72477
+96c1f48222ed24cb98798e077eeaf588
+2009-01-01T00:23:30.982958Z
+68113
 benjamin.peterson
 has-props
 
@@ -2704,16 +2691,16 @@ file
 georg.brandl
 has-props
 
-urllib.request.rst
+traceback.rst
 file
 
 
 
 
 2009-06-21T03:51:49.000000Z
-638f01fd508d5c9c6ae5ec386e8b0b50
-2009-04-05T19:13:16.657615Z
-71261
+7e5bb351369a2af17fb3ece8d5a68ebb
+2009-05-08T20:42:26.092123Z
+72477
 benjamin.peterson
 has-props
 
@@ -2728,6 +2715,19 @@ b2dd4c123c56c04cff6003fbd9482568
 2009-05-17T12:29:12.207628Z
 72742
 georg.brandl
+has-props
+
+urllib.request.rst
+file
+
+
+
+
+2009-06-21T03:51:49.000000Z
+638f01fd508d5c9c6ae5ec386e8b0b50
+2009-04-05T19:13:16.657615Z
+71261
+benjamin.peterson
 has-props
 
 readline.rst
@@ -2821,19 +2821,6 @@ d0d1c09f064d4f0be9e763fd14a61616
 benjamin.peterson
 has-props
 
-bisect.rst
-file
-
-
-
-
-2009-06-21T03:51:49.000000Z
-e76a9c8301192dec4c33894d07fb9a56
-2009-06-11T22:06:06.082658Z
-73369
-raymond.hettinger
-has-props
-
 calendar.rst
 file
 
@@ -2845,6 +2832,19 @@ ce2d5c65f0126cb1b511c039eb39176d
 2009-04-05T22:20:44.012546Z
 71289
 georg.brandl
+has-props
+
+bisect.rst
+file
+
+
+
+
+2009-06-21T03:51:49.000000Z
+e76a9c8301192dec4c33894d07fb9a56
+2009-06-11T22:06:06.082658Z
+73369
+raymond.hettinger
 has-props
 
 archiving.rst
@@ -2912,19 +2912,6 @@ file
 georg.brandl
 has-props
 
-tkinter.ttk.rst
-file
-
-
-
-
-2009-06-21T03:51:49.000000Z
-3843fc4ada94f472be36db548c16d69e
-2009-06-16T19:24:38.142220Z
-73450
-georg.brandl
-has-props
-
 _dummy_thread.rst
 file
 
@@ -2935,6 +2922,19 @@ file
 dc7854482a5ae5e2ae75b26e7a87fe17
 2008-05-25T13:05:15.688516Z
 63631
+georg.brandl
+has-props
+
+tkinter.ttk.rst
+file
+
+
+
+
+2009-06-21T03:51:49.000000Z
+3843fc4ada94f472be36db548c16d69e
+2009-06-16T19:24:38.142220Z
+73450
 georg.brandl
 has-props
 
@@ -3003,19 +3003,6 @@ file
 benjamin.peterson
 has-props
 
-modules.rst
-file
-
-
-
-
-2009-06-21T03:51:49.000000Z
-5293d743b9926fbbb6c467356291d1c0
-2009-06-08T09:13:45.607858Z
-73291
-georg.brandl
-has-props
-
 chunk.rst
 file
 
@@ -3026,6 +3013,19 @@ file
 858d2f38865acd656c6680e54c486059
 2009-04-05T22:20:44.012546Z
 71289
+georg.brandl
+has-props
+
+modules.rst
+file
+
+
+
+
+2009-06-21T03:51:49.000000Z
+5293d743b9926fbbb6c467356291d1c0
+2009-06-08T09:13:45.607858Z
+73291
 georg.brandl
 has-props
 
@@ -3042,19 +3042,6 @@ file
 georg.brandl
 has-props
 
-os.path.rst
-file
-
-
-
-
-2009-06-21T03:51:49.000000Z
-94859d00d915d58a437c9e299b9911f7
-2009-05-06T08:04:54.803379Z
-72387
-mark.hammond
-has-props
-
 mimetypes.rst
 file
 
@@ -3066,6 +3053,19 @@ file
 2009-06-08T09:13:45.607858Z
 73291
 georg.brandl
+has-props
+
+os.path.rst
+file
+
+
+
+
+2009-06-21T03:51:49.000000Z
+94859d00d915d58a437c9e299b9911f7
+2009-05-06T08:04:54.803379Z
+72387
+mark.hammond
 has-props
 
 signal.rst
@@ -3081,17 +3081,17 @@ affb34aad9f7a96fd3348bfb26da3805
 georg.brandl
 has-props
 
-webbrowser.rst
+exceptions.rst
 file
 
 
 
 
 2009-06-21T03:51:49.000000Z
-5745528b284d3172472686ba6fe24333
-2009-05-25T21:13:36.096864Z
-72926
-georg.brandl
+d50526c05c02471cf5da5a7d53b1a77f
+2009-06-01T22:42:33.991792Z
+73125
+benjamin.peterson
 has-props
 
 compileall.rst
@@ -3107,17 +3107,17 @@ b059883b1d1f3a910dc3de64b081dcea
 georg.brandl
 has-props
 
-exceptions.rst
+webbrowser.rst
 file
 
 
 
 
 2009-06-21T03:51:49.000000Z
-d50526c05c02471cf5da5a7d53b1a77f
-2009-06-01T22:42:33.991792Z
-73125
-benjamin.peterson
+5745528b284d3172472686ba6fe24333
+2009-05-25T21:13:36.096864Z
+72926
+georg.brandl
 has-props
 
 imp.rst
@@ -3289,17 +3289,17 @@ fe361e505cc368bfb30a3aa296e41a7d
 georg.brandl
 has-props
 
-unix.rst
+asyncore.rst
 file
 
 
 
 
 2009-06-21T03:51:49.000000Z
-6b65e87a8ac305756e392eb177812934
-2008-05-26T19:04:21.087950Z
-63715
-brett.cannon
+cc11288e3b022e8d2cad8e1daf1c0d83
+2009-05-17T12:29:12.207628Z
+72742
+georg.brandl
 has-props
 
 shlex.rst
@@ -3315,17 +3315,17 @@ file
 benjamin.peterson
 has-props
 
-asyncore.rst
+unix.rst
 file
 
 
 
 
 2009-06-21T03:51:49.000000Z
-cc11288e3b022e8d2cad8e1daf1c0d83
-2009-05-17T12:29:12.207628Z
-72742
-georg.brandl
+6b65e87a8ac305756e392eb177812934
+2008-05-26T19:04:21.087950Z
+63715
+brett.cannon
 has-props
 
 math.rst

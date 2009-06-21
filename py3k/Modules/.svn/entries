@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Modules
 http://svn.python.org/projects
 
@@ -78,19 +78,6 @@ file
 martin.v.loewis
 has-props
 
-bz2module.c
-file
-
-
-
-
-2009-06-21T03:52:31.000000Z
-8a8e6729af3c33ccaee2085cad3dd8da
-2009-02-02T20:36:42.875594Z
-69214
-mark.dickinson
-has-props
-
 tkappinit.c
 file
 
@@ -102,6 +89,19 @@ file
 2009-02-09T22:33:59.705484Z
 69476
 guilherme.polo
+has-props
+
+bz2module.c
+file
+
+
+
+
+2009-06-21T03:52:31.000000Z
+8a8e6729af3c33ccaee2085cad3dd8da
+2009-02-02T20:36:42.875594Z
+69214
+mark.dickinson
 has-props
 
 _pickle.c
@@ -182,9 +182,6 @@ b3bd5ae2a35a43c71645417b83dfa66c
 mark.dickinson
 has-props
 
-zlib
-dir
-
 _tkinter.c
 file
 
@@ -197,6 +194,9 @@ f4f0f88dbbc9ecaa3dbd2130fcfb2a26
 71457
 guilherme.polo
 has-props
+
+zlib
+dir
 
 _curses_panel.c
 file
@@ -386,18 +386,8 @@ file
 ronald.oussoren
 has-props
 
-makexp_aix
-file
-
-
-
-
-2009-06-21T03:52:31.000000Z
-4b95bc2fb18fde9573c3a8d928694bcd
-2005-09-14T18:09:42.000000Z
-39522
-gvanrossum
-has-props
+_multiprocessing
+dir
 
 xxmodule.c
 file
@@ -412,7 +402,20 @@ file
 mark.dickinson
 has-props
 
-_multiprocessing
+makexp_aix
+file
+
+
+
+
+2009-06-21T03:52:31.000000Z
+4b95bc2fb18fde9573c3a8d928694bcd
+2005-09-14T18:09:42.000000Z
+39522
+gvanrossum
+has-props
+
+cjkcodecs
 dir
 
 _dbmmodule.c
@@ -427,9 +430,6 @@ f5221606ef988a1b3556b3515aa421bd
 69214
 mark.dickinson
 has-props
-
-cjkcodecs
-dir
 
 sha512module.c
 file
@@ -521,19 +521,6 @@ file
 benjamin.peterson
 has-props
 
-_randommodule.c
-file
-
-
-
-
-2009-06-21T03:52:31.000000Z
-3bc8442d8e328c74436f28e5f9c0eca2
-2009-05-05T17:54:36.398538Z
-72346
-mark.dickinson
-has-props
-
 selectmodule.c
 file
 
@@ -544,6 +531,19 @@ file
 27ea6c2bd537317ff5ea3d98729c3bb6
 2009-02-02T20:36:42.875594Z
 69214
+mark.dickinson
+has-props
+
+_randommodule.c
+file
+
+
+
+
+2009-06-21T03:52:31.000000Z
+3bc8442d8e328c74436f28e5f9c0eca2
+2009-05-05T17:54:36.398538Z
+72346
 mark.dickinson
 has-props
 
@@ -709,6 +709,19 @@ has-props
 _sqlite
 dir
 
+fpetestmodule.c
+file
+
+
+
+
+2009-06-21T03:52:31.000000Z
+9a9512fca9a73fcf60d4dea5198f689c
+2008-06-11T05:26:20.374737Z
+64107
+martin.v.loewis
+has-props
+
 ld_so_aix
 file
 
@@ -722,16 +735,16 @@ file
 antoine.pitrou
 has-props
 
-fpetestmodule.c
+python.c
 file
 
 
 
 
 2009-06-21T03:52:31.000000Z
-9a9512fca9a73fcf60d4dea5198f689c
-2008-06-11T05:26:20.374737Z
-64107
+973584f9528c5df5cdd646113baecd67
+2009-05-29T16:22:26.041740Z
+73020
 martin.v.loewis
 has-props
 
@@ -746,19 +759,6 @@ file
 2008-12-05T01:40:43.393418Z
 67541
 amaury.forgeotdarc
-has-props
-
-python.c
-file
-
-
-
-
-2009-06-21T03:52:31.000000Z
-973584f9528c5df5cdd646113baecd67
-2009-05-29T16:22:26.041740Z
-73020
-martin.v.loewis
 has-props
 
 _weakref.c

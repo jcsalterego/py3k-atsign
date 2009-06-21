@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Lib/test/decimaltestdata
 http://svn.python.org/projects
 
@@ -198,14 +198,14 @@ file
 65332
 benjamin.peterson
 
-log10.decTest
+ddBase.decTest
 file
 
 
 
 
 2009-06-21T03:52:13.000000Z
-2957e65c244608692eb39518022a9527
+d08acda72b16742240bf9f87b7959d03
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -222,14 +222,14 @@ file
 65332
 benjamin.peterson
 
-ddBase.decTest
+log10.decTest
 file
 
 
 
 
 2009-06-21T03:52:13.000000Z
-d08acda72b16742240bf9f87b7959d03
+2957e65c244608692eb39518022a9527
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -333,18 +333,6 @@ file
 benjamin.peterson
 has-props
 
-and.decTest
-file
-
-
-
-
-2009-06-21T03:52:13.000000Z
-198db84b4dc7987c5279caf9443b3a83
-2008-07-31T16:32:12.567199Z
-65332
-benjamin.peterson
-
 comparetotmag.decTest
 file
 
@@ -353,6 +341,18 @@ file
 
 2009-06-21T03:52:13.000000Z
 9305caf6ff3aefaf6f7423af75d96e80
+2008-07-31T16:32:12.567199Z
+65332
+benjamin.peterson
+
+and.decTest
+file
+
+
+
+
+2009-06-21T03:52:13.000000Z
+198db84b4dc7987c5279caf9443b3a83
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -381,18 +381,6 @@ a7e71386a3e82a65ed87707f507d47e8
 65332
 benjamin.peterson
 
-dqNextPlus.decTest
-file
-
-
-
-
-2009-06-21T03:52:13.000000Z
-8839c9ae63e4345cd5cbb304213262f5
-2008-07-31T16:32:12.567199Z
-65332
-benjamin.peterson
-
 ddNextToward.decTest
 file
 
@@ -401,6 +389,18 @@ file
 
 2009-06-21T03:52:13.000000Z
 36742981aa87ce587e20ad8758ea6f42
+2008-07-31T16:32:12.567199Z
+65332
+benjamin.peterson
+
+dqNextPlus.decTest
+file
+
+
+
+
+2009-06-21T03:52:13.000000Z
+8839c9ae63e4345cd5cbb304213262f5
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -795,18 +795,6 @@ d63530863ae8d888b14923f83ee6a794
 benjamin.peterson
 has-props
 
-dqNextMinus.decTest
-file
-
-
-
-
-2009-06-21T03:52:13.000000Z
-cdd6c0ad97a29893be11067c4ee46df7
-2008-07-31T16:32:12.567199Z
-65332
-benjamin.peterson
-
 ddReduce.decTest
 file
 
@@ -815,6 +803,18 @@ file
 
 2009-06-21T03:52:13.000000Z
 7f90586c7851a484132feb0396fb80f5
+2008-07-31T16:32:12.567199Z
+65332
+benjamin.peterson
+
+dqNextMinus.decTest
+file
+
+
+
+
+2009-06-21T03:52:13.000000Z
+cdd6c0ad97a29893be11067c4ee46df7
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -880,6 +880,18 @@ file
 benjamin.peterson
 has-props
 
+ddPlus.decTest
+file
+
+
+
+
+2009-06-21T03:52:13.000000Z
+8a6f8585e71004e532620a62dc5fcbb9
+2008-07-31T16:32:12.567199Z
+65332
+benjamin.peterson
+
 inexact.decTest
 file
 
@@ -892,18 +904,6 @@ file
 65332
 benjamin.peterson
 has-props
-
-ddPlus.decTest
-file
-
-
-
-
-2009-06-21T03:52:13.000000Z
-8a6f8585e71004e532620a62dc5fcbb9
-2008-07-31T16:32:12.567199Z
-65332
-benjamin.peterson
 
 exp.decTest
 file
@@ -965,6 +965,18 @@ file
 65332
 benjamin.peterson
 
+ddDivide.decTest
+file
+
+
+
+
+2009-06-21T03:52:13.000000Z
+4a14501bd0b92fe3468e2405b42ea9c4
+2008-07-31T16:32:12.567199Z
+65332
+benjamin.peterson
+
 dqSubtract.decTest
 file
 
@@ -977,14 +989,14 @@ file
 65332
 benjamin.peterson
 
-ddDivide.decTest
+shift.decTest
 file
 
 
 
 
 2009-06-21T03:52:13.000000Z
-4a14501bd0b92fe3468e2405b42ea9c4
+83ded9733e833c1086ebb019599a9241
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -1002,14 +1014,14 @@ file
 benjamin.peterson
 has-props
 
-shift.decTest
+dqCompareSig.decTest
 file
 
 
 
 
 2009-06-21T03:52:13.000000Z
-83ded9733e833c1086ebb019599a9241
+c5dfbb2ae9677e55d18b8df849b99db0
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -1022,18 +1034,6 @@ file
 
 2009-06-21T03:52:13.000000Z
 c5f029c34157ac8df49c959bddd94f9c
-2008-07-31T16:32:12.567199Z
-65332
-benjamin.peterson
-
-dqCompareSig.decTest
-file
-
-
-
-
-2009-06-21T03:52:13.000000Z
-c5dfbb2ae9677e55d18b8df849b99db0
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -1174,6 +1174,18 @@ ec1a184b1d647c276f3e1c37a083011c
 65332
 benjamin.peterson
 
+class.decTest
+file
+
+
+
+
+2009-06-21T03:52:13.000000Z
+cebe349728fc230e46d2e621851f8d9d
+2008-07-31T16:32:12.567199Z
+65332
+benjamin.peterson
+
 abs.decTest
 file
 
@@ -1187,18 +1199,6 @@ file
 benjamin.peterson
 has-props
 
-class.decTest
-file
-
-
-
-
-2009-06-21T03:52:13.000000Z
-cebe349728fc230e46d2e621851f8d9d
-2008-07-31T16:32:12.567199Z
-65332
-benjamin.peterson
-
 ddRotate.decTest
 file
 
@@ -1207,18 +1207,6 @@ file
 
 2009-06-21T03:52:13.000000Z
 0ef86039180d21e6be4636a122005fab
-2008-07-31T16:32:12.567199Z
-65332
-benjamin.peterson
-
-minmag.decTest
-file
-
-
-
-
-2009-06-21T03:52:13.000000Z
-60150947be5e712e689b064d9134f8a8
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -1235,6 +1223,18 @@ b9d2c110f24405e399eca86e46219f1d
 65332
 benjamin.peterson
 
+minmag.decTest
+file
+
+
+
+
+2009-06-21T03:52:13.000000Z
+60150947be5e712e689b064d9134f8a8
+2008-07-31T16:32:12.567199Z
+65332
+benjamin.peterson
+
 dqMax.decTest
 file
 
@@ -1247,18 +1247,6 @@ f7ef483bef35a447f3e17b2d5b068073
 65332
 benjamin.peterson
 
-or.decTest
-file
-
-
-
-
-2009-06-21T03:52:13.000000Z
-a0ae9d628c6eb6f02e7a9a3a9e7a708d
-2008-07-31T16:32:12.567199Z
-65332
-benjamin.peterson
-
 ddMinMag.decTest
 file
 
@@ -1267,6 +1255,18 @@ file
 
 2009-06-21T03:52:13.000000Z
 1f8f71a7e1829b01d3bb181bf7aeedbe
+2008-07-31T16:32:12.567199Z
+65332
+benjamin.peterson
+
+or.decTest
+file
+
+
+
+
+2009-06-21T03:52:13.000000Z
+a0ae9d628c6eb6f02e7a9a3a9e7a708d
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -1319,14 +1319,14 @@ c29bc6147e66e666600b2d90a3c50465
 65332
 benjamin.peterson
 
-nextminus.decTest
+dqAbs.decTest
 file
 
 
 
 
 2009-06-21T03:52:13.000000Z
-b8074c73e42e6382b5523c28d76d33c5
+6fd4b8232f3a037aace70402452269b1
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -1343,26 +1343,14 @@ file
 65332
 benjamin.peterson
 
-dqAbs.decTest
+nextminus.decTest
 file
 
 
 
 
 2009-06-21T03:52:13.000000Z
-6fd4b8232f3a037aace70402452269b1
-2008-07-31T16:32:12.567199Z
-65332
-benjamin.peterson
-
-ddLogB.decTest
-file
-
-
-
-
-2009-06-21T03:52:13.000000Z
-397fd9ea3c4bd2b7fc07a0b484533bd4
+b8074c73e42e6382b5523c28d76d33c5
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -1375,6 +1363,18 @@ file
 
 2009-06-21T03:52:13.000000Z
 d81139f43132af135fd0808b08e29140
+2008-07-31T16:32:12.567199Z
+65332
+benjamin.peterson
+
+ddLogB.decTest
+file
+
+
+
+
+2009-06-21T03:52:13.000000Z
+397fd9ea3c4bd2b7fc07a0b484533bd4
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -1403,18 +1403,6 @@ file
 65332
 benjamin.peterson
 
-dqRemainderNear.decTest
-file
-
-
-
-
-2009-06-21T03:52:13.000000Z
-f5168be094c5e161d8f9a22e4c4216f3
-2008-07-31T16:32:12.567199Z
-65332
-benjamin.peterson
-
 ddScaleB.decTest
 file
 
@@ -1427,14 +1415,14 @@ c5d631f7096f41b40dc8c27c24ffb6c9
 65332
 benjamin.peterson
 
-ddCompareTotal.decTest
+dqRemainderNear.decTest
 file
 
 
 
 
 2009-06-21T03:52:13.000000Z
-218992a9dc611b353c062f64bba8e086
+f5168be094c5e161d8f9a22e4c4216f3
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -1447,6 +1435,18 @@ file
 
 2009-06-21T03:52:13.000000Z
 ba15b73c89b14c833b74e9e539ae8a97
+2008-07-31T16:32:12.567199Z
+65332
+benjamin.peterson
+
+ddCompareTotal.decTest
+file
+
+
+
+
+2009-06-21T03:52:13.000000Z
+218992a9dc611b353c062f64bba8e086
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -1476,18 +1476,6 @@ file
 benjamin.peterson
 has-props
 
-ddQuantize.decTest
-file
-
-
-
-
-2009-06-21T03:52:13.000000Z
-538d04ab0177eedbd65c86795c79f7ab
-2008-07-31T16:32:12.567199Z
-65332
-benjamin.peterson
-
 testall.decTest
 file
 
@@ -1501,14 +1489,14 @@ ffc42917c26dd076fe8053dd55ec8ef2
 benjamin.peterson
 has-props
 
-ddClass.decTest
+ddQuantize.decTest
 file
 
 
 
 
 2009-06-21T03:52:13.000000Z
-75c3e3953c6a3f2107f4475f71e6afb4
+538d04ab0177eedbd65c86795c79f7ab
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson
@@ -1521,6 +1509,18 @@ file
 
 2009-06-21T03:52:13.000000Z
 906d4ea2756dbd6de22549dbc71cef83
+2008-07-31T16:32:12.567199Z
+65332
+benjamin.peterson
+
+ddClass.decTest
+file
+
+
+
+
+2009-06-21T03:52:13.000000Z
+75c3e3953c6a3f2107f4475f71e6afb4
 2008-07-31T16:32:12.567199Z
 65332
 benjamin.peterson

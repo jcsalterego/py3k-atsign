@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Demo/turtle
 http://svn.python.org/projects
 
@@ -39,19 +39,6 @@ file
 martin.v.loewis
 has-props
 
-tdemo_minimal_hanoi.py
-file
-
-
-
-
-2009-06-21T03:51:22.000000Z
-55e8922f7851042e26e429b9bf63645a
-2008-09-21T07:32:10.720900Z
-66531
-martin.v.loewis
-has-props
-
 tdemo_fractalcurves.py
 file
 
@@ -60,6 +47,19 @@ file
 
 2009-06-21T03:51:22.000000Z
 d58bb15787cdc544fd04981a9ea3c54f
+2008-09-21T07:32:10.720900Z
+66531
+martin.v.loewis
+has-props
+
+tdemo_minimal_hanoi.py
+file
+
+
+
+
+2009-06-21T03:51:22.000000Z
+55e8922f7851042e26e429b9bf63645a
 2008-09-21T07:32:10.720900Z
 66531
 martin.v.loewis
@@ -78,6 +78,19 @@ file
 martin.v.loewis
 has-props
 
+turtledemo_two_canvases.py
+file
+
+
+
+
+2009-06-21T03:51:22.000000Z
+7c117a42bb96ded4d6938677bbf0722e
+2008-09-21T07:32:10.720900Z
+66531
+martin.v.loewis
+has-props
+
 about_turtle.txt
 file
 
@@ -91,14 +104,14 @@ file
 martin.v.loewis
 has-props
 
-turtledemo_two_canvases.py
+tdemo_paint.py
 file
 
 
 
 
 2009-06-21T03:51:22.000000Z
-7c117a42bb96ded4d6938677bbf0722e
+15556cd9408c3beb9e779314fddef449
 2008-09-21T07:32:10.720900Z
 66531
 martin.v.loewis
@@ -117,16 +130,16 @@ file
 martin.v.loewis
 has-props
 
-tdemo_paint.py
+about_turtledemo.txt
 file
 
 
 
 
 2009-06-21T03:51:22.000000Z
-15556cd9408c3beb9e779314fddef449
-2008-09-21T07:32:10.720900Z
-66531
+4e581eb64b992351f2692a848357d260
+2008-06-10T04:44:07.733228Z
+64061
 martin.v.loewis
 has-props
 
@@ -140,19 +153,6 @@ file
 555ecec91623eddf7e6e6529933246e6
 2008-09-21T07:32:10.720900Z
 66531
-martin.v.loewis
-has-props
-
-about_turtledemo.txt
-file
-
-
-
-
-2009-06-21T03:51:22.000000Z
-4e581eb64b992351f2692a848357d260
-2008-06-10T04:44:07.733228Z
-64061
 martin.v.loewis
 has-props
 
@@ -195,19 +195,6 @@ file
 martin.v.loewis
 has-props
 
-tdemo_nim.py
-file
-
-
-
-
-2009-06-21T03:51:22.000000Z
-9bfc6d4b72636184de5c1a974b685029
-2009-05-05T08:14:33.105849Z
-72318
-georg.brandl
-has-props
-
 tdemo_colormixer.py
 file
 
@@ -219,6 +206,19 @@ a00e880b54100ce4f2a1e8b5dff56008
 2008-09-21T07:32:10.720900Z
 66531
 martin.v.loewis
+has-props
+
+tdemo_nim.py
+file
+
+
+
+
+2009-06-21T03:51:22.000000Z
+9bfc6d4b72636184de5c1a974b685029
+2009-05-05T08:14:33.105849Z
+72318
+georg.brandl
 has-props
 
 tdemo_lindenmayer_indian.py

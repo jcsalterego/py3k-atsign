@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/projects/!svn/ver/73458/python/branches/py3k/Doc/library
+/projects/!svn/ver/73466/python/branches/py3k/Doc/library
 END
 xmlrpc.server.rst
 K 25
@@ -15,17 +15,17 @@ svn:wc:ra_dav:version-url
 V 65
 /projects/!svn/ver/69847/python/branches/py3k/Doc/library/pty.rst
 END
-email.mime.rst
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/projects/!svn/ver/72735/python/branches/py3k/Doc/library/email.mime.rst
-END
 fpectl.rst
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/72742/python/branches/py3k/Doc/library/fpectl.rst
+END
+email.mime.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/72735/python/branches/py3k/Doc/library/email.mime.rst
 END
 filesys.rst
 K 25
@@ -81,17 +81,17 @@ svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/72742/python/branches/py3k/Doc/library/code.rst
 END
-idle.rst
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/projects/!svn/ver/70507/python/branches/py3k/Doc/library/idle.rst
-END
 macpath.rst
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/73291/python/branches/py3k/Doc/library/macpath.rst
+END
+idle.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/70507/python/branches/py3k/Doc/library/idle.rst
 END
 xml.dom.rst
 K 25
@@ -187,7 +187,7 @@ contextlib.rst
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/projects/!svn/ver/73287/python/branches/py3k/Doc/library/contextlib.rst
+/projects/!svn/ver/73466/python/branches/py3k/Doc/library/contextlib.rst
 END
 pipes.rst
 K 25
@@ -195,29 +195,29 @@ svn:wc:ra_dav:version-url
 V 67
 /projects/!svn/ver/59751/python/branches/py3k/Doc/library/pipes.rst
 END
-termios.rst
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/projects/!svn/ver/59751/python/branches/py3k/Doc/library/termios.rst
-END
 plistlib.rst
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/69202/python/branches/py3k/Doc/library/plistlib.rst
 END
-abc.rst
+termios.rst
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/projects/!svn/ver/72742/python/branches/py3k/Doc/library/abc.rst
+V 69
+/projects/!svn/ver/59751/python/branches/py3k/Doc/library/termios.rst
 END
 errno.rst
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /projects/!svn/ver/72742/python/branches/py3k/Doc/library/errno.rst
+END
+abc.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/72742/python/branches/py3k/Doc/library/abc.rst
 END
 gc.rst
 K 25
@@ -261,17 +261,17 @@ svn:wc:ra_dav:version-url
 V 65
 /projects/!svn/ver/72330/python/branches/py3k/Doc/library/pdb.rst
 END
-winsound.rst
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/projects/!svn/ver/68113/python/branches/py3k/Doc/library/winsound.rst
-END
 string.rst
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/72441/python/branches/py3k/Doc/library/string.rst
+END
+winsound.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/68113/python/branches/py3k/Doc/library/winsound.rst
 END
 linecache.rst
 K 25
@@ -297,17 +297,17 @@ svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/73295/python/branches/py3k/Doc/library/tkinter.rst
 END
-distutils.rst
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/projects/!svn/ver/72742/python/branches/py3k/Doc/library/distutils.rst
-END
 itertools.rst
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /projects/!svn/ver/73458/python/branches/py3k/Doc/library/itertools.rst
+END
+distutils.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/72742/python/branches/py3k/Doc/library/distutils.rst
 END
 sched.rst
 K 25
@@ -315,29 +315,29 @@ svn:wc:ra_dav:version-url
 V 67
 /projects/!svn/ver/72934/python/branches/py3k/Doc/library/sched.rst
 END
-email.rst
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/projects/!svn/ver/72735/python/branches/py3k/Doc/library/email.rst
-END
 html.entities.rst
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /projects/!svn/ver/69202/python/branches/py3k/Doc/library/html.entities.rst
 END
-warnings.rst
+email.rst
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/projects/!svn/ver/68285/python/branches/py3k/Doc/library/warnings.rst
+V 67
+/projects/!svn/ver/72735/python/branches/py3k/Doc/library/email.rst
 END
 tokenize.rst
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/72086/python/branches/py3k/Doc/library/tokenize.rst
+END
+warnings.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/68285/python/branches/py3k/Doc/library/warnings.rst
 END
 timeit.rst
 K 25
@@ -363,17 +363,17 @@ svn:wc:ra_dav:version-url
 V 64
 /projects/!svn/ver/69051/python/branches/py3k/Doc/library/tk.rst
 END
-turtle.rst
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/projects/!svn/ver/72318/python/branches/py3k/Doc/library/turtle.rst
-END
 test.rst
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/72330/python/branches/py3k/Doc/library/test.rst
+END
+turtle.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/72318/python/branches/py3k/Doc/library/turtle.rst
 END
 random.rst
 K 25
@@ -765,17 +765,17 @@ svn:wc:ra_dav:version-url
 V 65
 /projects/!svn/ver/72742/python/branches/py3k/Doc/library/dis.rst
 END
-tty.rst
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/projects/!svn/ver/59751/python/branches/py3k/Doc/library/tty.rst
-END
 __main__.rst
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/59751/python/branches/py3k/Doc/library/__main__.rst
+END
+tty.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/59751/python/branches/py3k/Doc/library/tty.rst
 END
 development.rst
 K 25
@@ -783,17 +783,17 @@ svn:wc:ra_dav:version-url
 V 73
 /projects/!svn/ver/72742/python/branches/py3k/Doc/library/development.rst
 END
-struct.rst
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/projects/!svn/ver/70688/python/branches/py3k/Doc/library/struct.rst
-END
 base64.rst
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/73204/python/branches/py3k/Doc/library/base64.rst
+END
+struct.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/70688/python/branches/py3k/Doc/library/struct.rst
 END
 cgitb.rst
 K 25
@@ -837,17 +837,17 @@ svn:wc:ra_dav:version-url
 V 76
 /projects/!svn/ver/73125/python/branches/py3k/Doc/library/email-examples.rst
 END
-uuid.rst
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/projects/!svn/ver/59751/python/branches/py3k/Doc/library/uuid.rst
-END
 getpass.rst
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/72744/python/branches/py3k/Doc/library/getpass.rst
+END
+uuid.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/59751/python/branches/py3k/Doc/library/uuid.rst
 END
 index.rst
 K 25
@@ -855,17 +855,17 @@ svn:wc:ra_dav:version-url
 V 67
 /projects/!svn/ver/70707/python/branches/py3k/Doc/library/index.rst
 END
-mm.rst
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/projects/!svn/ver/73291/python/branches/py3k/Doc/library/mm.rst
-END
 codeop.rst
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/72742/python/branches/py3k/Doc/library/codeop.rst
+END
+mm.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/73291/python/branches/py3k/Doc/library/mm.rst
 END
 allos.rst
 K 25
@@ -921,17 +921,17 @@ svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/73208/python/branches/py3k/Doc/library/shelve.rst
 END
-smtpd.rst
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/projects/!svn/ver/62491/python/branches/py3k/Doc/library/smtpd.rst
-END
 marshal.rst
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/73291/python/branches/py3k/Doc/library/marshal.rst
+END
+smtpd.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/62491/python/branches/py3k/Doc/library/smtpd.rst
 END
 fractions.rst
 K 25
@@ -957,17 +957,17 @@ svn:wc:ra_dav:version-url
 V 73
 /projects/!svn/ver/63874/python/branches/py3k/Doc/library/html.parser.rst
 END
-email.iterators.rst
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/projects/!svn/ver/72735/python/branches/py3k/Doc/library/email.iterators.rst
-END
 zipfile.rst
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/68285/python/branches/py3k/Doc/library/zipfile.rst
+END
+email.iterators.rst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/72735/python/branches/py3k/Doc/library/email.iterators.rst
 END
 cmd.rst
 K 25
@@ -979,19 +979,19 @@ curses.rst
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/projects/!svn/ver/72742/python/branches/py3k/Doc/library/curses.rst
-END
-xml.sax.handler.rst
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/projects/!svn/ver/60492/python/branches/py3k/Doc/library/xml.sax.handler.rst
+/projects/!svn/ver/73464/python/branches/py3k/Doc/library/curses.rst
 END
 wsgiref.rst
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /projects/!svn/ver/68226/python/branches/py3k/Doc/library/wsgiref.rst
+END
+xml.sax.handler.rst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/60492/python/branches/py3k/Doc/library/xml.sax.handler.rst
 END
 copyreg.rst
 K 25
@@ -1011,11 +1011,11 @@ svn:wc:ra_dav:version-url
 V 67
 /projects/!svn/ver/69421/python/branches/py3k/Doc/library/runpy.rst
 END
-stdtypes.rst
+msilib.rst
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/projects/!svn/ver/73086/python/branches/py3k/Doc/library/stdtypes.rst
+V 68
+/projects/!svn/ver/73291/python/branches/py3k/Doc/library/msilib.rst
 END
 quopri.rst
 K 25
@@ -1023,11 +1023,11 @@ svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/59751/python/branches/py3k/Doc/library/quopri.rst
 END
-msilib.rst
+stdtypes.rst
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/projects/!svn/ver/73291/python/branches/py3k/Doc/library/msilib.rst
+V 70
+/projects/!svn/ver/73086/python/branches/py3k/Doc/library/stdtypes.rst
 END
 token.rst
 K 25
@@ -1041,17 +1041,17 @@ svn:wc:ra_dav:version-url
 V 73
 /projects/!svn/ver/68226/python/branches/py3k/Doc/library/tkinter.tix.rst
 END
-gettext.rst
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/projects/!svn/ver/72744/python/branches/py3k/Doc/library/gettext.rst
-END
 http.cookiejar.rst
 K 25
 svn:wc:ra_dav:version-url
 V 76
 /projects/!svn/ver/68247/python/branches/py3k/Doc/library/http.cookiejar.rst
+END
+gettext.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/72744/python/branches/py3k/Doc/library/gettext.rst
 END
 ossaudiodev.rst
 K 25
@@ -1077,29 +1077,29 @@ svn:wc:ra_dav:version-url
 V 82
 /projects/!svn/ver/63419/python/branches/py3k/Doc/library/tkinter.scrolledtext.rst
 END
-parser.rst
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/projects/!svn/ver/68247/python/branches/py3k/Doc/library/parser.rst
-END
 cmath.rst
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /projects/!svn/ver/71289/python/branches/py3k/Doc/library/cmath.rst
 END
-atexit.rst
+parser.rst
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/projects/!svn/ver/72742/python/branches/py3k/Doc/library/atexit.rst
+/projects/!svn/ver/68247/python/branches/py3k/Doc/library/parser.rst
 END
 heapq.rst
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /projects/!svn/ver/72744/python/branches/py3k/Doc/library/heapq.rst
+END
+atexit.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/72742/python/branches/py3k/Doc/library/atexit.rst
 END
 crypt.rst
 K 25
@@ -1143,17 +1143,17 @@ svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/73291/python/branches/py3k/Doc/library/language.rst
 END
-platform.rst
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/projects/!svn/ver/73295/python/branches/py3k/Doc/library/platform.rst
-END
 persistence.rst
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /projects/!svn/ver/66200/python/branches/py3k/Doc/library/persistence.rst
+END
+platform.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/73295/python/branches/py3k/Doc/library/platform.rst
 END
 grp.rst
 K 25
@@ -1215,23 +1215,17 @@ svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/64998/python/branches/py3k/Doc/library/pprint.rst
 END
-pydoc.rst
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/projects/!svn/ver/68113/python/branches/py3k/Doc/library/pydoc.rst
-END
 email.header.rst
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /projects/!svn/ver/72735/python/branches/py3k/Doc/library/email.header.rst
 END
-traceback.rst
+pydoc.rst
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/projects/!svn/ver/72477/python/branches/py3k/Doc/library/traceback.rst
+V 67
+/projects/!svn/ver/68113/python/branches/py3k/Doc/library/pydoc.rst
 END
 i18n.rst
 K 25
@@ -1239,17 +1233,23 @@ svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/72744/python/branches/py3k/Doc/library/i18n.rst
 END
-urllib.request.rst
+traceback.rst
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/projects/!svn/ver/71261/python/branches/py3k/Doc/library/urllib.request.rst
+V 71
+/projects/!svn/ver/72477/python/branches/py3k/Doc/library/traceback.rst
 END
 crypto.rst
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/72742/python/branches/py3k/Doc/library/crypto.rst
+END
+urllib.request.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/71261/python/branches/py3k/Doc/library/urllib.request.rst
 END
 readline.rst
 K 25
@@ -1293,17 +1293,17 @@ svn:wc:ra_dav:version-url
 V 71
 /projects/!svn/ver/73125/python/branches/py3k/Doc/library/functions.rst
 END
-bisect.rst
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/projects/!svn/ver/73369/python/branches/py3k/Doc/library/bisect.rst
-END
 calendar.rst
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /projects/!svn/ver/71289/python/branches/py3k/Doc/library/calendar.rst
+END
+bisect.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/73369/python/branches/py3k/Doc/library/bisect.rst
 END
 archiving.rst
 K 25
@@ -1335,17 +1335,17 @@ svn:wc:ra_dav:version-url
 V 75
 /projects/!svn/ver/72735/python/branches/py3k/Doc/library/email.charset.rst
 END
-tkinter.ttk.rst
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/projects/!svn/ver/73450/python/branches/py3k/Doc/library/tkinter.ttk.rst
-END
 _dummy_thread.rst
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /projects/!svn/ver/63631/python/branches/py3k/Doc/library/_dummy_thread.rst
+END
+tkinter.ttk.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/73450/python/branches/py3k/Doc/library/tkinter.ttk.rst
 END
 keyword.rst
 K 25
@@ -1377,17 +1377,17 @@ svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/66666/python/branches/py3k/Doc/library/site.rst
 END
-modules.rst
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/projects/!svn/ver/73291/python/branches/py3k/Doc/library/modules.rst
-END
 chunk.rst
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /projects/!svn/ver/71289/python/branches/py3k/Doc/library/chunk.rst
+END
+modules.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/73291/python/branches/py3k/Doc/library/modules.rst
 END
 copy.rst
 K 25
@@ -1395,17 +1395,17 @@ svn:wc:ra_dav:version-url
 V 66
 /projects/!svn/ver/72742/python/branches/py3k/Doc/library/copy.rst
 END
-os.path.rst
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/projects/!svn/ver/72387/python/branches/py3k/Doc/library/os.path.rst
-END
 mimetypes.rst
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /projects/!svn/ver/73291/python/branches/py3k/Doc/library/mimetypes.rst
+END
+os.path.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/72387/python/branches/py3k/Doc/library/os.path.rst
 END
 signal.rst
 K 25
@@ -1413,11 +1413,11 @@ svn:wc:ra_dav:version-url
 V 68
 /projects/!svn/ver/68226/python/branches/py3k/Doc/library/signal.rst
 END
-webbrowser.rst
+exceptions.rst
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/projects/!svn/ver/72926/python/branches/py3k/Doc/library/webbrowser.rst
+/projects/!svn/ver/73125/python/branches/py3k/Doc/library/exceptions.rst
 END
 compileall.rst
 K 25
@@ -1425,11 +1425,11 @@ svn:wc:ra_dav:version-url
 V 72
 /projects/!svn/ver/72742/python/branches/py3k/Doc/library/compileall.rst
 END
-exceptions.rst
+webbrowser.rst
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/projects/!svn/ver/73125/python/branches/py3k/Doc/library/exceptions.rst
+/projects/!svn/ver/72926/python/branches/py3k/Doc/library/webbrowser.rst
 END
 imp.rst
 K 25
@@ -1509,11 +1509,11 @@ svn:wc:ra_dav:version-url
 V 72
 /projects/!svn/ver/72744/python/branches/py3k/Doc/library/frameworks.rst
 END
-unix.rst
+asyncore.rst
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/projects/!svn/ver/63715/python/branches/py3k/Doc/library/unix.rst
+V 70
+/projects/!svn/ver/72742/python/branches/py3k/Doc/library/asyncore.rst
 END
 shlex.rst
 K 25
@@ -1521,11 +1521,11 @@ svn:wc:ra_dav:version-url
 V 67
 /projects/!svn/ver/67347/python/branches/py3k/Doc/library/shlex.rst
 END
-asyncore.rst
+unix.rst
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/projects/!svn/ver/72742/python/branches/py3k/Doc/library/asyncore.rst
+V 66
+/projects/!svn/ver/63715/python/branches/py3k/Doc/library/unix.rst
 END
 math.rst
 K 25

@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Modules/_sqlite
 http://svn.python.org/projects
 
@@ -52,19 +52,6 @@ file
 mark.dickinson
 has-props
 
-statement.c
-file
-
-
-
-
-2009-06-21T03:52:29.000000Z
-a598bb15ee225075fd128a288cbbea15
-2009-02-02T20:36:42.875594Z
-69214
-mark.dickinson
-has-props
-
 connection.h
 file
 
@@ -76,6 +63,19 @@ file
 2008-05-26T13:28:38.793177Z
 63682
 christian.heimes
+has-props
+
+statement.c
+file
+
+
+
+
+2009-06-21T03:52:29.000000Z
+a598bb15ee225075fd128a288cbbea15
+2009-02-02T20:36:42.875594Z
+69214
+mark.dickinson
 has-props
 
 row.c
@@ -143,19 +143,6 @@ file
 gerhard.haering
 has-props
 
-cursor.c
-file
-
-
-
-
-2009-06-21T03:52:29.000000Z
-066da5476952089c22a22e676e750c4c
-2009-02-02T20:36:42.875594Z
-69214
-mark.dickinson
-has-props
-
 util.c
 file
 
@@ -167,6 +154,19 @@ file
 2008-09-13T15:58:53.570630Z
 66446
 benjamin.peterson
+has-props
+
+cursor.c
+file
+
+
+
+
+2009-06-21T03:52:29.000000Z
+066da5476952089c22a22e676e750c4c
+2009-02-02T20:36:42.875594Z
+69214
+mark.dickinson
 has-props
 
 microprotocols.c
@@ -195,19 +195,6 @@ file
 mark.dickinson
 has-props
 
-cursor.h
-file
-
-
-
-
-2009-06-21T03:52:29.000000Z
-7b38863e009abdc722786b3aba2f0e7e
-2008-06-10T17:40:04.854766Z
-64085
-georg.brandl
-has-props
-
 util.h
 file
 
@@ -219,6 +206,19 @@ file
 2008-09-13T15:58:53.570630Z
 66446
 benjamin.peterson
+has-props
+
+cursor.h
+file
+
+
+
+
+2009-06-21T03:52:29.000000Z
+7b38863e009abdc722786b3aba2f0e7e
+2008-06-10T17:40:04.854766Z
+64085
+georg.brandl
 has-props
 
 microprotocols.h

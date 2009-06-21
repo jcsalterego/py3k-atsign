@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Doc/c-api
 http://svn.python.org/projects
 
@@ -208,19 +208,6 @@ bc4a3dcacc122637d23a58c965c554e8
 hirokazu.yamamoto
 has-props
 
-set.rst
-file
-
-
-
-
-2009-06-21T03:51:38.000000Z
-9bfcdf7e47c5377cda29fb3bddf4d4a4
-2009-04-27T08:07:12.094354Z
-72001
-jeroen.ruigrok
-has-props
-
 intro.rst
 file
 
@@ -234,17 +221,17 @@ file
 georg.brandl
 has-props
 
-capsule.rst
+set.rst
 file
 
 
 
 
 2009-06-21T03:51:38.000000Z
-8d508474aa48404929d163e678c25027
-2009-05-06T08:32:17.168576Z
-72396
-georg.brandl
+9bfcdf7e47c5377cda29fb3bddf4d4a4
+2009-04-27T08:07:12.094354Z
+72001
+jeroen.ruigrok
 has-props
 
 datetime.rst
@@ -260,14 +247,27 @@ f2a875dac9e2b970b1a377abc93565ce
 hirokazu.yamamoto
 has-props
 
-long.rst
+capsule.rst
 file
 
 
 
 
 2009-06-21T03:51:38.000000Z
-cd4647bd53c727ea47ed5447c4d39df4
+8d508474aa48404929d163e678c25027
+2009-05-06T08:32:17.168576Z
+72396
+georg.brandl
+has-props
+
+slice.rst
+file
+
+
+
+
+2009-06-21T03:51:38.000000Z
+e6163eeaa589419cfe6ead609ebd04f2
 2009-04-27T08:07:12.094354Z
 72001
 jeroen.ruigrok
@@ -286,30 +286,17 @@ file
 hirokazu.yamamoto
 has-props
 
-slice.rst
+long.rst
 file
 
 
 
 
 2009-06-21T03:51:38.000000Z
-e6163eeaa589419cfe6ead609ebd04f2
+cd4647bd53c727ea47ed5447c4d39df4
 2009-04-27T08:07:12.094354Z
 72001
 jeroen.ruigrok
-has-props
-
-bytearray.rst
-file
-
-
-
-
-2009-06-21T03:51:38.000000Z
-16fd67c70a0dcce10e3010b675a848c4
-2009-02-02T09:15:41.455843Z
-69202
-hirokazu.yamamoto
 has-props
 
 concrete.rst
@@ -325,17 +312,30 @@ e29755696091097e188f6d4a53f7c903
 benjamin.peterson
 has-props
 
-iter.rst
+bytearray.rst
 file
 
 
 
 
 2009-06-21T03:51:38.000000Z
-6f137e1159a8077540b77dfa8d550a21
+16fd67c70a0dcce10e3010b675a848c4
 2009-02-02T09:15:41.455843Z
 69202
 hirokazu.yamamoto
+has-props
+
+abstract.rst
+file
+
+
+
+
+2009-06-21T03:51:38.000000Z
+bcf9a2545d475dcc4fb8eac40c6f0332
+2008-01-20T09:30:57.848887Z
+60126
+georg.brandl
 has-props
 
 init.rst
@@ -351,17 +351,17 @@ file
 benjamin.peterson
 has-props
 
-abstract.rst
+iter.rst
 file
 
 
 
 
 2009-06-21T03:51:38.000000Z
-bcf9a2545d475dcc4fb8eac40c6f0332
-2008-01-20T09:30:57.848887Z
-60126
-georg.brandl
+6f137e1159a8077540b77dfa8d550a21
+2009-02-02T09:15:41.455843Z
+69202
+hirokazu.yamamoto
 has-props
 
 float.rst
@@ -390,19 +390,6 @@ cc7a0560063c4f6e91ca05b1f6f534ff
 jeroen.ruigrok
 has-props
 
-index.rst
-file
-
-
-
-
-2009-06-21T03:51:38.000000Z
-dd3dccf4043b1ed2f18383f70bc6c144
-2008-01-20T11:00:14.717414Z
-60130
-georg.brandl
-has-props
-
 complex.rst
 file
 
@@ -414,6 +401,19 @@ file
 2009-02-02T09:15:41.455843Z
 69202
 hirokazu.yamamoto
+has-props
+
+index.rst
+file
+
+
+
+
+2009-06-21T03:51:38.000000Z
+dd3dccf4043b1ed2f18383f70bc6c144
+2008-01-20T11:00:14.717414Z
+60130
+georg.brandl
 has-props
 
 arg.rst

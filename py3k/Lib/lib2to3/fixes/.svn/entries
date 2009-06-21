@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Lib/lib2to3/fixes
 http://svn.python.org/projects
 
@@ -208,19 +208,6 @@ file
 benjamin.peterson
 has-props
 
-fix_throw.py
-file
-
-
-
-
-2009-06-21T03:52:05.000000Z
-01d273625779b336d20a0c83d040763a
-2009-06-11T23:47:38.067255Z
-73384
-benjamin.peterson
-has-props
-
 fix_raise.py
 file
 
@@ -229,6 +216,19 @@ file
 
 2009-06-21T03:52:05.000000Z
 61230e31cc3aeaaaa7fa987b88ec7d6f
+2009-06-11T23:47:38.067255Z
+73384
+benjamin.peterson
+has-props
+
+fix_throw.py
+file
+
+
+
+
+2009-06-21T03:52:05.000000Z
+01d273625779b336d20a0c83d040763a
 2009-06-11T23:47:38.067255Z
 73384
 benjamin.peterson
@@ -247,19 +247,6 @@ file
 benjamin.peterson
 has-props
 
-fix_paren.py
-file
-
-
-
-
-2009-06-21T03:52:05.000000Z
-c5e8283f4bf4fa05a93bf73cfd79e409
-2009-06-11T23:47:38.067255Z
-73384
-benjamin.peterson
-has-props
-
 fix_ws_comma.py
 file
 
@@ -268,6 +255,19 @@ file
 
 2009-06-21T03:52:05.000000Z
 2ff881c3381a5d5070cf72cb347023fa
+2009-06-11T23:47:38.067255Z
+73384
+benjamin.peterson
+has-props
+
+fix_paren.py
+file
+
+
+
+
+2009-06-21T03:52:05.000000Z
+c5e8283f4bf4fa05a93bf73cfd79e409
 2009-06-11T23:47:38.067255Z
 73384
 benjamin.peterson
@@ -286,19 +286,6 @@ file
 benjamin.peterson
 has-props
 
-fix_raw_input.py
-file
-
-
-
-
-2009-06-21T03:52:05.000000Z
-17d5b90d90bd0ae1f1d1bf8d6c8cfd5c
-2009-06-11T23:47:38.067255Z
-73384
-benjamin.peterson
-has-props
-
 fix_repr.py
 file
 
@@ -312,14 +299,14 @@ ff7f208411ad3c7b992ff0af7d082bc8
 benjamin.peterson
 has-props
 
-fix_buffer.py
+fix_raw_input.py
 file
 
 
 
 
 2009-06-21T03:52:05.000000Z
-321b90bb8755f090626dc219cc115ecd
+17d5b90d90bd0ae1f1d1bf8d6c8cfd5c
 2009-06-11T23:47:38.067255Z
 73384
 benjamin.peterson
@@ -338,14 +325,14 @@ e2977d9fe8057883fca9d7ebc3a00bf2
 benjamin.peterson
 has-props
 
-fix_import.py
+fix_buffer.py
 file
 
 
 
 
 2009-06-21T03:52:05.000000Z
-9cd52b115e7e66ac9905d80c67ff0b0d
+321b90bb8755f090626dc219cc115ecd
 2009-06-11T23:47:38.067255Z
 73384
 benjamin.peterson
@@ -359,6 +346,19 @@ file
 
 2009-06-21T03:52:05.000000Z
 ef9723add98a13a9ab9ed576c1adebf6
+2009-06-11T23:47:38.067255Z
+73384
+benjamin.peterson
+has-props
+
+fix_import.py
+file
+
+
+
+
+2009-06-21T03:52:05.000000Z
+9cd52b115e7e66ac9905d80c67ff0b0d
 2009-06-11T23:47:38.067255Z
 73384
 benjamin.peterson
@@ -390,14 +390,14 @@ file
 benjamin.peterson
 has-props
 
-fix_itertools.py
+fix_xrange.py
 file
 
 
 
 
 2009-06-21T03:52:05.000000Z
-03553ae75a6403790400ce1e77f3e07c
+64a03546ba0b534ba17119f81b668d0f
 2009-06-11T23:47:38.067255Z
 73384
 benjamin.peterson
@@ -416,14 +416,14 @@ file
 benjamin.peterson
 has-props
 
-fix_xrange.py
+fix_itertools.py
 file
 
 
 
 
 2009-06-21T03:52:05.000000Z
-64a03546ba0b534ba17119f81b668d0f
+03553ae75a6403790400ce1e77f3e07c
 2009-06-11T23:47:38.067255Z
 73384
 benjamin.peterson

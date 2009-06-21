@@ -1,7 +1,7 @@
 8
 
 dir
-73458
+73491
 http://svn.python.org/projects/python/branches/py3k/Demo/tkinter/guido
 http://svn.python.org/projects
 
@@ -39,14 +39,14 @@ file
 benjamin.peterson
 has-props
 
-listtree.py
+solitaire.py
 file
 
 
 
 
 2009-06-21T03:51:22.000000Z
-90063d65e5e785d65a43c9807cd68214
+17013a30b4602747cac0d7d94e6d7a20
 2009-01-04T18:53:28.281738Z
 68309
 benjamin.peterson
@@ -65,14 +65,14 @@ file
 benjamin.peterson
 has-props
 
-solitaire.py
+listtree.py
 file
 
 
 
 
 2009-06-21T03:51:22.000000Z
-17013a30b4602747cac0d7d94e6d7a20
+90063d65e5e785d65a43c9807cd68214
 2009-01-04T18:53:28.281738Z
 68309
 benjamin.peterson
@@ -91,14 +91,14 @@ ac9a6a685bc54947ff4453ee104d0ca4
 benjamin.peterson
 has-props
 
-hanoi.py
+sortvisu.py
 file
 
 
 
 
 2009-06-21T03:51:22.000000Z
-6069d44e98bb8c492ba4b490fa00795e
+a61bffb75588834757c219bce7f1f006
 2009-01-04T18:53:28.281738Z
 68309
 benjamin.peterson
@@ -117,27 +117,14 @@ f1a1466ab3989d7b5ce0216c02c0ee42
 benjamin.peterson
 has-props
 
-sortvisu.py
+hanoi.py
 file
 
 
 
 
 2009-06-21T03:51:22.000000Z
-a61bffb75588834757c219bce7f1f006
-2009-01-04T18:53:28.281738Z
-68309
-benjamin.peterson
-has-props
-
-dialog.py
-file
-
-
-
-
-2009-06-21T03:51:22.000000Z
-74d795b1a4d552b547aac290f32f6ad4
+6069d44e98bb8c492ba4b490fa00795e
 2009-01-04T18:53:28.281738Z
 68309
 benjamin.peterson
@@ -156,14 +143,14 @@ file
 benjamin.peterson
 has-props
 
-imagedraw.py
+dialog.py
 file
 
 
 
 
 2009-06-21T03:51:22.000000Z
-2bd3ec15f8526c5968a3c6214ce8427a
+74d795b1a4d552b547aac290f32f6ad4
 2009-01-04T18:53:28.281738Z
 68309
 benjamin.peterson
@@ -182,14 +169,14 @@ file
 benjamin.peterson
 has-props
 
-brownian2.py
+imagedraw.py
 file
 
 
 
 
 2009-06-21T03:51:22.000000Z
-af9c301bbfdbee6b1835c1e30c9da60d
+2bd3ec15f8526c5968a3c6214ce8427a
 2009-01-04T18:53:28.281738Z
 68309
 benjamin.peterson
@@ -203,6 +190,19 @@ file
 
 2009-06-21T03:51:22.000000Z
 1073ce2d879c31cfda9201f7a31ff93a
+2009-01-04T18:53:28.281738Z
+68309
+benjamin.peterson
+has-props
+
+brownian2.py
+file
+
+
+
+
+2009-06-21T03:51:22.000000Z
+af9c301bbfdbee6b1835c1e30c9da60d
 2009-01-04T18:53:28.281738Z
 68309
 benjamin.peterson
