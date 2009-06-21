@@ -1,0 +1,34 @@
+
+Abstract
+
+    This PEP proposes the overloading of the '@' operator for use of
+    the string formatting system introduced in Python 3000.
+
+Rationale
+
+    The new string formatting system [1] introduced in Python 3000 and
+    later backported to the 2.x series provides a far more versatile
+    mechanism than the original '%' operator, the latter of which is
+    deprecated and slated for removal.
+
+    Part of the design specifically addressed the binary operator
+    dilemma, which forced a choice between non-named items (string or
+    tuples, for example) versus named items (dictionaries).
+
+    This PEP attempts to reintroduce a binary operator as an optional
+    syntactical alternative to a direct function call, and to propose
+    a convention which may address the issues of its predecessor.
+
+Examples
+
+    >>> "Simple test with {} {} via tuples" @ ("unnamed", "args")
+    'Simple test with unnamed args via tuples'
+
+    >>> "Simple test with {foo} args via dicts" @ {"foo": "named"}
+    'Simple test with named args via dicts'
+
+    >>> "Mix of {foo} and {} args" @ ("unnamed", dict("foo"="named"))
+    'Mix of named and unnamed args'
+
+    >>> "No, really a {}" @ ({"literal":"dictionary"}, {})
+    "No, really a {'literal': 'dictionary'}"
