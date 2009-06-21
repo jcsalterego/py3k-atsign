@@ -1,0 +1,143 @@
+PEP: XXX
+Title: Operator for Advanced String Formatting
+Version: $Revision$
+Last-Modified: $Date$
+Author: Jerry Chen <j@3rdengine.com>
+Status: Draft
+Type: Standards Track
+Content-Type: text/plain
+Created: 19-Jun-2009
+Python-Version: 3.1
+Post-History: 
+
+
+Abstract
+
+    This PEP proposes the overloading of the '@' operator for use of
+    the string formatting system introduced in Python 3000.
+
+Rationale
+
+    The new string formatting system [1] introduced in Python 3000 and
+    later backported to the 2.x series provides a far more versatile
+    mechanism than the original '%' operator, the latter of which is
+    deprecated and slated for removal.
+
+    Part of the design specifically addressed the binary operator
+    dilemma, which forced a choice between non-named items (string or
+    tuples, for example) versus named items (dictionaries).
+
+    This PEP attempts to reintroduce a binary operator as an optional
+    syntactical alternative to a direct function call, and to propose
+    a convention which may address the issues of its predecessor.
+
+Specification
+
+    This PEP specifies the extension of the format syntax for use with
+    a binary operator.
+
+String Methods
+
+    The binary operator aims to be a shorthand for the built-in
+    'format' method of the string class (and unicode class in 2.6).
+    For the following example with both positional and keyword
+    arguments:
+
+        "The story of {0}, {1}, and {c}".format(a, b, c=d)
+        
+    either of the following may be used:
+
+        "The story of {0}, {1}, and {c}" @ (a, b, {"c": d})
+        "The story of {0}, {1}, and {c}" @ (a, b, dict(c=d))
+
+    When encountering a tuple, the last element will always be checked
+    for the existence of a dictionary, which will be used for named
+    arguments.
+
+    An ambiguity arises for one-lengthed tuples containing only a
+    dictionary, where the user may want to format the repr():
+
+        # Expected: "{'foo': 'bar'}"
+        # Result: IndexError: tuple index out of range
+        >>> "{}" @ (dict(foo="bar")),
+
+    A simple and modest solution is proposed:
+
+        >>> "{}" @ (dict(foo="bar"), {})
+        "{'foo': 'bar'}"
+
+    Of course, for esoteric purposes such as these, one might simply
+    consider to call the original method directly.
+
+Compatibility
+
+    The '@' unary operator exists in the Python language for function
+    and class decorators.  Fortunately, there is no application for an
+    unary string operator, nor is there an application for a "binary"
+    function decorator.
+
+    The binary operator was introduced into the grammar and parser
+    components with relative ease, with no clear danger of running
+    into parse ambiguities.
+
+    Otherwise, the proposed operand leverages the existing string
+    formatting API, and any changes or improvements made to the latter
+    will work immediately with the former.
+
+Alternate Syntax
+
+    Other operators were considered:
+
+    - Overloading the original '%' with __future__
+
+      This was done with the division import [3] but may ultimately
+      lead to confusion and would probably require a larger
+      modification of the parsing libraries.
+
+    - Using '%%' as the binary operator
+
+      The "double modulus" was originally used for ease of extending
+      the code, and provides a nice nod to the original string
+      operator.  However, it is subjectively unpleasing and would be
+      the odd operator out given there are no other non-equality
+      operators of length two.
+
+Sample Implementation
+
+    A patch against the current 3.1x 
+    An implementation of an earlier version of this PEP was created by
+    Patrick Maupin and Eric V. Smith, and can be found in the pep3101
+    sandbox at:
+
+       http://svn.python.org/view/sandbox/trunk/pep3101/
+
+
+Backwards Compatibility
+
+    Backwards compatibility can be maintained by leaving the existing
+    mechanisms in place.  The new system does not collide with any of
+    the method names of the existing string formatting techniques, so
+    both systems can co-exist until it comes time to deprecate the
+    older system.
+
+
+References
+
+    [1] PEP 3101: Advanced String Formatting
+        http://www.python.org/dev/peps/pep-3103/
+
+    [2] PEP 238: Changing the Division Operator
+        http://www.python.org/dev/peps/pep-0238/
+
+Copyright
+
+    This document has been placed in the public domain.
+
+
+Local Variables:
+mode: indented-text
+indent-tabs-mode: nil
+sentence-end-double-space: t
+fill-column: 70
+coding: utf-8
+End:
