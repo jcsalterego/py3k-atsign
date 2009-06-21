@@ -1,0 +1,41 @@
+8
+
+dir
+73458
+http://svn.python.org/projects/python/branches/py3k/Grammar
+http://svn.python.org/projects
+
+
+
+2009-06-11T22:54:11.846665Z
+73377
+benjamin.peterson
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6015fed2-1504-0410-9fe1-9d1591cc4771
+
+Grammar
+file
+
+
+
+
+2009-06-21T03:51:23.000000Z
+1d8edb0b9a2d299b90aa9eb9f30a851e
+2009-06-11T22:54:11.846665Z
+73377
+benjamin.peterson
+has-props
+

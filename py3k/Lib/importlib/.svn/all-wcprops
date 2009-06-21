@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/73387/python/branches/py3k/Lib/importlib
+END
+_bootstrap.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/70937/python/branches/py3k/Lib/importlib/_bootstrap.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/70294/python/branches/py3k/Lib/importlib/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/70373/python/branches/py3k/Lib/importlib/__init__.py
+END
+machinery.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/69282/python/branches/py3k/Lib/importlib/machinery.py
+END
+abc.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/70377/python/branches/py3k/Lib/importlib/abc.py
+END

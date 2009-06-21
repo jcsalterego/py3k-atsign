@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/66446/python/branches/py3k/Demo/pdist
+END
+RCSProxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/RCSProxy.py
+END
+cmptree.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/66446/python/branches/py3k/Demo/pdist/cmptree.py
+END
+mac.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/mac.py
+END
+cmdfw.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/cmdfw.py
+END
+cvslock.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/59793/python/branches/py3k/Demo/pdist/cvslock.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/README
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/63360/python/branches/py3k/Demo/pdist/server.py
+END
+security.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/security.py
+END
+rrcs.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/rrcs.py
+END
+FSProxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/FSProxy.py
+END
+rcvs.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/rcvs.py
+END
+rcslib.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/rcslib.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/59268/python/branches/py3k/Demo/pdist/client.py
+END
+rrcs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/rrcs
+END
+cvslib.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/cvslib.py
+END
+rcsbump
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/rcsbump
+END
+sumtree.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/sumtree.py
+END
+makechangelog.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/makechangelog.py
+END
+rcvs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/rcvs
+END
+rcsclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pdist/rcsclient.py
+END

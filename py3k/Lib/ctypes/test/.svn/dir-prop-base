@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 39
+*.pyc
+*.pyo
+_testfile.py
+_testfile.xml
+
+END

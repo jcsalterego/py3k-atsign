@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/64479/python/branches/py3k/Tools/versioncheck
+END
+pyversioncheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/64479/python/branches/py3k/Tools/versioncheck/pyversioncheck.py
+END
+_checkversion.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/56849/python/branches/py3k/Tools/versioncheck/_checkversion.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/56940/python/branches/py3k/Tools/versioncheck/README
+END
+checkversions.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/62953/python/branches/py3k/Tools/versioncheck/checkversions.py
+END

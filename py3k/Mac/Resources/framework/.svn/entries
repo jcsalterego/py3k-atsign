@@ -1,0 +1,41 @@
+8
+
+dir
+73458
+http://svn.python.org/projects/python/branches/py3k/Mac/Resources/framework
+http://svn.python.org/projects
+
+
+
+2008-05-04T22:42:01.640465Z
+62716
+christian.heimes
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6015fed2-1504-0410-9fe1-9d1591cc4771
+
+Info.plist.in
+file
+
+
+
+
+2009-06-21T03:51:28.000000Z
+3d41e72d5efde192d993cbbf8e4c70db
+2008-05-04T22:42:01.640465Z
+62716
+christian.heimes
+has-props
+

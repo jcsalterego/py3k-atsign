@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/58226/python/branches/py3k/Tools/modulator/Templates
+END
+object_tp_compare
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_tp_compare
+END
+object_tail
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_tail
+END
+object_new
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_new
+END
+object_tp_setattr
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_tp_setattr
+END
+object_tp_as_sequence
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_tp_as_sequence
+END
+module_method
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/module_method
+END
+object_tp_print
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_tp_print
+END
+object_structure
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/56915/python/branches/py3k/Tools/modulator/Templates/object_structure
+END
+object_head
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_head
+END
+object_tp_dealloc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_tp_dealloc
+END
+module_tail
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/module_tail
+END
+object_tp_repr
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_tp_repr
+END
+object_tp_str
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_tp_str
+END
+object_tp_getattr
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_tp_getattr
+END
+object_tp_call
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_tp_call
+END
+object_tp_as_number
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projects/!svn/ver/58226/python/branches/py3k/Tools/modulator/Templates/object_tp_as_number
+END
+object_method
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_method
+END
+module_head
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/module_head
+END
+object_tp_as_mapping
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_tp_as_mapping
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/copyright
+END
+object_tp_hash
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_tp_hash
+END
+object_mlist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/56849/python/branches/py3k/Tools/modulator/Templates/object_mlist
+END

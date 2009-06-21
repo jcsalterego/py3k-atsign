@@ -1,0 +1,84 @@
+8
+
+dir
+73458
+http://svn.python.org/projects/python/branches/py3k/Mac/BuildScript
+http://svn.python.org/projects
+
+
+
+2009-05-26T21:18:59.528157Z
+72947
+ronald.oussoren
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6015fed2-1504-0410-9fe1-9d1591cc4771
+
+seticon.m
+file
+
+
+
+
+2009-06-21T03:51:27.000000Z
+356d1dc479ab5b82f0f16f6c357a186a
+2009-03-30T17:20:30.207063Z
+70729
+ronald.oussoren
+
+build-installer.py
+file
+
+
+
+
+2009-06-21T03:51:27.000000Z
+dfc47eb8e3d24625478259aa4b993c74
+2009-05-26T21:18:59.528157Z
+72947
+ronald.oussoren
+has-props
+
+ncurses-5.5.patch
+file
+
+
+
+
+2009-06-21T03:51:27.000000Z
+12ca1aef4ec0d95cea9c3c48afbd8978
+2006-05-23T15:09:57.405555Z
+46113
+ronald.oussoren
+
+scripts
+dir
+
+resources
+dir
+
+README.txt
+file
+
+
+
+
+2009-06-21T03:51:27.000000Z
+a28e4eb63acb98c3a8995263d10d5d7f
+2009-03-30T19:39:14.597859Z
+70739
+ronald.oussoren
+has-props
+

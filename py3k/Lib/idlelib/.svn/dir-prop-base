@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 38
+*.pyc
+*.pyo
+Patches
+*.diff
+*.patch
+WN
+
+END

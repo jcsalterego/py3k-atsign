@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/65010/python/branches/py3k/Tools/faqwiz
+END
+faqconf.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Tools/faqwiz/faqconf.py
+END
+faqw.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/61003/python/branches/py3k/Tools/faqwiz/faqw.py
+END
+faqwiz.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/64479/python/branches/py3k/Tools/faqwiz/faqwiz.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/56849/python/branches/py3k/Tools/faqwiz/README
+END
+faqcust.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Tools/faqwiz/faqcust.py
+END
+move-faqwiz.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/65010/python/branches/py3k/Tools/faqwiz/move-faqwiz.sh
+END

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 92
+Setup
+Makefile.pre
+Setup.thread
+Setup.config
+Setup.local
+hassignal
+config.c
+Makefile
+add2lib
+END

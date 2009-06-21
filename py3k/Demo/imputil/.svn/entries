@@ -1,0 +1,41 @@
+8
+
+dir
+73458
+http://svn.python.org/projects/python/branches/py3k/Demo/imputil
+http://svn.python.org/projects
+
+
+
+2008-06-05T22:53:40.865978Z
+63966
+benjamin.peterson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6015fed2-1504-0410-9fe1-9d1591cc4771
+
+knee.py
+file
+
+
+
+
+2009-06-21T03:51:22.000000Z
+c447a4c2a7b494347d416759a0e09dcd
+2007-12-02T09:40:06.451997Z
+59268
+georg.brandl
+has-props
+
