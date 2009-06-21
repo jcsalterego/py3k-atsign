@@ -4,6 +4,21 @@ Abstract
     This PEP proposes the overloading of the '@' operator for use of
     the string formatting system introduced in Python 3000.
 
+Contents
+
+    This repository holds a subversion checkout of the latest Python
+    3000 trunk which is updated using the 'subversion' git branch.
+    Updates are then merged back to the 'master' git branch, to keep
+    official repository code changes from changes made for this PEP.
+
+    When/if appropriate, a simple 'svn diff' will create the necessary
+    patch needed for integration.
+
+Installation
+
+    $ cd py3k && ./configure && make
+    $ ./python.exe ../tests/simple.py
+
 Rationale
 
     The new string formatting system [1] introduced in Python 3000 and
@@ -32,3 +47,4 @@ Examples
 
     >>> "No, really a {}" @ ({"literal":"dictionary"}, {})
     "No, really a {'literal': 'dictionary'}"
+
