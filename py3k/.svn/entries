@@ -50,6 +50,9 @@ f3f4bb0a8374847d7bea077a0e20666b
 72901
 antoine.pitrou
 
+Python
+dir
+
 configure
 file
 
@@ -63,7 +66,7 @@ a66c83c71e4610c0b1e6c2b81b5f3122
 ronald.oussoren
 has-props
 
-Python
+PCbuild
 dir
 
 LICENSE
@@ -79,13 +82,13 @@ file
 georg.brandl
 has-props
 
-PCbuild
-dir
-
 Include
 dir
 
 Demo
+dir
+
+Grammar
 dir
 
 configure.in
@@ -100,9 +103,6 @@ file
 73307
 ronald.oussoren
 has-props
-
-Grammar
-dir
 
 setup.py
 file
